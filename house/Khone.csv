@@ -1,0 +1,3450 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price(USD),tartib
+63,1,1,1,1,Shahran,61666.67,1
+60,1,1,1,1,Shahran,61666.67,2
+79,2,1,1,1,Pardis,18333.33,3
+95,2,1,1,1,Shahrake Qods,30083.33,4
+123,2,1,1,1,Shahrake Gharb,233333.33,5
+70,2,1,1,0,North Program Organization,68333.33,6
+87,2,1,1,1,Pardis,20000,7
+59,1,1,1,1,Shahran,71666.67,8
+54,2,1,1,0,Andisheh,16433.33,9
+71,1,1,1,1,West Ferdows Boulevard,79000,10
+68,2,1,1,1,West Ferdows Boulevard,81666.67,11
+64,1,1,1,1,Narmak,70000,12
+54,1,0,1,1,Narmak,56333.33,13
+136,3,1,1,1,Saadat Abad,366666.67,14
+95,2,1,1,1,Zafar,166666.67,15
+63,1,0,1,0,Islamshahr,19000,16
+155,3,1,1,1,Narmak,223333.33,17
+64,2,0,1,0,Pirouzi,48333.33,18
+140,3,1,1,1,West Ferdows Boulevard,213333.33,19
+42,1,0,1,0,Pirouzi,46333.33,20
+93,2,1,1,1,Shahrake Gharb,233333.33,21
+87,2,1,1,1,Shahrake Shahid Bagheri,83333.33,22
+65,1,1,1,1,Shahran,62666.67,23
+99,2,1,1,1,Moniriyeh,75900,24
+105,2,1,1,1,Saadat Abad,238333.33,25
+160,3,1,1,1,Velenjak,498166.67,26
+77,2,1,1,1,Amirieh,59033.33,27
+123,2,1,1,1,Pirouzi,135300,28
+110,2,1,1,1,Southern Janatabad,21000,29
+100,2,1,1,1,West Ferdows Boulevard,106666.67,30
+90,2,0,1,0,Salsabil,50000,31
+49,1,1,1,1,West Ferdows Boulevard,73333.33,32
+96,2,1,1,1,Zargandeh,262400,33
+67,2,1,1,0,Feiz Garden,78333.33,34
+68,2,1,1,1,West Ferdows Boulevard,83333.33,35
+62,1,1,0,1,Water Organization,71666.67,36
+55,1,1,1,1,West Ferdows Boulevard,71666.67,37
+110,2,1,1,1,West Ferdows Boulevard,125000,38
+129,2,1,1,1,West Ferdows Boulevard,175000,39
+109,2,1,1,1,West Ferdows Boulevard,161000,40
+58,1,1,1,1,Saadat Abad,113333.33,41
+55,1,1,1,1,Saadat Abad,128333.33,42
+150,2,0,1,1,Shahrake Qods,40000,43
+130,3,1,1,0,ShahrAra,166666.67,45
+88,2,1,1,1,Gisha,158333.33,46
+51,1,1,1,1,Gisha,99333.33,47
+113,3,1,1,0,Shahrake Gharb,233333.33,48
+110,2,1,1,1,Ray,67833.33,49
+60,1,1,1,1,Abbasabad,82000,50
+98,2,1,1,1,Pardis,18000,51
+62,2,0,0,1,Ostad Moein,48333.33,52
+150,3,1,1,1,Farmanieh,333333.33,53
+75,2,0,0,0,Parand,21166.67,54
+61,1,1,1,0,Punak,67666.67,55
+61,1,1,1,0,Punak,67666.67,56
+72,2,1,1,1,Shahran,78333.33,57
+100,2,1,1,1,Qasr-od-Dasht,100000,58
+122,3,1,1,1,Aqdasieh,240000,59
+215,3,1,1,1,Pakdasht,58333.33,60
+101,2,1,1,1,Railway,110000,61
+67,2,1,1,1,Punak,93333.33,62
+72,2,1,1,0,Punak,73333.33,63
+63,1,1,1,0,Punak,73333.33,64
+75,2,1,1,0,Punak,73333.33,65
+109,2,1,1,1,Shahran,116666.67,66
+122,2,1,1,1,Aqdasieh,233333.33,67
+70,1,1,1,1,Central Janatabad,103333.33,68
+60,1,1,1,1,West Ferdows Boulevard,81666.67,69
+53,1,1,1,0,East Ferdows Boulevard,64000,70
+90,1,0,1,0,Pakdasht KhatunAbad,28333.33,71
+72,2,1,1,1,Amirieh,55000,72
+74,2,1,1,1,Amirieh,56666.67,73
+88,3,0,0,1,Parand,18666.67,74
+63,1,1,1,1,Punak,71666.67,75
+114,3,1,1,1,Sattarkhan,183333.33,76
+151,3,1,1,1,Saadat Abad,340000,77
+42,1,1,0,1,Shahran,58666.67,78
+74,2,1,1,1,Amirieh,56666.67,79
+88,3,0,0,1,Parand,18666.67,80
+63,1,1,1,1,Punak,71666.67,81
+114,3,1,1,1,Sattarkhan,183333.33,82
+151,3,1,1,1,Saadat Abad,340000,83
+42,1,1,0,1,Shahran,58666.67,84
+300,3,1,1,0,Baghestan,50000,85
+110,2,1,1,1,West Ferdows Boulevard,124333.33,86
+100,2,0,0,0,Shahrake Qods,20666.67,87
+140,1,0,0,0,Shahryar,19333.33,88
+70,2,1,1,1,Northern Janatabad,101666.67,89
+60,2,1,1,0,West Ferdows Boulevard,66666.67,90
+76,2,1,1,1,North Program Organization,86666.67,91
+148,3,1,1,1,Daryan No,199666.67,92
+75,2,1,1,1,North Program Organization,76666.67,93
+40,1,1,1,0,Pirouzi,43333.33,94
+65,2,1,1,1,Southern Program Organization,75666.67,95
+140,3,1,1,1,Rudhen,133333.33,96
+110,2,1,1,1,West Pars,133333.33,97
+70,2,1,0,1,Afsarieh,55000,98
+128,3,1,1,1,Marzdaran,223333.33,99
+94,2,1,1,1,Parand,19333.33,100
+67,1,1,1,1,Punak,76666.67,101
+75,1,1,1,1,Shahrake Qods,21666.67,102
+130,2,1,1,1,Dorous,563333.33,103
+40,0,0,0,0,Shahrake Qods,8266.67,104
+97,2,1,1,1,Pardis,17000,105
+110,2,1,1,1,Shahran,128333.33,106
+150,3,1,1,1,Sadeghieh,200000,107
+75,2,0,0,0,Chahardangeh,26000,108
+137,3,1,1,1,ShahrAra,240000,109
+85,2,1,1,1,Parand,13666.67,110
+68,2,0,1,0,Pakdasht,14333.33,111
+78,2,0,1,0,Baqershahr,26666.67,112
+85,2,1,1,1,Parand,18166.67,113
+100,2,1,1,0,Parand,42666.67,114
+71,2,1,1,1,Punak,93333.33,115
+140,3,1,1,1,Gisha,373333.33,116
+136,3,1,1,0,Parand,25000,117
+48,1,0,0,0,Jeyhoon,28333.33,118
+100,2,1,1,1,Lavizan,110000,119
+82,2,1,0,1,Shams Abad,109333.33,120
+120,3,1,1,1,Fatemi,160000,121
+139,3,1,1,1,Gisha,243333.33,122
+110,3,1,1,1,Keshavarz Boulevard,131666.67,123
+78,2,0,0,1,Parand,12333.33,124
+79,2,0,0,0,Baghestan,25000,125
+66,2,1,1,1,Salsabil,57500,126
+78,2,1,1,1,Kahrizak,26000,127
+85,2,1,1,1,Shahryar,47300,128
+100,2,1,1,0,Qarchak,40000,129
+80,2,1,1,1,Northren Jamalzadeh,120000,130
+44,1,1,1,0,Salsabil,35000,131
+120,2,1,1,0,Shahryar,40000,132
+50,1,0,1,0,Shahrake Qods,11333.33,133
+121,3,1,1,0,Ostad Moein,110000,134
+80,2,1,1,1,Azarbaijan,93333.33,135
+70,2,0,1,1,Bahar,40000,136
+160,1,0,0,0,Qarchak,120,137
+40,0,0,0,0,Pakdasht,5500,138
+88,2,1,1,1,Railway,95333.33,139
+141,3,1,1,1,Persian Gulf Martyrs Lake,127000,140
+140,3,1,1,1,Persian Gulf Martyrs Lake,59666.67,141
+120,2,1,1,1,Persian Gulf Martyrs Lake,51000,142
+66,2,0,1,0,Beryanak,33333.33,143
+70,2,1,1,1,Punak,116666.67,144
+75,2,1,0,1,Heshmatieh,100000,145
+70,2,0,1,1,Elm-o-Sanat,60000,146
+150,3,1,1,1,Saadat Abad,666666.67,147
+95,2,1,1,1,Golestan,31666.67,148
+127,2,1,1,1,Southern Janatabad,200000,149
+123,3,1,1,1,Shahr-e-Ziba,123333.33,150
+63,2,1,1,1,Southern Janatabad,66666.67,151
+90,2,1,1,1,Punak,101666.67,152
+105,2,1,1,1,Pardis,20166.67,153
+180,3,1,1,1,Pasdaran,330000,154
+120,3,1,0,1,Pirouzi,123333.33,155
+65,2,1,1,1,Feiz Garden,83333.33,156
+158,3,1,1,1,Farmanieh,349333.33,157
+144,3,1,1,1,Chardivari,254400,158
+144,3,1,1,1,Punak,254400,159
+130,3,1,1,1,Gheitarieh,410000,160
+245,3,1,1,1,Farmanieh,898333.33,161
+190,3,1,1,1,Kamranieh,810000,162
+63,2,1,1,1,Central Janatabad,100000,163
+75,2,1,1,1,East Ferdows Boulevard,70000,164
+88,2,1,0,1,Gholhak,156666.67,165
+108,2,1,1,1,Pasdaran,306000,166
+117,2,1,1,1,Islamshahr,52650,167
+200,3,1,1,1,Pasdaran,400000,168
+65,1,1,1,0,Pirouzi,58333.33,169
+90,2,1,1,1,Central Janatabad,126000,170
+125,2,1,1,1,Heravi,270000,171
+140,3,1,1,1,Heravi,303333.33,172
+71,2,0,1,1,Hashemi,51666.67,173
+71,2,0,1,1,Jeyhoon,54666.67,174
+236,4,1,1,1,Gheitarieh,666666.67,175
+67,2,1,1,1,Central Janatabad,91666.67,176
+60,1,1,1,1,Punak,58333.33,177
+220,3,1,1,1,Heravi,513333.33,178
+44,1,1,1,0,Andisheh,11666.67,179
+68,1,1,1,1,Heravi,137166.67,180
+100,2,1,1,1,Pasdaran,266666.67,181
+86,2,1,1,1,Pardis,19333.33,182
+84,2,1,1,1,Pardis,18666.67,183
+94,2,1,1,1,Heravi,160000,184
+55,1,0,1,0,West Ferdows Boulevard,51666.67,185
+113,2,1,1,1,Saadat Abad,250000,186
+71,2,1,1,1,Islamshahr,21000,187
+70,2,1,1,0,Dehkade Olampic,66666.67,188
+200,3,1,1,1,Golestan,80000,189
+106,2,1,1,1,Golestan,36666.67,190
+320,4,1,1,1,Saadat Abad,800000,191
+114,2,1,1,1,West Pars,127333.33,192
+100,2,1,1,1,Punak,200000,193
+122,2,1,1,1,Saadat Abad,193333.33,194
+200,2,1,1,0,Damavand,116666.67,195
+154,3,1,1,1,Saadat Abad,410000,196
+210,3,1,1,1,Pasdaran,525000,197
+200,3,1,1,1,East Ferdows Boulevard,366666.67,198
+65,1,1,1,1,Southern Janatabad,100000,199
+124,3,1,1,1,Pirouzi,132266.67,200
+83,2,1,1,1,Republic,63633.33,201
+270,4,1,1,1,Farmanieh,1260000,202
+104,2,1,1,1,East Ferdows Boulevard,190000,203
+150,3,1,1,1,Zaferanieh,349666.67,204
+103,3,1,1,1,West Ferdows Boulevard,106666.67,205
+48,1,1,1,1,West Ferdows Boulevard,64000,206
+165,3,1,1,1,Gheitarieh,410000,207
+135,2,1,1,0,Gheitarieh,246666.67,208
+86,2,1,1,1,Saadat Abad,206666.67,209
+75,2,1,1,1,East Ferdows Boulevard,78333.33,210
+58,1,1,1,1,East Ferdows Boulevard,61666.67,211
+125,2,1,1,1,Shahrake Gharb,716666.67,212
+82,2,1,1,1,Qazvin Imamzadeh Hassan,62866.67,213
+58,2,1,1,1,Shahran,73333.33,214
+101,2,1,1,1,Beryanak,77433.33,215
+90,2,1,1,1,Niavaran,226666.67,216
+180,3,1,1,1,Farmanieh,690000,217
+132,3,1,1,1,Gheitarieh,208333.33,218
+81,2,1,1,1,Valiasr,62100,219
+153,3,1,1,1,Pasdaran,433333.33,220
+166,3,1,1,1,Qalandari,416666.67,221
+200,3,1,1,1,Pasdaran,566666.67,222
+113,2,1,1,1,Pasdaran,283333.33,223
+100,2,1,1,1,Valiasr,76666.67,224
+80,2,1,1,1,Central Janatabad,111666.67,225
+76,2,1,1,1,Jeyhoon,66666.67,226
+128,3,1,1,1,Punak,190000,227
+210,3,1,1,1,Shahrake Gharb,900000,228
+140,2,1,1,1,Shahrake Gharb,420000,229
+74,2,1,1,1,Amir Bahador,56733.33,230
+75,1,1,1,1,Central Janatabad,100000,231
+120,2,1,1,1,Pasdaran,250000,232
+120,2,1,1,1,Pasdaran,250000,233
+85,2,1,1,1,Ekhtiarieh,166666.67,234
+105,2,1,1,1,Pardis,23333.33,235
+175,3,1,1,1,Farmanieh,520000,236
+170,3,1,1,1,Farmanieh,511666.67,237
+58,1,1,1,1,Ekbatan,93666.67,238
+75,2,1,1,1,Parand,13166.67,239
+160,3,1,1,1,Gheitarieh,503333.33,240
+62,1,1,1,1,Shahran,61666.67,241
+93,2,1,1,1,Rudhen,48333.33,242
+75,2,1,1,1,Islamshahr,23833.33,243
+86,2,1,1,0,Islamshahr,40000,244
+120,2,1,1,1,Southern Program Organization,142000,245
+95,2,1,1,1,Andisheh,50000,246
+70,2,1,1,0,West Ferdows Boulevard,70666.67,247
+75,2,1,1,0,East Ferdows Boulevard,66666.67,248
+81,2,1,0,1,Pardis,19666.67,249
+65,1,1,1,0,West Ferdows Boulevard,64333.33,250
+75,2,1,1,1,East Ferdows Boulevard,91000,251
+106,2,1,1,0,East Ferdows Boulevard,105000,252
+115,2,1,1,1,East Ferdows Boulevard,153333.33,253
+100,2,1,1,1,Shahr-e-Ziba,100000,254
+118,2,1,1,1,East Ferdows Boulevard,150000,255
+116,2,1,1,1,East Ferdows Boulevard,170000,256
+76,2,1,1,1,Shahr-e-Ziba,73333.33,257
+74,2,1,1,0,East Ferdows Boulevard,76666.67,258
+96,2,1,1,1,Saadat Abad,150000,259
+87,2,1,1,1,Pardis,20833.33,260
+43,1,1,1,0,Northern Janatabad,54000,261
+155,3,1,1,1,Niavaran,568333.33,262
+53,1,1,1,1,East Ferdows Boulevard,64000,263
+160,3,1,1,1,Farmanieh,586666.67,264
+78,2,1,1,1,Shahr-e-Ziba,75000,265
+230,3,1,1,1,Niavaran,843333.33,266
+55,1,1,1,1,West Ferdows Boulevard,61666.67,267
+120,2,1,1,0,Saadat Abad,390000,268
+78,2,1,1,1,Southern Janatabad,120000,269
+95,2,1,1,1,Southern Janatabad,146666.67,270
+170,3,1,1,1,Gheitarieh,513333.33,271
+175,3,1,1,1,Shahrake Gharb,758333.33,272
+115,3,1,1,1,Punak,150000,273
+113,2,1,1,1,Punak,143333.33,274
+85,2,1,1,1,Punak,112666.67,275
+140,3,1,1,1,Saadat Abad,333333.33,276
+90,2,1,1,1,Saadat Abad,216666.67,277
+63,1,1,0,0,Punak,73333.33,278
+75,2,1,1,1,Central Janatabad,107333.33,279
+130,3,1,1,1,Punak,208000,280
+91,2,1,1,1,Punak,111666.67,281
+121,3,1,1,1,Persian Gulf Martyrs Lake,121666.67,282
+140,3,1,1,1,Saadat Abad,516666.67,283
+126,2,1,1,1,East Ferdows Boulevard,183333.33,284
+450,2,1,1,0,Absard,140000,285
+500,2,1,1,0,Absard,130000,286
+110,1,1,1,1,Pasdaran,220000,287
+145,3,1,1,1,Haft Tir,156666.67,288
+81,2,1,1,1,Shahrake Qods,27000,289
+64,2,1,1,1,Shahr-e-Ziba,73333.33,290
+112,2,1,1,1,Shahr-e-Ziba,122666.67,291
+192,3,1,1,1,Marzdaran,422333.33,292
+164,3,1,1,1,Marzdaran,333333.33,293
+135,3,1,1,1,Pasdaran,270000,294
+170,3,1,1,1,Mahallati,306666.67,295
+130,3,1,1,1,Mahallati,173333.33,296
+84,2,1,1,1,Shahran,113333.33,297
+82,2,1,1,1,Shahran,118333.33,298
+265,3,1,1,1,Farmanieh,666666.67,299
+60,1,1,1,1,Southern Janatabad,65000,300
+145,3,1,1,1,Pasdaran,516666.67,301
+65,1,0,1,1,Southern Janatabad,66666.67,302
+60,1,1,1,0,Southern Janatabad,76000,303
+63,2,1,1,1,Southern Janatabad,66666.67,304
+70,2,1,1,1,Southern Janatabad,65000,305
+92,2,1,1,1,Feiz Garden,130000,306
+98,2,1,1,1,Pasdaran,260000,307
+62,1,1,1,1,Southern Janatabad,76000,308
+65,1,1,1,1,Punak,96666.67,309
+90,2,1,1,1,Ozgol,166666.67,310
+59,2,1,1,1,Southern Janatabad,63333.33,311
+63,2,1,1,1,Southern Janatabad,66666.67,312
+60,2,1,1,1,Southern Janatabad,73333.33,313
+70,2,1,1,1,Southern Janatabad,83333.33,314
+60,1,1,1,1,Southern Janatabad,73333.33,315
+165,3,1,1,1,Pasdaran,350000,316
+135,2,1,1,1,Zaferanieh,583333.33,317
+65,1,1,1,1,Southern Janatabad,66666.67,318
+60,1,1,1,1,Southern Janatabad,75000,319
+60,1,1,1,1,Southern Janatabad,75000,320
+86,2,1,1,1,Southern Janatabad,120000,321
+109,2,1,1,1,Heravi,200000,322
+98,2,1,1,0,Narmak,94733.33,323
+80,2,1,1,1,Central Janatabad,104000,324
+143,3,1,1,1,Gheitarieh,295333.33,325
+95,2,1,1,1,Saadat Abad,151666.67,326
+86,2,1,1,1,Punak,123333.33,327
+160,3,1,1,1,Gheitarieh,333333.33,328
+200,3,1,1,1,Pasdaran,552666.67,329
+74,1,1,1,1,Punak,108333.33,330
+350,3,1,1,1,Zaferanieh,1750000,331
+87,2,1,1,1,Northern Janatabad,118333.33,332
+82,2,1,1,1,West Ferdows Boulevard,115000,333
+55,1,1,1,1,Shahr-e-Ziba,83000,334
+148,3,1,1,1,Ekhtiarieh,280000,335
+55,1,1,0,1,Shahr-e-Ziba,67333.33,336
+100,2,1,1,0,Southern Janatabad,126666.67,337
+55,1,0,1,0,West Ferdows Boulevard,51666.67,338
+130,3,1,1,1,Central Janatabad,176666.67,339
+335,4,1,1,1,Saadat Abad,1116666.67,340
+320,4,1,1,1,Saadat Abad,1333333.33,341
+192,3,1,1,1,Saadat Abad,650000,342
+100,2,1,1,1,Gheitarieh,266666.67,343
+148,3,1,1,1,Saadat Abad,493333.33,344
+145,2,1,1,1,Shahrake Gharb,490000,345
+192,4,1,1,1,Saadat Abad,733333.33,346
+235,3,1,1,1,North Program Organization,548333.33,347
+225,3,1,1,1,Heravi,525000,348
+221,4,1,1,1,Saadat Abad,833333.33,349
+312,4,1,1,1,Farmanieh,1500000,350
+188,3,1,1,1,Ozgol,589066.67,351
+170,2,1,1,1,Farmanieh,413333.33,352
+198,3,1,1,1,Farmanieh,924000,353
+80,2,1,1,1,North Program Organization,103333.33,354
+170,3,1,1,1,Niavaran,623333.33,355
+110,2,1,1,1,Tajrish,220000,356
+650,2,1,1,0,Absard,173333.33,357
+200,3,1,1,1,Saadat Abad,400000,358
+101,3,1,1,1,Ekhtiarieh,216666.67,359
+104,2,1,1,1,Feiz Garden,128333.33,360
+70,2,1,1,1,Northern Janatabad,106666.67,361
+76,2,1,1,0,Shahr-e-Ziba,85666.67,362
+110,2,1,1,1,Feiz Garden,143333.33,363
+160,2,1,1,1,Pasdaran,540000,364
+179,3,1,1,1,Dorous,460000,365
+256,3,1,1,1,Dorous,616666.67,366
+90,2,1,1,1,Feiz Garden,128333.33,367
+77,2,1,1,1,Shahr-e-Ziba,85666.67,368
+96,2,1,1,1,Pasdaran,186666.67,369
+75,1,1,1,1,Central Janatabad,108333.33,370
+79,2,1,1,1,Abazar,100000,371
+67,1,1,1,1,Saadat Abad,113333.33,372
+125,2,1,1,1,Shahr-e-Ziba,213333.33,373
+75,2,1,1,0,Shahr-e-Ziba,63000,374
+75,2,1,1,0,Shahr-e-Ziba,63000,375
+91,2,1,1,1,Saadat Abad,180000,376
+105,2,1,1,1,Parand,47250,377
+66,2,1,1,1,Ostad Moein,52833.33,378
+86,2,1,1,1,Southern Janatabad,109000,379
+72,2,1,1,0,Northern Janatabad,79333.33,380
+148,2,1,0,1,Koohsar,150000,381
+84,2,1,1,1,Saadat Abad,153333.33,382
+128,2,1,1,1,Niavaran,426666.67,383
+65,1,1,1,1,West Ferdows Boulevard,130000,384
+140,3,1,1,1,Pasdaran,393333.33,385
+115,2,1,1,1,Ekhtiarieh,246666.67,386
+105,2,1,1,1,Saadat Abad,190000,387
+87,2,1,1,1,Pardis,21666.67,388
+75,2,1,1,0,Shahr-e-Ziba,63000,389
+60,1,1,1,1,Persian Gulf Martyrs Lake,29166.67,390
+68,1,1,1,1,Southern Program Organization,87666.67,391
+49,1,1,1,1,West Ferdows Boulevard,73333.33,392
+103,2,1,1,1,Hekmat,309000,393
+55,1,1,1,1,West Ferdows Boulevard,73333.33,394
+140,3,1,1,1,Punak,256666.67,395
+257,4,1,1,1,Persian Gulf Martyrs Lake,428333.33,396
+82,2,1,1,1,Punak,133933.33,397
+167,3,1,1,1,Punak,356266.67,398
+53,1,0,1,0,West Ferdows Boulevard,54666.67,399
+51,1,0,1,0,West Ferdows Boulevard,51666.67,400
+54,1,1,1,0,West Ferdows Boulevard,71000,401
+82,2,1,1,1,Sattarkhan,136666.67,402
+75,2,1,1,1,West Ferdows Boulevard,93333.33,403
+98,2,1,1,1,West Ferdows Boulevard,150666.67,404
+75,2,1,1,0,Shahr-e-Ziba,63000,405
+70,1,1,1,1,Niavaran,186666.67,406
+75,2,1,1,0,Shahr-e-Ziba,63000,407
+64,1,1,1,1,Ekbatan,123333.33,408
+85,2,1,1,1,Jeyhoon,70000,409
+48,1,0,1,0,Parastar,32666.67,410
+75,2,1,1,0,Shahr-e-Ziba,63000,411
+246,3,1,1,1,Ekhtiarieh,750000,412
+168,3,1,1,1,Gheitarieh,466666.67,413
+280,4,1,1,1,Saadat Abad,1283333.33,414
+75,2,1,1,0,Shahr-e-Ziba,63000,415
+84,2,1,1,1,Pardis,22666.67,416
+75,2,1,1,0,Shahr-e-Ziba,63000,417
+108,2,1,1,1,Gisha,172666.67,418
+62,1,1,1,1,Shahr-e-Ziba,86000,419
+70,2,1,1,1,Southern Janatabad,112333.33,420
+180,3,1,1,1,Pasdaran,330000,421
+135,3,1,1,1,Abazar,216000,422
+75,2,1,1,0,Shahr-e-Ziba,63000,423
+108,2,1,1,1,Farmanieh,206666.67,424
+91,2,1,1,1,Ekhtiarieh,172666.67,425
+120,2,1,1,1,Gheitarieh,296666.67,426
+112,2,1,1,0,Gheitarieh,250000,427
+75,2,1,1,0,Shahr-e-Ziba,63000,428
+123,2,1,1,1,Pirouzi,135300,429
+69,2,1,1,1,Pirouzi,60000,430
+400,5,1,1,0,Lavasan,2833333.33,431
+660,5,1,1,0,Lavasan,1833333.33,432
+66,1,1,0,1,Pirouzi,61666.67,433
+80,2,1,1,1,Ostad Moein,71666.67,434
+44,1,1,1,0,Pirouzi,29333.33,435
+180,3,1,1,1,East Ferdows Boulevard,312000,436
+164,3,1,1,1,East Ferdows Boulevard,328000,437
+213,3,1,1,1,East Ferdows Boulevard,482800,438
+100,2,1,1,1,Shahr-e-Ziba,113333.33,439
+75,2,1,1,0,Shahr-e-Ziba,63000,440
+300,3,1,1,1,Niavaran,1850000,441
+126,3,1,1,1,Ostad Moein,100000,442
+85,2,1,1,1,Majidieh,83333.33,443
+75,2,1,1,0,Shahr-e-Ziba,63000,444
+57,1,0,1,1,Parastar,42333.33,445
+61,1,0,1,0,Shahr-e-Ziba,66333.33,446
+79,2,1,1,1,Jeyhoon,60566.67,447
+68,1,1,1,1,Pirouzi,81666.67,448
+105,2,1,1,1,Pardis,33333.33,449
+105,2,1,1,1,Saadat Abad,256666.67,450
+160,2,1,1,1,Pardis,64333.33,451
+100,2,1,1,1,Pardis,19500,452
+125,3,1,1,1,Saadat Abad,416666.67,453
+94,2,1,0,1,Pardis,33000,454
+80,2,0,1,0,Northern Janatabad,73333.33,455
+75,2,1,0,1,Parastar,76666.67,456
+99,3,1,1,1,North Program Organization,139666.67,457
+90,2,1,1,1,Shahr-e-Ziba,136633.33,458
+129,3,1,1,1,Shahr-e-Ziba,150000,459
+245,3,1,1,1,Aqdasieh,1216666.67,460
+102,2,1,1,0,Parastar,67666.67,461
+141,3,1,1,1,Pakdasht,40833.33,462
+96,2,1,1,1,Shahr-e-Ziba,128000,463
+155,3,1,1,1,Heravi,286666.67,464
+300,3,1,1,1,Farmanieh,1850000,465
+87,2,1,1,1,Gheitarieh,208800,466
+87,2,1,1,1,Gheitarieh,208800,467
+105,2,1,1,1,Gheitarieh,206666.67,468
+61,1,1,1,1,Shahran,61666.67,469
+88,2,1,1,1,East Ferdows Boulevard,123333.33,470
+101,2,1,1,1,West Ferdows Boulevard,123333.33,471
+160,2,1,1,1,Pardis,64333.33,472
+130,2,1,1,1,Southern Chitgar,108333.33,473
+150,3,1,1,1,Karimkhan,260000,474
+144,2,1,1,1,Railway,220000,475
+91,2,1,1,1,Southern Janatabad,150000,476
+68,2,1,1,1,West Ferdows Boulevard,73333.33,477
+133,3,1,1,1,Rudhen,75333.33,478
+71,2,1,1,1,Si Metri Ji,54433.33,479
+64,1,1,1,1,Pardis,22666.67,480
+132,2,1,1,1,Rudhen,74800,481
+95,2,1,1,1,Abazar,186666.67,482
+95,2,1,1,1,Abazar,150000,483
+102,2,1,1,1,Abazar,173333.33,484
+120,2,1,1,1,Abazar,208333.33,485
+117,3,1,1,1,East Ferdows Boulevard,153333.33,486
+55,1,1,1,1,Karoon,52333.33,487
+60,1,1,1,1,Northern Chitgar,9833.33,488
+85,2,1,1,1,Jeyhoon,63333.33,489
+80,2,0,1,1,Jeyhoon,58333.33,490
+54,1,1,1,1,Jeyhoon,50000,491
+57,1,1,1,1,Feiz Garden,62666.67,492
+101,2,1,0,1,Pirouzi,104333.33,493
+65,2,1,1,0,Feiz Garden,65333.33,494
+91,2,1,1,1,Punak,107666.67,495
+105,2,1,1,1,Pardis,23000,496
+86,2,1,1,1,Central Janatabad,116000,497
+200,3,1,1,1,Farmanieh,1166666.67,498
+87,2,1,1,1,Pardis,25333.33,499
+103,2,1,1,1,Shahran,118333.33,500
+81,2,1,1,1,East Pars,96390,501
+73,2,1,1,1,Feiz Garden,86666.67,502
+90,2,1,1,1,Northern Chitgar,15166.67,503
+134,3,1,1,1,Andisheh,53333.33,504
+60,1,1,1,1,Shahran,61666.67,505
+51,1,1,1,0,Shahran,67333.33,506
+108,2,1,1,0,Pardis,43333.33,507
+86,2,1,1,1,Pardis,20333.33,508
+110,2,1,1,0,Pardis,62333.33,509
+88,2,1,1,1,Pardis,24666.67,510
+85,2,1,1,1,Pardis,26000,511
+100,2,1,1,1,Pirouzi,100000,512
+87,2,1,1,1,Pardis,23833.33,513
+191,3,1,1,1,Farmanieh,604833.33,514
+91,2,1,1,1,Salsabil,69766.67,515
+282,3,1,1,1,Farmanieh,1222000,516
+282,2,1,1,1,Niavaran,1000000,517
+210,3,1,1,1,Farmanieh,770000,518
+87,2,1,1,1,Pardis,21666.67,519
+170,2,1,1,1,Kook,238000,520
+89,2,1,1,1,Moniriyeh,68233.33,521
+64,2,1,1,1,Saadat Abad,106666.67,522
+89,2,1,1,1,Northern Janatabad,103333.33,523
+135,3,1,1,1,Zaferanieh,393333.33,524
+75,2,0,0,0,Air force,55000,525
+105,2,1,1,1,Air force,133000,526
+320,4,1,1,1,Saadat Abad,1333333.33,527
+111,2,1,1,1,Saadat Abad,226666.67,528
+133,3,1,1,1,Sohanak,248266.67,529
+65,1,1,1,0,Saadat Abad,108333.33,530
+65,1,0,1,1,Lavizan,88333.33,531
+112,2,1,1,1,Gheitarieh,273333.33,532
+147,3,1,1,1,Ekhtiarieh,280000,533
+150,3,1,1,1,Saadat Abad,400000,534
+67,1,1,1,1,Southern Janatabad,115000,535
+220,3,1,1,1,Ekhtiarieh,500000,536
+66,2,1,1,1,Narmak,83666.67,537
+75,2,1,1,0,Shahr-e-Ziba,62666.67,538
+180,3,1,1,1,Aqdasieh,420000,539
+103,2,1,1,1,Saadat Abad,173333.33,540
+68,1,1,1,1,West Ferdows Boulevard,119000,541
+115,2,1,1,1,Pasdaran,366666.67,542
+115,2,1,1,1,Andisheh,63333.33,543
+150,3,1,1,1,Narmak,280000,544
+78,2,1,1,1,Qasr-od-Dasht,66666.67,545
+100,2,1,1,1,Persian Gulf Martyrs Lake,33333.33,546
+58,1,1,1,1,Punak,88333.33,547
+90,2,1,1,1,Punak,140000,548
+235,3,1,1,1,Gheitarieh,800000,549
+48,1,1,1,1,Punak,75000,550
+70,2,1,1,1,Punak,93333.33,551
+86,2,1,1,1,Punak,140000,552
+79,2,1,1,1,Pardis,18333.33,553
+88,2,1,1,1,Central Janatabad,120000,554
+145,3,1,1,1,Qalandari,433333.33,555
+64,2,1,1,0,Jeyhoon,50000,556
+135,3,1,1,1,Saadat Abad,382500,557
+50,1,0,1,0,Pirouzi,42000,558
+87,2,1,1,1,Pardis,18000,559
+84,2,1,1,1,Pardis,18333.33,560
+300,4,1,1,1,Zaferanieh,1400000,561
+137,3,1,1,1,Zaferanieh,333333.33,562
+105,2,1,1,1,Velenjak,316666.67,563
+145,2,1,1,1,Zaferanieh,366666.67,564
+84,2,1,1,1,Pardis,18666.67,565
+170,2,1,1,1,Zaferanieh,1066666.67,566
+157,3,1,1,1,Zaferanieh,493333.33,567
+170,3,1,1,1,Zaferanieh,633333.33,568
+283,3,1,1,1,Zaferanieh,990000,569
+84,2,1,1,1,Pardis,18000,570
+84,2,1,1,1,Pardis,18333.33,572
+80,2,1,1,0,Northern Janatabad,108333.33,573
+863,2,1,1,1,Gheitarieh,261000,574
+125,2,1,1,1,Kamranieh,290000,575
+65,2,1,1,1,Punak,78333.33,576
+105,2,1,1,1,Southern Janatabad,176666.67,577
+170,3,1,1,1,Farmanieh,623333.33,578
+230,3,1,1,1,Ekhtiarieh,643333.33,579
+200,3,1,1,1,Pasdaran,733333.33,580
+150,3,1,1,1,Pasdaran,433333.33,581
+93,2,1,1,1,Central Janatabad,155000,582
+110,2,1,1,1,Central Janatabad,150000,583
+415,5,1,1,1,Niavaran,1798333.33,584
+95,2,1,1,1,Saadat Abad,190000,585
+128,3,1,1,1,Ekhtiarieh,298666.67,586
+140,2,1,1,1,Saadat Abad,280000,587
+86,2,1,1,1,Southern Janatabad,106666.67,588
+70,2,1,1,1,Saadat Abad,130000,589
+173,3,1,1,1,East Ferdows Boulevard,317166.67,590
+72,2,1,1,1,Southern Janatabad,105000,591
+73,2,1,1,1,Saadat Abad,130000,592
+75,1,1,1,1,Central Janatabad,106666.67,593
+67,2,1,1,1,West Ferdows Boulevard,73333.33,594
+68,2,1,1,1,East Ferdows Boulevard,90000,595
+88,2,1,1,1,Pardis,63333.33,596
+111,2,1,1,1,Saadat Abad,188700,597
+98,2,1,1,0,West Ferdows Boulevard,125000,598
+62,2,1,1,1,West Ferdows Boulevard,91666.67,599
+80,2,1,1,1,Central Janatabad,141333.33,600
+200,4,1,1,1,Saadat Abad,500000,601
+210,4,1,1,1,Saadat Abad,516666.67,602
+162,3,1,1,1,Shahrake Gharb,405000,603
+150,3,1,1,1,Ekhtiarieh,400000,604
+82,2,1,1,1,Pardis,36666.67,605
+130,3,1,1,1,Pasdaran,370000,606
+76,2,1,1,1,Saadat Abad,133333.33,607
+96,2,1,1,1,Shahrake Gharb,160000,608
+103,2,1,1,1,Saadat Abad,173333.33,609
+135,3,1,0,1,Saadat Abad,290000,610
+140,2,1,1,1,Shahrake Gharb,420000,611
+165,3,1,1,1,Shahrake Gharb,493333.33,612
+120,2,1,1,1,Shahrake Qods,35000,613
+160,2,1,1,1,Pardis,66666.67,614
+150,3,1,1,1,Gheitarieh,300000,615
+51,1,0,1,1,Pirouzi,43333.33,616
+75,1,1,1,1,Ekhtiarieh,130000,617
+180,3,1,1,1,East Ferdows Boulevard,330000,618
+93,2,1,1,1,Shahrake Qods,39370,619
+84,2,1,1,1,Shahrake Qods,38360,620
+92,2,0,1,1,Shahrake Qods,33733.33,621
+105,2,1,1,1,Shahrake Qods,45500,622
+67,2,1,1,0,Central Janatabad,80000,623
+100,2,1,1,1,Ekhtiarieh,183333.33,624
+170,3,1,1,1,Pasdaran,360000,625
+162,3,1,1,1,Pasdaran,253333.33,626
+43,1,1,1,1,Shahran,69333.33,627
+150,3,1,1,1,Gheitarieh,416666.67,628
+245,3,1,1,1,Farmanieh,735000,629
+93,2,1,1,1,Northern Janatabad,138000,630
+60,1,1,1,1,Persian Gulf Martyrs Lake,9833.33,631
+128,3,1,1,1,Gheitarieh,310000,632
+87,2,1,1,1,Pardis,26500,633
+100,2,1,1,1,Heravi,183333.33,634
+124,2,1,1,1,Heravi,234666.67,635
+156,3,1,1,1,Abazar,313333.33,636
+171,3,1,1,1,Gheitarieh,466666.67,637
+58,2,1,1,0,Central Janatabad,69333.33,638
+88,2,1,1,1,Amirieh,67466.67,639
+190,3,1,1,1,Niavaran,823333.33,640
+61,1,1,1,0,Central Janatabad,72666.67,641
+165,3,1,1,1,Niavaran,573333.33,642
+235,3,1,1,1,Gheitarieh,883333.33,643
+87,2,1,1,1,Pardis,22333.33,644
+121,3,1,1,1,Pardis,21000,645
+105,2,1,1,1,Pardis,31833.33,646
+100,3,1,1,1,Pardis,16666.67,647
+105,2,1,1,1,Pardis,32666.67,648
+69,2,1,1,1,Shahr-e-Ziba,68333.33,649
+115,2,1,1,1,Shahrake Gharb,433333.33,650
+157,3,1,1,1,Shahrake Gharb,616666.67,651
+145,3,1,1,1,Heravi,251366.67,652
+160,3,1,1,1,Velenjak,356666.67,653
+261,4,1,1,1,Zaferanieh,866666.67,654
+145,3,1,1,1,Zaferanieh,366666.67,655
+51,1,0,1,1,Pirouzi,42500,656
+87,2,1,1,1,Pardis,16333.33,657
+116,2,1,1,1,Dehkade Olampic,145000,658
+95,2,1,1,1,Jeyhoon,76000,659
+75,2,1,1,1,Jeyhoon,75000,660
+86,2,1,1,1,Komeil,65933.33,661
+95,2,1,1,1,Punak,140000,662
+88,2,1,1,1,Valiasr,67466.67,664
+93,2,1,1,1,Amir Bahador,71300,665
+70,2,1,1,1,Amirieh,54333.33,666
+140,3,1,1,1,Saadat Abad,326666.67,667
+81,2,1,1,1,Central Janatabad,133333.33,668
+109,2,1,1,1,Shahran,116666.67,669
+122,2,1,1,1,Aqdasieh,233333.33,670
+70,1,1,1,1,Central Janatabad,103333.33,671
+60,1,1,1,1,West Ferdows Boulevard,81666.67,672
+53,1,1,1,0,East Ferdows Boulevard,64000,673
+45,1,0,0,0,Ostad Moein,40000,674
+58,1,1,1,0,Punak,63333.33,675
+140,3,1,1,1,Dehkade Olampic,146666.67,676
+100,2,1,1,1,Kook,119333.33,677
+96,2,1,1,1,Azadshahr,125000,678
+79,2,1,1,1,East Ferdows Boulevard,95000,679
+125,3,1,1,1,Persian Gulf Martyrs Lake,125000,680
+75,2,1,1,1,Northern Janatabad,101666.67,681
+145,2,1,1,1,Azadshahr,150000,682
+102,2,1,1,0,Railway,150666.67,683
+115,2,1,1,1,Zibadasht,145000,684
+140,3,1,1,1,Persian Gulf Martyrs Lake,283333.33,685
+66,1,1,1,1,Punak,110000,686
+161,3,1,1,1,Persian Gulf Martyrs Lake,278333.33,687
+102,2,1,1,1,Persian Gulf Martyrs Lake,150000,688
+145,4,1,1,1,Persian Gulf Martyrs Lake,170000,689
+95,2,1,1,1,Shahr-e-Ziba,99000,690
+78,2,1,1,1,Parand,15333.33,691
+90,2,1,1,1,East Ferdows Boulevard,105000,692
+66,1,1,1,0,Ostad Moein,36333.33,693
+48,1,1,1,1,Jeyhoon,27000,694
+85,2,1,1,1,Shahran,106666.67,695
+63,1,1,1,1,Salsabil,66666.67,696
+105,2,1,1,1,Dehkade Olampic,34500,697
+55,1,1,1,0,Komeil,36333.33,698
+103,2,1,1,1,Northern Chitgar,34500,699
+155,3,1,1,1,Shahrake Gharb,333333.33,700
+101,2,1,1,1,Southern Chitgar,34500,701
+106,2,1,1,0,Islamshahr,41500,702
+100,2,1,1,1,Persian Gulf Martyrs Lake,34500,703
+77,2,1,1,1,Shahran,88333.33,704
+66,2,1,1,1,Central Janatabad,90000,705
+105,3,1,1,1,Shahr-e-Ziba,120000,706
+118,2,1,1,1,Shahran,130000,708
+151,3,1,1,1,Shahrake Qods,50333.33,709
+86,2,1,1,1,Pardis,16666.67,711
+85,2,1,1,1,Pardis,20000,712
+86,2,1,1,1,Pardis,25000,713
+86,2,1,1,1,Pardis,20000,714
+75,2,1,1,1,Central Janatabad,110000,715
+200,3,1,1,1,Farmanieh,666666.67,716
+46,1,1,1,0,Andisheh,15000,717
+98,2,1,1,1,Pardis,19000,718
+90,2,1,1,1,Zaferanieh,223333.33,719
+70,2,1,1,1,Southern Janatabad,98333.33,720
+40,1,1,1,1,Andisheh,11666.67,721
+58,1,1,1,1,North Program Organization,91666.67,722
+90,2,1,1,1,Amirabad,153000,723
+78,2,1,1,1,East Ferdows Boulevard,110000,724
+200,3,1,1,1,Niavaran,666666.67,725
+82,2,1,1,1,Dorous,140000,726
+115,3,1,1,1,Gheitarieh,249500,727
+125,2,1,1,1,Dezashib,375000,728
+107,2,1,1,1,Pasdaran,306666.67,729
+55,1,0,1,0,Karoon,28333.33,730
+50,1,1,1,1,Salsabil,50000,731
+75,2,1,1,1,Pardis,2000,732
+420,5,1,1,0,Andisheh,366666.67,733
+225,4,1,1,0,Andisheh,183333.33,734
+230,3,1,1,1,Heravi,460000,735
+147,3,1,1,1,Elahieh,383333.33,736
+97,2,1,1,1,Pardis,30000,737
+145,3,1,1,1,Dezashib,410000,738
+50,1,1,1,0,Narmak,58333.33,739
+117,2,1,1,1,Heravi,203333.33,740
+72,1,1,1,0,Andisheh,24333.33,741
+161,3,1,1,1,Dorous,433333.33,742
+400,5,1,1,1,Ekhtiarieh,616666.67,743
+230,3,1,1,1,Farmanieh,766666.67,744
+170,3,1,1,1,Heravi,265000,745
+58,1,1,1,1,West Ferdows Boulevard,68333.33,746
+57,1,1,1,1,Shahran,65000,747
+115,3,1,1,1,Farmanieh,270000,748
+50,1,1,1,1,Pirouzi,40000,749
+84,2,1,1,0,Parand,28333.33,750
+78,2,0,1,0,Shahrake Qods,19333.33,751
+64,2,1,1,0,Andisheh,32000,752
+113,2,1,1,1,Punak,216666.67,753
+175,3,1,1,1,Heravi,315000,754
+111,2,1,1,1,Heravi,201666.67,755
+128,3,1,1,1,Heravi,216666.67,756
+200,4,1,1,1,Gheitarieh,466666.67,757
+131,2,1,1,1,Saadat Abad,266000,758
+105,3,1,1,1,Heravi,200000,759
+87,2,1,1,1,Pardis,21666.67,760
+61,2,1,1,0,Salsabil,36666.67,761
+140,3,1,1,1,Ozgol,210000,762
+185,3,1,1,1,Zargandeh,300000,763
+122,2,1,1,1,Saadat Abad,263333.33,764
+69,2,1,1,1,Mirdamad,126500,765
+95,2,1,1,1,Punak,223333.33,766
+90,2,1,1,1,Abbasabad,133333.33,767
+57,1,1,1,1,Ostad Moein,53333.33,768
+400,3,1,1,0,Amirabad,66666.67,769
+81,2,1,1,0,Andisheh,36990,770
+94,2,1,1,1,Andisheh,41666.67,771
+134,2,1,1,1,Kahrizak,53600,772
+74,2,0,0,1,Parand,10500,773
+44,1,1,1,0,Andisheh,19500,774
+100,2,1,1,1,Qasr-od-Dasht,108333.33,775
+175,3,1,1,1,Shahrake Gharb,310000,776
+54,2,1,1,0,Shahran,61666.67,777
+96,2,1,1,1,Amirieh,73666.67,778
+90,2,1,1,1,Karoon,80000,779
+90,2,1,1,1,Shahran,105666.67,780
+68,2,0,0,0,Karoon,36666.67,781
+68,2,0,0,0,Karoon,36666.67,782
+90,2,1,1,1,Shahran,106666.67,783
+97,2,1,1,1,Punak,156666.67,784
+78,2,1,1,0,Punak,91000,785
+125,3,1,1,1,Shahran,185000,786
+97,2,1,1,1,Farmanieh,198333.33,787
+100,2,1,1,1,Farmanieh,206666.67,788
+63,2,1,1,1,Feiz Garden,70000,789
+57,1,1,1,1,Punak,66666.67,790
+80,2,1,1,1,Razi,46333.33,791
+88,2,1,1,1,Razi,52466.67,792
+94,2,1,1,1,Razi,57066.67,793
+109,3,1,1,1,Feiz Garden,141000,794
+78,2,1,1,1,Heravi,110000,795
+250,3,1,1,1,Niavaran,1083333.33,796
+140,3,1,1,1,Heravi,226666.67,797
+100,2,1,1,1,Pardis,16666.67,798
+95,2,1,1,1,Shahr-e-Ziba,105000,799
+85,2,1,1,1,Parand,38333.33,800
+83,2,1,1,1,East Pars,85833.33,801
+100,2,1,1,1,Pasdaran,183333.33,802
+60,2,1,1,1,Pasdaran,115000,803
+82,2,1,1,1,Narmak,101666.67,804
+150,3,1,1,1,Beryanak,93333.33,805
+49,1,1,1,0,Islamshahr,15333.33,806
+216,4,1,1,0,Andisheh,190000,807
+77,2,0,0,0,Parand,14666.67,809
+63,1,1,1,1,Shahr-e-Ziba,69333.33,810
+125,3,1,1,0,Parand,43333.33,811
+45,1,1,1,1,East Ferdows Boulevard,63333.33,812
+135,3,1,1,1,Qalandari,250000,813
+80,2,1,0,1,Qalandari,156666.67,814
+155,3,1,1,1,Gheitarieh,326666.67,815
+125,3,1,1,1,Punak,210000,816
+95,2,1,1,1,Qalandari,208333.33,817
+85,2,1,1,1,Qalandari,150000,818
+110,2,1,1,1,Qalandari,270000,819
+680,5,1,1,0,Ekhtiarieh,2720000,820
+63,1,1,1,1,Shahr-e-Ziba,78333.33,821
+60,1,1,1,1,Saadat Abad,120000,822
+210,3,1,1,1,Gheitarieh,466666.67,823
+145,3,1,1,1,Gheitarieh,386666.67,824
+171,3,1,1,1,Jordan,296666.67,825
+55,1,1,1,1,East Ferdows Boulevard,61000,826
+140,3,1,1,1,Jordan,256666.67,827
+147,3,1,1,1,Jordan,290000,828
+83,2,1,1,1,Shahr-e-Ziba,80000,829
+105,2,1,1,1,Pardis,17133.33,830
+55,1,1,1,1,East Ferdows Boulevard,66666.67,831
+750,5,1,1,1,Mahmoudieh,2500000,832
+62,2,1,1,1,Punak,70000,833
+55,1,1,1,1,Persian Gulf Martyrs Lake,63333.33,834
+75,2,1,1,0,West Ferdows Boulevard,65000,835
+95,2,1,1,1,West Ferdows Boulevard,140000,836
+89,2,1,1,1,Central Janatabad,120666.67,837
+202,3,1,1,1,Air force,249133.33,838
+51,1,1,1,0,Southern Janatabad,57333.33,839
+400,1,1,0,0,Shahedshahr,100000,840
+145,3,1,1,1,Punak,253333.33,841
+115,3,1,1,1,Punak,166666.67,842
+130,3,1,1,1,Shahrake Gharb,281666.67,843
+62,1,0,1,0,Qasr-od-Dasht,31666.67,844
+94,2,1,1,1,Shahr-e-Ziba,105333.33,845
+87,2,1,1,1,Pardis,24200,846
+51,2,0,1,1,Komeil,35000,847
+95,2,1,1,1,Shahr-e-Ziba,95666.67,848
+80,2,1,1,1,Jeyhoon,71666.67,849
+145,3,1,1,1,Punak,143333.33,850
+155,3,1,1,1,Shahrake Gharb,310000,851
+88,2,1,1,1,Ekbatan,131333.33,852
+175,3,1,1,1,Gheitarieh,507500,853
+94,2,1,1,1,Shahran,156666.67,854
+89,2,1,1,1,Ekhtiarieh,110000,855
+62,2,1,1,0,Pasdaran,113333.33,856
+136,3,1,1,1,Punak,251666.67,857
+60,1,1,1,1,Feiz Garden,81666.67,858
+120,3,1,1,1,Southern Janatabad,166666.67,859
+137,3,1,1,1,Pakdasht,58333.33,860
+160,3,1,1,1,Shahrake Gharb,416666.67,861
+110,2,1,1,1,Saadat Abad,293333.33,862
+71,2,1,1,0,Andisheh,31333.33,863
+155,3,1,1,1,Shahrake Gharb,333333.33,864
+80,2,1,1,0,Andisheh,37000,865
+84,3,1,1,1,Andisheh,53000,866
+77,2,1,1,1,Gheitarieh,184800,867
+74,2,1,1,1,Shahran,136666.67,868
+130,3,1,1,1,Shahr-e-Ziba,180000,869
+70,2,1,1,1,Southern Janatabad,80000,870
+75,2,0,1,1,Parand,12966.67,871
+83,2,1,0,1,Pasdaran,166666.67,872
+65,1,1,1,1,Central Janatabad,116666.67,873
+62,1,0,1,0,Qasr-od-Dasht,36666.67,874
+140,3,1,1,1,Southern Chitgar,49466.67,875
+235,3,1,1,1,Gheitarieh,863333.33,876
+102,2,1,1,1,Gheitarieh,270000,877
+138,3,1,1,1,Kahrizak,41400,878
+49,1,1,1,0,Andisheh,12666.67,879
+250,3,1,1,0,Niavaran,1500000,880
+48,1,1,1,0,Salsabil,33166.67,881
+68,2,1,1,0,Pirouzi,51666.67,882
+128,3,1,1,1,Marzdaran,173333.33,883
+60,1,1,1,1,Pirouzi,46000,884
+85,2,1,1,1,Northern Janatabad,106666.67,885
+85,2,1,1,1,Islamshahr,18833.33,886
+78,2,1,0,0,Islamshahr,18333.33,887
+38,1,1,1,0,Pirouzi,28333.33,888
+92,2,1,0,1,Pirouzi,92000,889
+95,2,1,1,1,Shahran,155000,890
+105,3,1,1,1,East Ferdows Boulevard,130000,891
+92,2,0,0,1,Pardis,18333.33,892
+76,2,1,1,0,West Ferdows Boulevard,80000,893
+85,2,1,1,1,Yaftabad,41666.67,894
+161,3,1,1,1,Gheitarieh,511666.67,895
+85,2,1,1,1,Yaftabad,41666.67,896
+50,1,1,0,1,Ray,25000,897
+78,2,1,1,1,West Ferdows Boulevard,88333.33,898
+54,1,1,1,1,East Ferdows Boulevard,71666.67,899
+100,2,1,1,1,Shahr-e-Ziba,126666.67,900
+100,2,1,1,1,East Ferdows Boulevard,116666.67,901
+110,3,1,1,1,Jeyhoon,77666.67,902
+57,1,1,1,1,East Ferdows Boulevard,68333.33,903
+63,2,1,1,0,Andisheh,29000,904
+100,2,1,1,1,Ostad Moein,120000,905
+80,1,0,1,0,Shahrake Qods,18666.67,906
+115,2,1,1,1,East Ferdows Boulevard,140000,907
+68,1,1,1,0,West Ferdows Boulevard,65000,908
+75,2,1,1,1,East Ferdows Boulevard,78333.33,909
+48,1,1,1,0,West Ferdows Boulevard,63333.33,910
+75,2,1,1,0,West Ferdows Boulevard,81666.67,911
+115,2,1,1,1,Shahran,166666.67,912
+106,2,1,1,1,East Ferdows Boulevard,116666.67,913
+56,1,1,1,1,East Ferdows Boulevard,66000,914
+58,1,1,1,1,East Ferdows Boulevard,69333.33,915
+95,2,1,1,1,Central Janatabad,123333.33,916
+50,1,1,1,1,West Ferdows Boulevard,63333.33,917
+60,2,1,1,0,Central Janatabad,70000,918
+60,1,1,1,1,East Ferdows Boulevard,64000,919
+92,2,1,1,0,Mehran,83333.33,920
+57,1,1,1,1,West Ferdows Boulevard,76666.67,921
+72,2,1,1,0,West Ferdows Boulevard,76666.67,922
+71,2,1,1,0,East Ferdows Boulevard,76000,923
+123,2,1,1,1,Northren Jamalzadeh,120000,924
+50,1,1,1,1,West Ferdows Boulevard,65000,925
+58,1,1,1,1,Shahr-e-Ziba,61666.67,926
+54,1,1,1,1,East Ferdows Boulevard,68333.33,927
+85,2,1,1,1,Shahr-e-Ziba,78333.33,928
+85,2,1,1,1,West Ferdows Boulevard,115000,929
+125,3,0,1,1,Nasim Shahr,43333.33,930
+55,1,1,1,1,East Ferdows Boulevard,64000,931
+72,2,1,1,1,West Ferdows Boulevard,83333.33,932
+58,1,1,1,1,Shahr-e-Ziba,61666.67,933
+115,2,1,1,1,East Ferdows Boulevard,173333.33,934
+100,2,1,1,1,West Ferdows Boulevard,115000,935
+116,2,1,1,1,Persian Gulf Martyrs Lake,139000,936
+105,2,1,1,1,Persian Gulf Martyrs Lake,108333.33,937
+60,1,1,1,0,East Ferdows Boulevard,60000,938
+53,1,1,1,1,Feiz Garden,70666.67,939
+55,1,1,1,1,East Ferdows Boulevard,59333.33,940
+76,2,1,1,1,East Ferdows Boulevard,75000,941
+111,3,1,1,1,Persian Gulf Martyrs Lake,116666.67,942
+77,2,1,1,1,Golestan,71666.67,943
+58,1,1,1,1,East Ferdows Boulevard,62000,944
+94,2,1,1,0,Southern Program Organization,106666.67,945
+58,1,1,1,1,Shahr-e-Ziba,62666.67,946
+108,2,1,1,1,Golestan,110000,947
+56,1,1,1,1,Feiz Garden,66666.67,948
+84,2,1,1,1,North Program Organization,108333.33,949
+60,2,1,1,1,Azarbaijan,65000,950
+53,1,0,1,1,Pardis,15666.67,951
+73,2,1,1,1,Pirouzi,85166.67,952
+73,2,0,0,1,Pirouzi,65666.67,953
+150,3,1,1,1,Pirouzi,170000,954
+114,2,1,1,1,Pirouzi,125400,955
+66,2,1,1,1,Ostad Moein,52833.33,956
+53,1,0,1,1,Pardis,18000,957
+125,3,1,1,1,Pirouzi,133333.33,958
+145,3,1,1,1,Gheitarieh,454166.67,959
+197,3,1,1,1,Dezashib,623833.33,960
+105,2,1,1,1,Koohsar,133333.33,961
+135,3,1,1,1,Tenant,135000,962
+137,3,1,1,1,Shams Abad,155333.33,963
+90,2,1,1,0,Central Janatabad,106666.67,964
+125,2,1,1,1,Southern Janatabad,220833.33,965
+175,3,1,1,1,Gheitarieh,516666.67,966
+52,1,1,1,1,East Ferdows Boulevard,76666.67,967
+110,3,1,1,1,Persian Gulf Martyrs Lake,103333.33,968
+110,3,1,1,1,Persian Gulf Martyrs Lake,103333.33,969
+112,2,1,0,1,Persian Gulf Martyrs Lake,110000,970
+65,2,1,1,1,Shahran,71666.67,971
+48,1,1,1,1,Andisheh,13333.33,972
+105,2,1,1,1,Persian Gulf Martyrs Lake,93333.33,973
+56,1,1,1,1,Shahr-e-Ziba,74666.67,974
+108,2,1,1,1,Golestan,63333.33,975
+78,2,1,1,1,Southern Janatabad,97333.33,976
+85,2,1,1,1,Parand,17333.33,977
+105,2,1,1,1,Pardis,17833.33,978
+145,3,1,1,1,Saadat Abad,366666.67,979
+145,3,1,1,1,Punak,299666.67,980
+140,3,1,1,1,Punak,206666.67,981
+66,2,1,1,1,Ostad Moein,52666.67,982
+121,3,1,1,1,Persian Gulf Martyrs Lake,121666.67,983
+105,2,1,1,1,Persian Gulf Martyrs Lake,108333.33,984
+150,2,0,1,1,Chardangeh,40000,985
+98,2,1,1,1,Central Janatabad,149333.33,986
+108,2,1,1,1,Persian Gulf Martyrs Lake,111666.67,987
+95,2,1,1,1,Ostad Moein,86666.67,988
+64,1,0,0,1,Fallah,30000,989
+75,1,1,0,1,Fallah,62500,990
+50,1,1,1,1,West Ferdows Boulevard,65000,991
+90,2,1,1,1,Persian Gulf Martyrs Lake,83333.33,992
+93,2,1,1,1,Fallah,50333.33,993
+148,3,1,1,1,Persian Gulf Martyrs Lake,191666.67,994
+64,1,0,1,0,Eskandari,35000,995
+114,2,1,1,1,Persian Gulf Martyrs Lake,120000,996
+107,2,1,1,1,Persian Gulf Martyrs Lake,116666.67,997
+113,2,1,1,1,Persian Gulf Martyrs Lake,109000,998
+115,2,1,1,1,Gheitarieh,246666.67,999
+115,2,1,1,1,Persian Gulf Martyrs Lake,120000,1000
+120,2,1,1,1,Gholhak,280000,1001
+76,2,1,1,1,Central Janatabad,90000,1002
+106,2,1,1,1,North Program Organization,150666.67,1003
+105,2,1,1,1,Gheitarieh,230000,1004
+87,2,0,0,1,Ray,52333.33,1005
+68,2,1,1,1,Ostad Moein,65666.67,1006
+70,2,1,1,1,Punak,86000,1007
+165,3,1,1,1,Ostad Moein,175000,1008
+365,4,1,1,1,Dorous,1581666.67,1009
+175,3,1,1,1,Pasdaran,516666.67,1010
+50,1,1,1,1,West Ferdows Boulevard,65000,1011
+70,2,1,1,1,Saadat Abad,160000,1012
+165,3,1,1,1,Marzdaran,341000,1013
+115,2,1,1,1,Central Janatabad,169333.33,1014
+93,2,1,0,1,Shahr-e-Ziba,96666.67,1015
+181,3,1,1,1,Marzdaran,433333.33,1016
+57,1,1,1,1,Ostad Moein,53333.33,1017
+175,3,1,1,1,Marzdaran,379166.67,1018
+146,3,1,1,1,Marzdaran,283333.33,1019
+135,3,1,1,1,Marzdaran,206666.67,1020
+50,1,1,1,1,Southern Program Organization,66000,1021
+110,2,1,1,1,Pardis,17833.33,1022
+108,2,1,1,1,Mahallati,233333.33,1023
+121,3,1,1,1,Pardis,20333.33,1024
+220,3,1,1,1,Elahieh,1173333.33,1025
+240,4,1,1,1,Elahieh,1283333.33,1026
+90,2,1,1,1,Shahrakeh Naft,183333.33,1027
+117,2,1,1,1,Niavaran,416666.67,1028
+142,3,1,1,1,Punak,251666.67,1029
+55,1,1,1,0,West Ferdows Boulevard,65000,1030
+85,2,1,1,1,Shahran,110000,1031
+162,3,1,1,1,Niavaran,543333.33,1032
+100,2,1,1,1,Ajudaniye,216666.67,1033
+165,3,1,1,1,Shahrake Gharb,413333.33,1034
+150,3,1,1,1,Niavaran,500000,1035
+83,2,1,1,1,Qazvin Imamzadeh Hassan,48333.33,1036
+200,3,1,0,1,West Pars,333333.33,1037
+95,2,1,1,1,Abazar,223333.33,1038
+82,2,1,1,1,Persian Gulf Martyrs Lake,78333.33,1039
+112,3,1,1,1,Shahran,186666.67,1040
+96,2,1,1,1,Northern Janatabad,130000,1041
+86,3,1,1,1,Parand,14166.67,1042
+105,2,1,1,1,Pardis,31333.33,1043
+115,2,1,1,1,Ostad Moein,109333.33,1044
+87,2,1,1,1,Shahr-e-Ziba,100000,1045
+165,3,1,1,1,Farmanieh,383333.33,1046
+135,3,1,1,1,Marzdaran,247500,1047
+110,2,1,1,1,Feiz Garden,122333.33,1048
+80,2,1,1,1,Southern Janatabad,116666.67,1049
+66,2,1,1,1,Southern Janatabad,60000,1050
+88,2,1,1,1,Qazvin Imamzadeh Hassan,51666.67,1051
+70,1,1,1,0,Shahrake Qods,29000,1052
+130,3,1,1,1,Feiz Garden,186666.67,1053
+87,2,1,1,1,North Program Organization,100000,1054
+86,2,1,1,1,Southern Janatabad,150000,1055
+62,1,1,1,1,Southern Program Organization,80000,1056
+125,3,1,1,1,Punak,210000,1057
+87,2,1,1,1,Pardis,24166.67,1058
+70,2,1,1,1,Southern Janatabad,66666.67,1059
+65,2,1,1,1,Southern Janatabad,90000,1060
+64,2,1,1,1,Southern Janatabad,70000,1061
+62,2,1,1,1,Southern Janatabad,73333.33,1062
+70,2,1,1,1,Southern Janatabad,83333.33,1063
+140,3,1,1,1,Gheitarieh,266666.67,1064
+125,3,1,1,1,Gheitarieh,236666.67,1065
+68,2,1,1,1,Southern Janatabad,70000,1066
+67,2,1,0,0,West Ferdows Boulevard,73333.33,1067
+64,2,1,1,1,Southern Janatabad,68333.33,1068
+64,2,1,1,0,Jeyhoon,50000,1069
+95,2,1,1,0,Northern Janatabad,130000,1070
+97,2,1,1,1,Pardis,25666.67,1071
+136,3,1,1,1,Persian Gulf Martyrs Lake,143333.33,1072
+70,1,1,1,1,West Ferdows Boulevard,80000,1073
+85,2,1,1,1,Qazvin Imamzadeh Hassan,50233.33,1074
+105,2,1,1,1,Pardis,31666.67,1075
+50,1,1,0,1,North Program Organization,63333.33,1076
+57,1,1,1,1,Southern Program Organization,91666.67,1077
+121,3,1,1,1,Pardis,20333.33,1078
+95,2,1,1,1,West Ferdows Boulevard,110000,1079
+65,2,1,1,1,West Ferdows Boulevard,79333.33,1080
+100,2,0,1,0,Tehransar,66666.67,1081
+128,3,1,1,1,Kook,131666.67,1082
+93,2,1,1,1,Gheitarieh,200000,1083
+75,2,1,1,1,Qazvin Imamzadeh Hassan,42500,1084
+133,4,1,1,0,Jeyhoon,156666.67,1085
+100,2,1,1,1,Northern Janatabad,148333.33,1086
+140,3,1,1,1,Persian Gulf Martyrs Lake,160000,1087
+92,2,1,1,1,Central Janatabad,119000,1088
+120,2,1,1,0,Amirabad,150000,1089
+45,1,1,1,0,Jeyhoon,34333.33,1090
+130,2,1,1,0,Gheitarieh,229666.67,1091
+95,2,0,1,1,Nawab,72833.33,1092
+150,3,0,0,0,Gheitarieh,350000,1093
+72,2,1,1,1,Qazvin Imamzadeh Hassan,40200,1094
+60,1,1,1,1,Central Janatabad,111666.67,1095
+190,3,1,1,1,Dorous,400000,1096
+125,2,1,1,1,Shahrake Gharb,325000,1097
+90,2,1,1,1,North Program Organization,114000,1098
+105,2,1,1,1,Shahr-e-Ziba,136666.67,1099
+90,2,1,1,1,Shahran,95000,1100
+102,2,1,1,1,Southern Janatabad,186666.67,1101
+50,1,1,1,1,Ostad Moein,50000,1102
+66,2,1,1,0,Punak,75000,1103
+125,3,1,1,1,Yousef Abad,291666.67,1104
+132,3,1,1,1,Parand,68333.33,1105
+103,2,1,1,1,Central Janatabad,143333.33,1106
+270,5,1,1,0,Yousef Abad,450000,1107
+130,2,1,1,1,Shahran,139333.33,1108
+160,3,1,1,1,Amirabad,277333.33,1111
+110,2,1,1,1,Shahran,113666.67,1112
+75,2,1,1,1,Shahran,66000,1113
+75,2,1,1,1,Shahran,80000,1114
+85,2,1,1,1,Northern Suhrawardi,150000,1115
+225,3,1,1,1,Heravi,525000,1116
+130,3,1,1,1,Saadat Abad,283333.33,1117
+73,2,1,1,1,Qazvin Imamzadeh Hassan,55966.67,1118
+95,2,1,1,1,Saadat Abad,183333.33,1119
+250,4,1,1,0,Shahrake Gharb,1166666.67,1120
+65,2,1,1,1,Salsabil,58333.33,1121
+64,2,1,1,1,Azarbaijan,69666.67,1122
+94,2,1,1,1,Villa,137666.67,1123
+110,2,1,1,1,Pardis,12500,1124
+105,2,1,1,1,Pardis,18333.33,1125
+145,3,1,1,1,Heravi,300000,1126
+105,2,1,1,1,Pardis,29166.67,1127
+120,2,1,1,1,Farmanieh,400000,1128
+100,2,1,1,1,Hakimiyeh,103333.33,1129
+115,2,1,1,1,Water Organization,126666.67,1130
+100,2,0,1,1,Shahr-e-Ziba,110000,1131
+63,1,1,1,1,Ostad Moein,42666.67,1132
+55,1,0,0,0,West Ferdows Boulevard,63333.33,1133
+220,3,1,1,1,Heravi,513333.33,1134
+123,3,1,1,1,Nezamabad,110000,1135
+81,2,1,1,1,Qazvin Imamzadeh Hassan,47333.33,1136
+130,3,1,1,1,Jeyhoon,93333.33,1137
+108,2,1,1,1,Pasdaran,256666.67,1138
+135,3,1,1,1,Qasr-od-Dasht,98333.33,1139
+82,2,1,1,1,West Ferdows Boulevard,116666.67,1140
+120,2,1,1,1,Southern Program Organization,141666.67,1141
+303,3,1,1,1,Ajudaniye,1000000,1142
+200,3,1,1,1,Ozgol,600000,1143
+50,1,1,1,1,Shahran,61666.67,1144
+80,2,1,1,1,Shahran,118333.33,1145
+100,2,1,1,1,Pardis,36666.67,1146
+85,2,1,1,1,Shahran,79333.33,1147
+44,1,1,1,0,Shahran,46333.33,1148
+115,2,1,1,1,Tajrish,273333.33,1149
+75,2,1,1,1,North Program Organization,97666.67,1150
+65,1,1,1,1,Shahran,74000,1151
+86,2,1,1,1,Central Janatabad,116000,1152
+106,2,1,1,1,Yousef Abad,190000,1153
+203,3,1,1,1,Zaferanieh,1200000,1154
+92,2,1,1,1,Shahr-e-Ziba,90000,1155
+62,1,1,1,1,Southern Program Organization,72333.33,1156
+92,2,1,1,1,Pasdaran,223333.33,1157
+180,3,1,1,1,Pasdaran,330000,1158
+85,2,1,1,1,Central Janatabad,105000,1159
+60,1,1,1,1,Saadat Abad,110000,1160
+100,2,1,1,1,East Ferdows Boulevard,113333.33,1161
+100,2,1,1,1,Northern Janatabad,170000,1162
+121,2,1,1,1,Garden of Saba,250000,1163
+63,1,1,1,1,Farmanieh,186666.67,1164
+98,2,1,1,1,West Ferdows Boulevard,146666.67,1165
+67,2,1,1,1,Pasdaran,116666.67,1166
+87,2,1,1,1,West Ferdows Boulevard,94333.33,1167
+115,3,1,1,1,Pasdaran,176666.67,1168
+49,1,0,0,1,Punak,76666.67,1169
+40,0,0,1,0,Ostad Moein,21666.67,1170
+130,3,1,1,1,Yousef Abad,266666.67,1171
+144,3,1,1,0,Pasdaran,266666.67,1172
+66,2,1,1,1,Ostad Moein,52833.33,1173
+53,1,1,1,1,Southern Janatabad,81000,1174
+88,2,1,1,1,Central Janatabad,113333.33,1175
+105,2,1,1,1,Southern Janatabad,130000,1176
+90,2,1,1,1,Qalandari,218666.67,1177
+125,2,1,1,1,Dezashib,375000,1178
+75,2,1,1,1,Tarasht,71666.67,1179
+170,3,1,1,1,Niavaran,566666.67,1180
+204,3,1,1,1,Elahieh,1088000,1181
+95,2,1,1,1,Feiz Garden,120000,1182
+54,1,1,1,0,Andisheh,16666.67,1183
+98,2,1,1,1,Shahr-e-Ziba,107333.33,1184
+90,2,1,1,1,Feiz Garden,120000,1185
+97,2,1,1,1,Feiz Garden,126666.67,1186
+71,2,1,1,1,East Ferdows Boulevard,84333.33,1187
+150,3,1,1,1,Shahrake Gharb,400000,1188
+116,3,1,1,1,Pasdaran,270000,1189
+120,2,1,1,1,Saadat Abad,286666.67,1190
+79,2,1,1,1,West Ferdows Boulevard,80000,1191
+79,2,1,1,1,West Ferdows Boulevard,103333.33,1192
+135,2,1,1,1,Dorous,333333.33,1193
+110,2,1,1,1,West Ferdows Boulevard,131666.67,1194
+75,2,1,1,0,Shahr-e-Ziba,63000,1195
+110,3,1,1,1,Shahr-e-Ziba,156666.67,1196
+87,2,1,1,1,West Ferdows Boulevard,126666.67,1197
+75,2,1,1,1,Punak,125000,1198
+108,2,1,1,1,West Ferdows Boulevard,131666.67,1199
+110,2,1,1,1,Central Janatabad,190000,1200
+100,2,1,1,1,Shahr-e-Ziba,170000,1201
+63,1,1,1,1,Ostad Moein,42666.67,1202
+140,3,1,1,1,Shahrake Gharb,306666.67,1203
+72,2,1,1,0,Southern Janatabad,70433.33,1204
+73,2,1,1,0,Southern Janatabad,70266.67,1205
+145,3,1,1,1,Dezashib,410833.33,1206
+75,2,1,1,0,Northern Janatabad,79500,1207
+92,2,1,1,1,Yousef Abad,210000,1208
+80,2,1,1,1,Si Metri Ji,74000,1209
+127,2,1,1,1,Ekhtiarieh,296333.33,1210
+66,2,1,1,1,Ostad Moein,52833.33,1211
+74,2,1,1,1,Yousef Abad,130666.67,1212
+105,3,1,1,1,Parand,42000,1213
+112,3,1,1,0,Parand,46666.67,1214
+120,2,1,1,1,Shahrake Gharb,250000,1215
+123,3,1,1,1,Pardis,16666.67,1216
+140,3,1,1,1,Shahrake Gharb,333333.33,1217
+63,1,1,1,1,Punak,116666.67,1218
+56,1,1,1,1,Punak,65000,1219
+105,2,1,1,1,Feiz Garden,145000,1220
+97,2,1,1,1,Yousef Abad,166666.67,1221
+140,3,1,1,1,Jordan,306666.67,1222
+60,2,1,1,0,Central Janatabad,55000,1223
+100,2,1,1,1,Pardis,16666.67,1224
+54,1,0,1,1,Punak,66666.67,1225
+90,2,1,1,1,Ekhtiarieh,200000,1226
+92,2,1,1,1,Feiz Garden,131666.67,1227
+65,2,0,1,0,Feiz Garden,63333.33,1228
+76,2,1,1,1,Andisheh,29866.67,1229
+72,2,1,1,1,Southern Janatabad,86666.67,1230
+135,3,1,1,1,Farmanieh,383333.33,1231
+54,1,0,1,1,Punak,66666.67,1232
+87,2,1,1,1,Pardis,16666.67,1233
+255,3,1,1,1,Farmanieh,866666.67,1234
+100,2,1,1,0,Yousef Abad,143333.33,1235
+194,2,1,1,1,Niavaran,661500,1236
+600,2,1,1,1,Qalandari,305000,1237
+160,3,1,1,1,Saadat Abad,450000,1238
+98,2,1,1,1,Gheitarieh,231933.33,1239
+133,3,0,0,0,Andisheh,53333.33,1240
+108,2,1,1,1,West Ferdows Boulevard,187200,1241
+76,2,1,1,1,Shahr-e-Ziba,93333.33,1242
+73,2,1,1,1,Razi,41000,1243
+76,2,1,1,1,Southern Program Organization,105000,1244
+80,2,1,1,1,Southern Program Organization,122666.67,1245
+92,2,1,1,1,Gheitarieh,220000,1246
+130,2,1,1,1,Qalandari,283333.33,1247
+71,2,1,1,1,Azari,54666.67,1248
+56,1,1,1,1,Shahran,63333.33,1249
+105,2,1,1,1,Pardis,29666.67,1250
+110,2,1,1,1,West Ferdows Boulevard,125000,1251
+93,2,1,1,1,Central Janatabad,145666.67,1252
+179,3,1,1,1,Pasdaran,321500,1253
+100,2,1,1,1,Gholhak,206666.67,1254
+110,3,1,1,1,Saadat Abad,173333.33,1255
+98,2,1,1,1,Northern Janatabad,161666.67,1256
+101,2,1,1,1,Saadat Abad,185000,1257
+105,2,1,1,1,Pardis,26666.67,1258
+157,3,1,1,1,Heravi,328333.33,1259
+180,3,1,1,1,Pasdaran,330000,1260
+90,2,1,1,1,Qazvin Imamzadeh Hassan,54000,1261
+97,2,1,1,1,Pardis,25333.33,1262
+120,3,1,1,1,Persian Gulf Martyrs Lake,42400,1263
+303,4,1,1,1,Velenjak,1600000,1264
+60,1,1,1,1,Yousef Abad,108333.33,1265
+245,5,1,1,1,Dezashib,483333.33,1266
+100,2,1,1,1,Pardis,26333.33,1267
+185,3,1,1,1,Pasdaran,358333.33,1268
+62,2,1,1,1,Central Janatabad,116666.67,1269
+79,2,1,1,1,Central Janatabad,99966.67,1270
+400,5,1,1,0,Mirdamad,1866666.67,1271
+200,3,1,1,1,Southern Chitgar,166666.67,1272
+105,2,1,1,1,Pardis,28666.67,1273
+128,3,1,1,1,Shahrake Apadana,190000,1274
+115,3,1,1,1,Punak,222333.33,1275
+377,4,1,1,1,Elahieh,1055600,1276
+77,2,1,1,0,Central Janatabad,80000,1277
+190,3,1,1,1,Punak,380000,1278
+65,1,1,1,1,Shahran,62666.67,1279
+97,2,1,1,1,Punak,156666.67,1280
+130,3,1,1,1,Yousef Abad,260000,1281
+133,3,1,1,1,Dorous,286666.67,1282
+143,3,1,1,1,Northern Janatabad,146666.67,1283
+76,2,1,1,1,Central Janatabad,138333.33,1284
+155,3,1,1,1,West Ferdows Boulevard,166666.67,1285
+97,2,1,1,1,Pardis,25333.33,1286
+96,2,1,1,1,Ekbatan,140000,1287
+190,3,1,1,1,Gheitarieh,466666.67,1288
+147,3,1,1,1,Heravi,303333.33,1289
+85,2,1,1,1,East Ferdows Boulevard,93333.33,1290
+76,2,1,1,1,Ekbatan,120000,1291
+103,2,1,1,1,Niavaran,233333.33,1292
+194,3,1,1,1,Niavaran,661933.33,1293
+95,2,1,1,1,Saadat Abad,206666.67,1294
+79,2,0,1,0,Northern Janatabad,106666.67,1295
+83,2,1,1,1,Parand,23516.67,1296
+70,2,1,1,1,Southern Program Organization,83333.33,1297
+87,2,1,1,1,Niavaran,153333.33,1298
+87,2,0,1,1,Pardis,16666.67,1299
+84,3,1,1,1,Andisheh,51800,1300
+91,2,1,1,1,Tarasht,103333.33,1301
+145,2,1,1,1,Gheitarieh,400000,1302
+68,2,1,1,1,North Program Organization,81666.67,1303
+127,3,1,1,1,Garden of Saba,186266.67,1304
+68,1,1,1,1,Ekbatan,103333.33,1305
+105,2,1,1,1,Pardis,17966.67,1306
+89,2,1,1,1,Shahran,106333.33,1307
+82,2,1,1,1,Ostad Moein,86666.67,1308
+65,1,1,1,0,Punak,75000,1309
+80,2,1,1,1,Gholhak,163333.33,1310
+145,3,1,1,1,Niavaran,483333.33,1311
+235,3,1,1,1,Niavaran,666666.67,1312
+192,3,1,1,1,Kamranieh,1116333.33,1313
+160,3,1,1,1,Kamranieh,437333.33,1314
+160,3,1,1,1,Niavaran,613333.33,1315
+106,2,1,1,1,Pardis,26666.67,1316
+75,2,0,1,1,Shahrake Qods,20666.67,1317
+100,2,1,1,1,Shahrake Qods,26666.67,1318
+58,1,1,1,1,Ekbatan,95000,1319
+97,2,1,1,1,Pardis,25666.67,1320
+44,1,0,1,0,Pirouzi,26333.33,1321
+108,2,1,1,1,Gheitarieh,300000,1322
+87,2,1,1,1,Amirabad,18333.33,1323
+231,3,1,1,1,Zaferanieh,1439900,1324
+120,3,1,1,1,Persian Gulf Martyrs Lake,58333.33,1325
+103,2,1,1,1,Saadat Abad,190000,1326
+78,2,0,0,0,Parand,15166.67,1327
+85,2,1,1,1,Gheitarieh,240000,1328
+195,3,1,1,1,Velenjak,650000,1329
+142,3,1,1,1,Amirabad,183333.33,1330
+90,2,1,1,1,Persian Gulf Martyrs Lake,43833.33,1331
+85,2,1,1,1,Gheitarieh,243333.33,1332
+350,4,1,1,1,Niavaran,2683333.33,1333
+210,4,1,1,1,Niavaran,700000,1334
+87,2,1,1,1,Pardis,29666.67,1335
+85,2,1,1,1,Southern Janatabad,146666.67,1336
+92,2,1,1,1,Southern Janatabad,133000,1337
+90,2,1,1,1,Shahr-e-Ziba,138333.33,1338
+87,2,1,1,1,Shahr-e-Ziba,101666.67,1339
+108,2,1,1,1,West Ferdows Boulevard,115000,1340
+85,2,1,1,0,Southern Janatabad,113333.33,1341
+68,2,1,1,1,Southern Janatabad,73333.33,1342
+138,2,1,1,1,Zaferanieh,575000,1343
+78,2,1,1,1,Parand,7000,1344
+94,2,1,1,1,Qazvin Imamzadeh Hassan,57066.67,1345
+168,3,1,1,1,Aqdasieh,533333.33,1346
+100,2,1,1,1,Niavaran,206666.67,1347
+100,2,1,1,1,Ajudaniye,210000,1348
+44,1,0,1,0,Parastar,34333.33,1349
+300,3,0,0,0,Lavasan,900000,1350
+280,4,1,1,1,Velenjak,1026666.67,1351
+65,2,1,1,1,West Ferdows Boulevard,92000,1352
+180,3,1,1,1,Ajudaniye,450000,1353
+176,2,1,1,0,Islamshahr,93333.33,1354
+83,2,1,1,1,Central Janatabad,128633.33,1355
+300,4,1,1,1,Farmanieh,1233333.33,1356
+68,2,0,1,0,Pirouzi,46000,1357
+220,3,1,1,1,Aqdasieh,1166666.67,1358
+140,3,1,1,1,Andisheh,49466.67,1359
+290,4,1,1,1,Farmanieh,1200000,1360
+75,2,0,1,1,Kahrizak,28750,1361
+133,3,1,1,1,East Ferdows Boulevard,266666.67,1362
+87,2,1,1,1,Abazar,188500,1363
+60,2,0,1,1,Pirouzi,50000,1364
+110,2,1,1,1,Pardis,17833.33,1365
+149,3,1,1,1,West Ferdows Boulevard,288066.67,1366
+238,3,1,1,1,Velenjak,1428000,1367
+90,2,1,1,1,Punak,116666.67,1368
+100,2,1,1,1,Qazvin Imamzadeh Hassan,61666.67,1369
+94,2,1,1,1,Central Janatabad,150400,1370
+80,2,1,1,1,Parastar,112000,1371
+55,2,0,0,0,Parastar,42666.67,1372
+114,3,1,1,1,Saadat Abad,226666.67,1373
+75,2,1,1,0,Shahr-e-Ziba,63000,1374
+146,3,1,1,1,Heravi,253333.33,1375
+70,2,1,1,0,Punak,76000,1376
+86,2,1,1,1,Amirabad,157666.67,1377
+69,1,0,1,1,Persian Gulf Martyrs Lake,70000,1378
+60,1,1,1,1,West Ferdows Boulevard,110000,1379
+101,2,1,1,1,Persian Gulf Martyrs Lake,116666.67,1380
+97,2,1,1,1,Hashemi,76666.67,1381
+105,2,1,1,1,Hakimiyeh,119000,1382
+110,2,1,1,0,Saadat Abad,416666.67,1383
+75,2,1,1,1,Punak,90000,1384
+110,2,1,1,1,Punak,216333.33,1385
+149,3,1,1,0,Mirdamad,307933.33,1386
+105,2,1,1,1,Railway,166666.67,1387
+110,2,1,1,1,Persian Gulf Martyrs Lake,116666.67,1388
+69,2,1,1,1,Pirouzi,60000,1389
+190,3,1,1,1,Kook,433333.33,1390
+160,2,1,1,1,Yousef Abad,286666.67,1391
+67,2,0,1,1,Pirouzi,66666.67,1392
+121,2,1,1,1,Narmak,183333.33,1393
+105,2,1,1,1,Gisha,245000,1394
+83,2,1,1,0,West Ferdows Boulevard,80000,1395
+62,1,0,1,1,Pirouzi,46000,1396
+55,1,1,1,1,Pirouzi,58333.33,1397
+88,2,1,1,1,Pirouzi,81666.67,1398
+86,2,1,0,1,Air force,100000,1399
+62,1,1,1,1,Narmak,75000,1400
+65,1,1,1,0,Araj,103333.33,1401
+135,2,1,1,1,Niavaran,495000,1402
+226,4,1,1,1,Mahmoudieh,566666.67,1403
+70,2,1,1,1,Tenant,67666.67,1404
+85,1,1,1,1,Kamranieh,236666.67,1405
+170,3,1,1,1,Punak,311666.67,1406
+170,3,1,1,1,Niavaran,466666.67,1407
+574,5,1,1,0,North Program Organization,2000000,1408
+360,4,1,1,1,Niavaran,1266666.67,1409
+120,2,1,1,1,Saadat Abad,243333.33,1410
+120,3,1,1,1,Punak,222000,1411
+97,2,1,0,1,Tenant,77666.67,1412
+150,3,1,1,1,Pasdaran,381866.67,1413
+140,2,1,1,1,Pasdaran,350000,1414
+85,2,1,1,1,Punak,110000,1415
+240,3,1,1,1,Velenjak,1533333.33,1416
+120,3,1,1,1,Pardis,22333.33,1417
+100,2,1,1,1,Shahr-e-Ziba,156666.67,1418
+105,3,1,1,0,Andisheh,113333.33,1419
+75,2,1,1,1,Punak,99333.33,1420
+51,1,1,1,1,Tenant,46000,1421
+89,2,1,1,1,Shahr-e-Ziba,136666.67,1422
+130,3,1,1,1,Saadat Abad,350000,1423
+140,2,1,1,1,Pasdaran,333333.33,1424
+100,2,1,1,1,Punak,188333.33,1425
+290,3,1,1,1,Farmanieh,1233333.33,1426
+290,4,1,1,1,Farmanieh,1133333.33,1427
+200,3,1,1,1,Farmanieh,1166666.67,1428
+200,3,1,1,1,Aqdasieh,1160000,1429
+450,3,1,0,0,Damavand,128333.33,1430
+37,1,0,1,0,Andisheh,11833.33,1431
+140,3,1,1,1,Gheitarieh,296666.67,1432
+150,3,1,1,1,Sadeghieh,180000,1433
+465,2,1,0,0,Damavand,110000,1434
+160,3,1,1,1,Gheitarieh,326666.67,1435
+403,5,1,0,0,Andisheh,433333.33,1436
+165,2,1,1,1,Pakdasht,40000,1437
+405,5,1,1,0,Andisheh,366666.67,1438
+400,5,1,1,0,Andisheh,366666.67,1439
+87,2,1,1,1,Pardis,18333.33,1440
+88,2,1,1,1,West Ferdows Boulevard,103333.33,1441
+145,3,1,1,1,Heravi,300000,1442
+86,2,1,1,1,Air force,97466.67,1443
+350,3,1,1,0,Pasdaran,33333.33,1444
+200,3,1,1,1,Kook,400000,1445
+115,3,1,1,1,Velenjak,421666.67,1446
+90,2,1,1,1,Gheitarieh,233333.33,1447
+107,3,1,1,1,Gheitarieh,214000,1448
+84,2,1,1,1,Pirouzi,89600,1449
+112,2,1,1,1,Pardis,16000,1450
+114,2,1,1,1,Persian Gulf Martyrs Lake,123000,1451
+120,3,1,1,1,Pardis,21666.67,1452
+113,2,1,1,1,Persian Gulf Martyrs Lake,126666.67,1453
+84,2,1,1,1,West Pars,103333.33,1454
+45,1,0,1,0,Shahran,52666.67,1455
+53,1,1,1,0,East Ferdows Boulevard,64000,1456
+155,2,1,1,1,Pardis,63333.33,1457
+56,1,1,1,1,Shahran,81666.67,1458
+67,2,1,1,1,East Ferdows Boulevard,79333.33,1459
+79,2,1,1,1,East Ferdows Boulevard,86666.67,1460
+65,1,1,1,1,Gheitarieh,140833.33,1461
+113,2,1,1,1,Rudhen,51666.67,1462
+54,1,1,1,0,Aqdasieh,116666.67,1463
+170,3,0,0,0,Velenjak,523333.33,1464
+42,1,0,1,1,Jeyhoon,35000,1465
+160,3,0,1,0,Pakdasht,30333.33,1466
+56,1,1,1,1,Punak,95000,1467
+75,2,1,1,1,Rudhen,33333.33,1468
+80,2,1,1,0,Rudhen,25000,1469
+41,1,0,1,1,Farmanieh,84333.33,1470
+117,2,0,1,1,Rudhen,52666.67,1471
+88,2,1,1,1,Abazar,186666.67,1472
+114,2,1,1,1,Abazar,223333.33,1473
+75,2,1,1,1,Shahrake Qods,24500,1474
+160,3,1,1,1,Andisheh,100000,1475
+87,2,1,1,1,Abazar,186666.67,1476
+104,2,1,1,1,Abazar,113333.33,1477
+90,2,0,1,0,Shahrake Qods,22166.67,1478
+120,2,1,1,0,Andisheh,60000,1479
+88,2,0,1,1,Shahrake Qods,25333.33,1480
+76,2,1,1,1,Abazar,100000,1481
+85,2,1,1,1,Southern Janatabad,120000,1482
+71,2,0,1,0,Northern Janatabad,86666.67,1483
+200,3,1,1,1,Heravi,498333.33,1484
+104,2,1,0,1,Air force,140000,1485
+165,3,1,1,1,Aqdasieh,666666.67,1486
+82,2,1,1,1,Abazar,126666.67,1487
+115,2,1,1,1,Gheitarieh,276666.67,1488
+350,5,1,1,1,Gheitarieh,1166666.67,1489
+106,2,1,1,1,Abazar,150000,1490
+40,1,0,1,1,Karoon,29333.33,1491
+130,2,1,1,1,Gheitarieh,400000,1492
+46,1,1,1,0,Jeyhoon,25000,1493
+121,2,1,1,1,Dehkade Olampic,161333.33,1494
+80,2,1,1,1,Jeyhoon,50000,1495
+154,3,1,1,1,Ostad Moein,133333.33,1496
+60,1,0,1,0,Jeyhoon,34000,1497
+68,2,1,1,1,West Ferdows Boulevard,76666.67,1498
+89,2,1,0,1,Andisheh,36666.67,1499
+70,2,1,1,1,Jeyhoon,53333.33,1500
+45,1,1,1,1,Qasr-od-Dasht,43333.33,1501
+113,2,1,1,1,Amirabad,169333.33,1502
+85,2,1,1,1,Dorous,140000,1503
+42,1,1,0,1,Vahidieh,32500,1504
+108,2,1,1,1,Shahran,143333.33,1505
+82,2,1,1,1,Punak,96666.67,1506
+76,2,1,0,1,Punak,141666.67,1507
+68,2,1,1,1,West Ferdows Boulevard,73333.33,1508
+79,2,1,1,1,Punak,108333.33,1509
+71,2,1,1,1,Punak,90000,1510
+73,2,1,1,1,Punak,118333.33,1511
+89,2,1,1,1,Shahrake Qods,53666.67,1512
+85,2,1,1,1,Shahr-e-Ziba,91666.67,1513
+96,2,1,1,1,East Ferdows Boulevard,131666.67,1514
+95,2,1,1,1,Andisheh,40000,1515
+60,2,1,1,1,Punak,68333.33,1516
+88,2,0,0,1,Parand,16166.67,1517
+145,3,1,1,1,Pasdaran,48333.33,1518
+75,2,0,1,0,Malard,8333.33,1519
+145,3,1,1,1,Gholhak,261666.67,1520
+105,3,1,1,1,Ostad Moein,97000,1521
+100,2,0,1,0,Tehransar,66666.67,1522
+67,2,1,1,1,Feiz Garden,70666.67,1523
+78,2,1,0,1,Jeyhoon,75000,1524
+125,2,1,1,1,Gheitarieh,416666.67,1525
+91,2,1,1,1,Shahran,111666.67,1526
+195,3,1,1,1,Gheitarieh,633333.33,1527
+87,2,0,0,1,Pardis,19500,1528
+99,2,1,1,1,Punak,140000,1529
+113,2,1,1,1,Punak,170000,1530
+100,2,1,1,1,Punak,143333.33,1531
+200,3,1,1,1,Zaferanieh,800000,1532
+106,2,1,1,1,Pardis,18666.67,1533
+105,2,1,1,1,Shahran,125000,1534
+228,3,1,1,1,Zaferanieh,676400,1535
+75,2,1,1,1,Shahran,121666.67,1536
+84,3,1,1,1,Shahran,101666.67,1537
+90,2,1,1,1,Shahr-e-Ziba,105000,1538
+66,2,1,0,1,Ostad Moein,52666.67,1539
+130,3,1,1,1,Northern Suhrawardi,260000,1540
+101,2,1,1,1,Central Janatabad,156666.67,1541
+103,2,0,1,0,Shahran,107333.33,1542
+60,2,1,1,0,Pirouzi,48333.33,1543
+123,2,1,1,1,Persian Gulf Martyrs Lake,12000,1544
+70,2,1,1,1,Punak,90000,1545
+177,3,1,1,1,Velenjak,723333.33,1546
+230,3,1,1,1,Farmanieh,733333.33,1547
+105,2,1,1,1,Pardis,18000,1548
+87,2,0,0,1,Pardis,27000,1549
+104,2,1,1,1,Pardis,19666.67,1550
+105,2,1,1,1,Pardis,18500,1551
+310,3,1,1,1,Elahieh,1516666.67,1552
+108,2,1,1,1,Shams Abad,151666.67,1553
+105,2,1,1,1,Pardis,18000,1554
+75,2,1,1,0,Central Janatabad,91666.67,1555
+108,2,1,1,1,Shams Abad,137666.67,1556
+105,2,1,1,1,Pardis,18333.33,1557
+116,2,1,1,1,West Ferdows Boulevard,168333.33,1558
+43,1,1,1,1,Shams Abad,60000,1559
+64,2,0,1,0,Jeyhoon,30666.67,1560
+48,1,1,1,0,Salsabil,34933.33,1561
+134,3,1,1,1,Andisheh,36666.67,1562
+134,3,1,1,1,Andisheh,36666.67,1563
+100,2,0,0,0,Pardis,21666.67,1564
+230,3,1,1,1,Farmanieh,690000,1565
+238,3,1,1,1,Velenjak,1563333.33,1566
+48,1,1,1,0,Salsabil,33166.67,1567
+270,5,1,1,0,Aqdasieh,483333.33,1568
+105,2,0,1,0,Andisheh,36666.67,1569
+105,2,1,1,1,Pardis,18333.33,1570
+86,2,1,1,1,Pardis,26000,1571
+130,3,1,1,1,West Pars,225333.33,1572
+87,2,1,1,1,Pardis,32000,1573
+80,2,0,1,0,Shahrake Qods,40000,1574
+112,2,1,1,1,Yousef Abad,186666.67,1575
+120,2,1,1,0,Pardis,60000,1576
+125,2,1,1,1,Pardis,70000,1577
+100,2,1,1,1,Pirouzi,86666.67,1579
+123,3,1,1,1,East Ferdows Boulevard,186666.67,1580
+100,2,1,1,1,Pirouzi,133333.33,1581
+88,2,1,1,1,Northern Janatabad,99333.33,1582
+87,2,1,1,1,Pardis,24000,1583
+66,2,1,0,1,Ostad Moein,52666.67,1584
+85,2,1,1,1,Pardis,24333.33,1585
+84,2,0,1,0,Sattarkhan,86666.67,1586
+110,2,1,1,1,Yousef Abad,190000,1587
+170,3,1,1,1,Niavaran,736666.67,1588
+220,3,1,1,1,Niavaran,660000,1589
+101,2,1,1,1,Yousef Abad,183333.33,1590
+100,2,1,1,1,Gheitarieh,226666.67,1591
+193,3,1,1,1,Kook,433333.33,1592
+45,1,0,1,0,Andisheh,13166.67,1593
+86,2,1,0,1,Pirouzi,68333.33,1594
+138,3,1,1,1,Islamshahr,56333.33,1595
+100,2,0,1,0,Tehransar,66666.67,1596
+55,1,1,1,1,Saadat Abad,133333.33,1597
+100,2,1,1,1,Gheitarieh,273333.33,1598
+108,2,1,1,1,Persian Gulf Martyrs Lake,100800,1599
+94,2,1,1,1,Gheitarieh,278333.33,1600
+101,2,1,1,1,Gheitarieh,293333.33,1601
+101,2,1,1,1,Gheitarieh,283333.33,1602
+99,1,1,1,1,Gheitarieh,280000,1603
+97,2,1,1,1,Shahrake Gharb,250000,1604
+126,2,1,1,1,Gheitarieh,383333.33,1606
+105,2,1,1,1,Pardis,17500,1607
+101,2,1,1,1,Tarasht,111500,1608
+100,2,1,1,1,Gheitarieh,276666.67,1609
+90,2,1,1,1,Shahrake Qods,33000,1610
+146,3,1,1,1,Saadat Abad,360000,1611
+90,3,1,1,0,Salsabil,85000,1612
+60,2,0,1,0,Shahrake Azadi,56000,1613
+130,3,1,1,1,Shahrake Gharb,476666.67,1614
+85,2,1,1,0,Air force,90000,1615
+80,1,0,1,0,Shahrake Qods,18666.67,1616
+132,3,1,1,1,Pasdaran,330000,1617
+115,2,1,1,1,Tarasht,153333.33,1618
+70,2,0,1,0,Pirouzi,51666.67,1619
+145,3,1,1,1,Pirouzi,130000,1620
+88,2,1,1,1,Punak,99333.33,1621
+54,1,0,1,0,Beryanak,27666.67,1622
+65,2,1,1,0,Pirouzi,55000,1623
+70,1,1,1,0,Dehkade Olampic,66666.67,1624
+63,1,1,1,1,Ostad Moein,46000,1625
+190,3,1,1,1,Zaferanieh,433333.33,1626
+57,1,1,1,1,Qasr-od-Dasht,40000,1627
+144,3,1,1,1,Velenjak,400000,1628
+85,2,1,1,1,Shahr-e-Ziba,115000,1629
+65,2,0,1,1,West Pars,66666.67,1630
+88,3,0,0,1,Parand,17333.33,1631
+74,2,1,1,1,Darband,136666.67,1632
+76,2,0,0,0,Parand,12166.67,1633
+88,2,0,0,1,Parand,19333.33,1634
+49,1,1,1,1,Punak,89800,1635
+287,5,1,1,0,Vanak,1916666.67,1636
+95,2,1,1,0,Punak,130000,1637
+65,1,1,1,1,Air force,56333.33,1638
+86,2,1,1,1,Niavaran,186000,1639
+86,2,1,1,1,Kamranieh,183333.33,1640
+90,2,1,1,1,Golestan,23000,1641
+62,2,1,1,0,Ekhtiarieh,110000,1642
+157,3,1,1,1,Gheitarieh,453333.33,1643
+90,2,1,1,1,Southern Chitgar,23000,1644
+190,3,1,1,1,Gheitarieh,516666.67,1645
+90,2,1,1,1,Railway,43833.33,1646
+150,3,1,1,1,Gheitarieh,366666.67,1647
+70,2,1,1,1,Shahrake Qods,24500,1648
+91,2,1,1,1,Tehran Now,100000,1649
+155,3,1,1,1,Gheitarieh,490000,1650
+245,3,1,1,1,Niavaran,718666.67,1651
+120,2,1,1,1,West Ferdows Boulevard,166666.67,1652
+150,2,1,1,1,Gheitarieh,433333.33,1653
+65,2,1,1,0,West Ferdows Boulevard,75000,1654
+106,2,1,1,1,West Ferdows Boulevard,130000,1655
+100,2,1,1,1,Gheitarieh,280000,1656
+125,2,1,1,1,Gheitarieh,366666.67,1657
+57,1,1,1,1,Feiz Garden,63000,1658
+160,3,1,1,1,Niavaran,560000,1659
+43,1,0,1,1,Beryanak,40000,1660
+115,3,1,1,1,Feiz Garden,116666.67,1661
+80,2,1,1,1,Feiz Garden,96666.67,1662
+93,2,1,1,1,Southern Janatabad,153333.33,1663
+65,2,1,0,1,Qasr-od-Dasht,68333.33,1664
+90,2,1,1,1,Southern Janatabad,100000,1665
+200,2,1,1,0,Andisheh,66666.67,1666
+135,3,1,1,1,Shahrake Gharb,300000,1667
+63,2,0,1,0,Azarbaijan,44666.67,1668
+53,1,1,1,1,Azarbaijan,50000,1669
+50,1,0,1,0,Qasr-od-Dasht,27000,1670
+72,2,1,1,0,Qasr-od-Dasht,53833.33,1671
+148,3,1,1,1,Saadat Abad,416666.67,1672
+80,2,1,1,1,Azarbaijan,82666.67,1673
+60,2,1,1,1,Andisheh,31666.67,1674
+102,2,1,1,1,Shahrake Gharb,329933.33,1675
+95,2,1,1,1,Mirdamad,183333.33,1676
+83,2,1,1,1,Ray,56666.67,1677
+95,2,1,1,1,Gheitarieh,276666.67,1678
+83,2,1,1,1,Salsabil,76666.67,1679
+60,1,1,1,1,Northern Chitgar,29166.67,1680
+65,2,1,1,1,Jeyhoon,46666.67,1681
+90,2,1,1,1,Gheitarieh,273333.33,1682
+200,3,1,1,1,Heravi,466666.67,1683
+53,1,1,1,1,Jeyhoon,47333.33,1684
+43,1,1,1,1,Beryanak,41666.67,1685
+97,2,1,1,1,Southern Janatabad,129333.33,1686
+42,1,1,0,1,Jeyhoon,32000,1687
+120,2,1,1,1,Abazar,129333.33,1688
+97,2,1,1,1,Sattarkhan,119333.33,1689
+97,2,1,1,1,Southern Janatabad,116666.67,1690
+90,2,1,1,1,Southern Janatabad,109333.33,1691
+97,2,1,1,1,Central Janatabad,120000,1692
+90,2,1,1,1,Southern Janatabad,122666.67,1693
+198,3,1,1,1,Gheitarieh,450000,1694
+90,2,1,1,1,Punak,156000,1696
+150,3,1,1,1,Punak,313333.33,1697
+136,3,1,1,1,Southern Janatabad,206666.67,1698
+120,2,1,1,1,Southern Janatabad,136666.67,1699
+90,2,1,1,1,Punak,117333.33,1700
+550,3,1,1,0,Absard,150000,1701
+50,1,1,1,1,Punak,83333.33,1702
+90,2,1,1,1,Mirdamad,200000,1703
+55,1,1,1,1,Punak,76666.67,1704
+75,2,1,1,1,Jeyhoon,78333.33,1705
+47,1,1,1,1,Punak,70000,1706
+65,2,1,1,0,Punak,75000,1707
+420,4,1,1,1,Zaferanieh,3080000,1708
+124,3,1,1,1,Southern Janatabad,198333.33,1709
+86,2,1,1,1,Punak,141666.67,1710
+70,1,1,1,1,Punak,103333.33,1711
+181,3,1,1,1,Velenjak,453333.33,1712
+68,2,1,1,0,Punak,74333.33,1713
+85,2,1,1,1,Yaftabad,41666.67,1714
+67,2,1,1,1,Punak,86666.67,1715
+72,1,1,1,1,Ozgol,150000,1716
+145,3,1,1,1,Central Janatabad,205000,1717
+116,2,1,1,1,Shahrake Gharb,328666.67,1718
+65,1,1,1,1,Northern Janatabad,90000,1719
+125,2,1,1,1,Ozgol,310000,1720
+143,3,1,1,1,Saadat Abad,373333.33,1721
+150,3,1,1,1,Saadat Abad,493333.33,1722
+88,2,1,1,1,Southern Janatabad,85333.33,1723
+380,4,1,1,1,Elahieh,1666666.67,1724
+95,2,1,1,1,Ostad Moein,99666.67,1725
+58,1,1,1,1,Shahran,95000,1726
+190,3,1,1,1,Farmanieh,833333.33,1727
+120,2,1,1,1,Ekhtiarieh,256666.67,1728
+130,3,1,1,1,Shahrakeh Naft,250000,1729
+85,2,1,1,0,Punak,93333.33,1730
+100,2,1,1,0,Islamshahr,36666.67,1731
+115,2,1,1,1,Gheitarieh,316666.67,1732
+76,2,1,1,1,Shahr-e-Ziba,82666.67,1733
+125,2,1,1,1,Punak,200000,1734
+110,2,1,1,1,Punak,130000,1735
+96,2,1,1,1,Punak,138333.33,1736
+75,2,1,1,0,Islamshahr,41666.67,1737
+105,2,1,1,1,Central Janatabad,143333.33,1738
+160,3,1,1,1,Heravi,233333.33,1739
+76,2,1,1,1,Jeyhoon,60000,1740
+290,4,1,1,1,Zaferanieh,531666.67,1741
+110,2,0,1,1,Zafar,185000,1742
+198,4,1,1,0,Andisheh,173333.33,1743
+105,2,1,1,1,Andisheh,64333.33,1744
+90,2,1,1,1,Islamshahr,36600,1745
+63,1,1,1,1,Islamshahr,29400,1746
+100,2,1,1,1,Central Janatabad,120000,1747
+117,3,1,1,1,Islamshahr,66333.33,1748
+91,2,1,1,0,Islamshahr,54666.67,1749
+60,1,1,1,0,Islamshahr,26000,1750
+110,2,1,1,1,Islamshahr,84333.33,1751
+96,2,1,1,1,Ostad Moein,99666.67,1752
+113,2,1,1,1,Ekhtiarieh,143333.33,1753
+60,1,1,1,1,Persian Gulf Martyrs Lake,9833.33,1754
+74,2,1,1,1,Southern Janatabad,93333.33,1755
+155,3,1,1,1,Dorous,326666.67,1756
+125,2,1,1,1,Ostad Moein,130000,1757
+49,1,1,0,1,Dezashib,105000,1758
+148,3,1,1,1,Saadat Abad,419333.33,1759
+134,3,1,1,1,Qasr-od-Dasht,98333.33,1760
+90,2,1,1,1,Central Janatabad,120000,1761
+110,1,1,1,1,Central Janatabad,148333.33,1762
+115,2,1,1,1,Punak,180166.67,1763
+90,2,1,1,1,Darabad,176666.67,1764
+95,2,1,1,1,North Program Organization,143333.33,1765
+105,2,1,1,1,Pardis,25000,1766
+63,2,1,1,1,Amir Bahador,54600,1767
+185,3,1,1,1,Pasdaran,433333.33,1768
+250,3,1,1,1,Elahieh,1333333.33,1769
+88,2,1,1,0,Northern Janatabad,128333.33,1770
+95,2,1,1,1,Southern Program Organization,143333.33,1771
+108,2,1,1,1,Heravi,213333.33,1772
+90,2,1,1,1,Southern Janatabad,126000,1773
+160,3,1,1,1,Velenjak,320000,1774
+78,2,0,1,1,Parand,14166.67,1775
+120,3,1,1,1,Persian Gulf Martyrs Lake,19666.67,1776
+158,3,1,1,1,Pasdaran,368666.67,1777
+56,1,1,1,1,West Ferdows Boulevard,75000,1778
+155,3,1,1,1,Pasdaran,439166.67,1779
+100,2,1,1,1,Southern Janatabad,190000,1780
+182,3,1,1,1,Saadat Abad,383333.33,1781
+63,2,1,1,1,Shahr-e-Ziba,75000,1782
+60,1,1,1,1,Northern Chitgar,29166.67,1783
+125,2,1,1,1,Shahrake Qods,34333.33,1784
+53,1,0,0,0,Shahrake Qods,13166.67,1785
+150,3,1,1,1,Ekhtiarieh,316666.67,1786
+62,2,1,1,0,Punak,73333.33,1787
+113,2,1,1,1,Ekhtiarieh,200000,1788
+93,2,1,1,0,Parand,21666.67,1789
+84,2,1,1,1,Damavand,71666.67,1790
+83,2,1,1,1,Jeyhoon,73333.33,1791
+150,3,1,1,1,Gheitarieh,433333.33,1792
+147,3,1,1,1,Ekhtiarieh,320000,1793
+75,2,1,1,1,Saadat Abad,183333.33,1794
+119,2,1,1,1,Shahran,156666.67,1795
+105,2,1,1,1,Saadat Abad,160000,1796
+115,2,1,1,1,Ekhtiarieh,210000,1798
+179,3,1,1,1,Velenjak,268500,1799
+86,2,1,1,1,Central Janatabad,120000,1800
+70,1,1,1,1,West Ferdows Boulevard,121666.67,1801
+48,1,1,1,1,Shahr-e-Ziba,58333.33,1802
+70,2,0,1,1,Komeil,41666.67,1803
+102,2,1,1,1,Saadat Abad,204000,1804
+85,2,1,0,1,Pardis,15666.67,1805
+72,2,1,1,0,West Ferdows Boulevard,80000,1806
+120,2,1,1,1,Shahrake Qods,35000,1807
+180,3,1,1,1,Saadat Abad,483333.33,1808
+138,3,1,1,1,Saadat Abad,310000,1809
+87,2,1,1,1,Shahrake Qods,32000,1810
+705,5,1,1,0,Abazar,3033333.33,1811
+200,3,1,1,1,Saadat Abad,533333.33,1812
+87,2,1,1,1,Pardis,19000,1813
+75,2,1,1,1,Shahr-e-Ziba,111666.67,1814
+66,2,1,1,1,Ostad Moein,52666.67,1815
+57,1,1,1,1,West Ferdows Boulevard,96666.67,1816
+62,1,1,1,1,West Ferdows Boulevard,88333.33,1817
+65,2,1,1,1,West Ferdows Boulevard,103333.33,1818
+70,1,0,1,0,Saadat Abad,110000,1819
+65,1,1,1,1,West Ferdows Boulevard,93333.33,1820
+100,2,1,1,1,Ostad Moein,93333.33,1821
+210,3,1,1,1,Saadat Abad,546666.67,1822
+110,2,1,1,1,Saadat Abad,296666.67,1823
+68,2,1,1,1,West Ferdows Boulevard,96666.67,1824
+101,2,1,1,1,Saadat Abad,185166.67,1825
+85,2,1,1,1,Ekhtiarieh,166666.67,1826
+165,3,1,1,1,Saadat Abad,350000,1827
+300,4,1,1,1,Saadat Abad,1000000,1828
+245,3,1,1,1,Shahrake Gharb,633333.33,1829
+105,2,1,1,0,Andisheh,33333.33,1830
+135,2,1,1,1,Saadat Abad,293333.33,1831
+130,3,1,1,1,Saadat Abad,310000,1832
+83,2,1,0,1,Saadat Abad,153333.33,1833
+60,1,1,1,1,Saadat Abad,155000,1834
+52,1,1,1,1,Southern Program Organization,91666.67,1835
+60,2,1,1,1,West Ferdows Boulevard,95000,1836
+60,2,1,1,1,West Ferdows Boulevard,95000,1837
+70,2,1,1,1,East Ferdows Boulevard,100000,1838
+140,3,1,1,1,Shahrake Gharb,373333.33,1839
+120,2,1,1,1,Saadat Abad,226666.67,1840
+62,1,1,1,1,Shahrake Qods,17000,1841
+70,2,1,1,1,West Ferdows Boulevard,86666.67,1842
+150,3,1,1,1,Saadat Abad,316666.67,1843
+69,2,1,1,0,Shahran,61666.67,1844
+97,2,1,1,1,Pardis,25666.67,1845
+70,1,1,1,1,East Ferdows Boulevard,86666.67,1846
+100,2,1,1,1,Jeyhoon,76666.67,1847
+75,2,1,1,0,West Ferdows Boulevard,83333.33,1848
+103,2,1,1,1,Azarbaijan,105000,1849
+85,2,1,1,1,Shahran,88333.33,1850
+150,3,1,1,1,Punak,350000,1851
+66,2,1,1,1,Qalandari,141666.67,1852
+106,2,1,1,1,Pardis,26666.67,1853
+101,2,1,0,1,Pirouzi,110000,1854
+290,4,1,1,1,Aqdasieh,900000,1855
+106,2,1,1,1,Saadat Abad,200000,1856
+107,3,1,1,0,Eram,99000,1857
+122,2,1,1,1,Jeyhoon,130000,1858
+195,3,1,1,1,Shahrake Gharb,650000,1859
+98,2,1,1,1,Shahr-e-Ziba,106666.67,1860
+105,2,1,1,1,Pardis,23333.33,1861
+98,2,1,1,1,Pardis,25666.67,1862
+200,3,1,1,1,Gheitarieh,533333.33,1863
+400,4,1,1,1,Elahieh,2100000,1864
+110,2,1,1,1,Ekhtiarieh,276666.67,1865
+95,2,1,1,1,Ostad Moein,98333.33,1866
+60,1,1,1,1,Southern Program Organization,80000,1867
+76,2,0,0,0,Parand,11500,1868
+222,3,1,1,1,Gheitarieh,660000,1869
+120,2,1,1,1,Punak,200000,1870
+90,2,1,1,1,Ekhtiarieh,200000,1871
+270,3,1,1,1,Kamranieh,883333.33,1872
+110,2,1,1,0,Southern Program Organization,119333.33,1873
+84,2,1,1,1,Shahrake Qods,32733.33,1874
+76,2,1,1,1,Shahrake Qods,29000,1875
+75,2,0,1,1,Parand,13333.33,1876
+170,4,1,1,1,Andisheh,102000,1877
+92,2,0,1,0,Andisheh,31000,1878
+122,3,1,1,0,Parand,28333.33,1879
+170,3,1,1,1,Ekhtiarieh,260000,1880
+147,3,1,1,1,Pasdaran,278333.33,1881
+47,1,0,1,0,Jeyhoon,28333.33,1882
+100,2,1,1,1,Pasdaran,200000,1883
+180,3,1,1,1,Saadat Abad,450000,1884
+90,2,1,1,1,Northern Janatabad,105000,1885
+180,3,1,1,1,Saadat Abad,450000,1886
+80,2,1,1,1,Shahr-e-Ziba,85000,1887
+59,1,1,0,1,Pirouzi,53333.33,1888
+87,2,1,1,1,Pardis,28333.33,1889
+50,1,0,1,1,Ostad Moein,33333.33,1890
+123,3,1,1,1,Gheitarieh,246666.67,1891
+56,1,1,1,1,Feiz Garden,73333.33,1892
+105,2,1,1,1,Pardis,31500,1893
+57,1,1,1,1,Azarbaijan,58333.33,1894
+78,2,1,1,1,Southern Janatabad,116666.67,1895
+92,2,1,1,1,Southern Janatabad,129333.33,1896
+100,2,1,1,1,Pardis,35000,1897
+152,3,1,1,1,Saadat Abad,326666.67,1898
+155,3,1,1,1,Shahrake Gharb,300000,1899
+115,3,1,1,1,Shahr-e-Ziba,129000,1900
+145,3,1,1,1,Shahrake Gharb,366666.67,1901
+115,2,1,1,1,Yousef Abad,180000,1902
+60,1,1,1,0,Central Janatabad,73000,1903
+160,3,1,1,1,Gheitarieh,340000,1904
+101,2,1,1,1,North Program Organization,171666.67,1905
+98,2,1,1,1,Southern Janatabad,120000,1906
+92,2,1,1,1,Punak,129000,1907
+90,2,1,1,1,Northern Janatabad,129333.33,1908
+150,3,1,1,1,West Ferdows Boulevard,240000,1909
+106,2,1,1,1,Persian Gulf Martyrs Lake,98666.67,1910
+135,3,1,1,1,Dehkade Olampic,140000,1911
+105,2,1,1,1,Pardis,29666.67,1912
+209,3,1,1,1,West Ferdows Boulevard,433333.33,1913
+115,2,1,1,0,Tarasht,120000,1914
+110,2,1,1,0,Water Organization,131666.67,1915
+90,2,0,1,1,Northern Janatabad,105000,1916
+190,3,1,1,1,Aqdasieh,800000,1917
+54,1,0,1,1,Punak,66666.67,1918
+133,3,1,1,1,Gheitarieh,443333.33,1919
+200,3,1,1,1,Ajudaniye,900000,1920
+220,3,1,1,1,Kamranieh,1120000,1921
+130,3,1,1,1,Gheitarieh,290000,1922
+123,3,1,1,0,Azadshahr,115000,1923
+105,2,1,1,1,Dehkade Olampic,136666.67,1924
+103,3,1,1,1,Shahran,137600,1925
+105,2,1,1,1,Pardis,23666.67,1926
+161,3,1,1,1,Persian Gulf Martyrs Lake,213333.33,1927
+115,3,0,1,1,Shahrake Qods,53333.33,1928
+85,2,0,0,0,Azadshahr,103333.33,1929
+50,2,1,1,0,Shahran,60666.67,1930
+160,3,1,1,1,Persian Gulf Martyrs Lake,223333.33,1931
+232,3,1,1,1,Farmanieh,766666.67,1932
+98,2,1,1,1,Shahr-e-Ziba,107333.33,1933
+117,2,1,1,1,Shahran,129333.33,1934
+77,2,1,1,1,West Ferdows Boulevard,113333.33,1935
+100,2,1,1,0,Yousef Abad,131666.67,1936
+85,2,1,1,0,Northern Janatabad,98333.33,1937
+145,3,1,1,1,Farmanieh,366666.67,1938
+127,3,1,1,1,Hakimiyeh,149333.33,1939
+79,2,1,1,1,Shahran,98333.33,1940
+120,2,1,1,1,Gheitarieh,366666.67,1941
+173,3,1,1,1,Niavaran,366666.67,1942
+195,3,1,1,1,Farmanieh,576000,1943
+66,2,1,1,1,West Ferdows Boulevard,75666.67,1944
+100,2,1,1,1,Gheitarieh,266666.67,1945
+140,3,1,1,1,Gheitarieh,371666.67,1946
+93,2,1,1,1,Atabak,43333.33,1947
+80,2,1,1,1,Yousef Abad,141666.67,1948
+119,2,1,1,1,Shahran,180000,1949
+100,2,1,1,1,Ekhtiarieh,216666.67,1950
+115,2,1,1,1,Shahran,128000,1951
+52,1,1,1,1,Ekhtiarieh,123333.33,1952
+136,3,1,1,1,Persian Gulf Martyrs Lake,45333.33,1953
+95,2,1,1,1,Shahran,166666.67,1954
+83,3,1,1,1,Shahran,103333.33,1955
+100,2,1,1,1,Shahrake Qods,56666.67,1956
+70,2,1,1,0,Shahran,85000,1957
+73,2,1,1,0,Shahran,86000,1958
+70,2,1,1,1,Shahr-e-Ziba,66666.67,1959
+105,2,1,1,1,Pardis,16666.67,1960
+69,2,1,1,1,Shahr-e-Ziba,68333.33,1961
+87,2,1,1,1,Pardis,17666.67,1962
+66,1,1,1,1,Pardis,24000,1963
+98,2,1,1,1,Pardis,33333.33,1964
+64,2,1,1,1,Shahr-e-Ziba,66000,1965
+65,2,1,1,1,Shahr-e-Ziba,66666.67,1966
+85,2,1,1,1,Central Janatabad,111666.67,1967
+85,2,1,1,1,Punak,150000,1968
+93,2,1,1,1,Gheitarieh,186666.67,1969
+155,3,1,1,1,Heravi,300000,1970
+450,2,0,0,0,Absard,150000,1971
+117,3,1,1,1,Shahrake Gharb,226666.67,1972
+85,2,1,1,1,Pakdasht,21333.33,1973
+500,4,1,1,0,Damavand,666666.67,1974
+900,3,1,1,0,Damavand,283333.33,1975
+60,1,1,1,1,Persian Gulf Martyrs Lake,29166.67,1976
+60,1,1,1,1,Persian Gulf Martyrs Lake,29000,1977
+58,2,1,1,1,Sabalan,40000,1978
+118,2,1,1,1,Shahrake Qods,32000,1979
+98,2,1,1,1,Gheitarieh,290000,1980
+60,1,0,1,1,Narmak,70000,1981
+85,2,1,1,1,Gheitarieh,246666.67,1982
+110,2,1,1,1,Heravi,166666.67,1983
+190,3,1,1,1,Gheitarieh,400000,1984
+235,3,1,1,1,Gheitarieh,800000,1985
+150,3,1,1,1,Gheitarieh,483333.33,1986
+197,3,1,1,1,Gheitarieh,443333.33,1987
+153,2,1,1,1,Gheitarieh,443333.33,1988
+99,2,1,1,1,Heravi,163333.33,1989
+195,3,1,1,1,Gheitarieh,663333.33,1990
+125,2,1,1,1,Gheitarieh,386666.67,1991
+85,2,1,1,1,Gheitarieh,243333.33,1992
+103,2,1,1,1,Heravi,221333.33,1993
+235,3,1,1,1,Gheitarieh,850000,1994
+107,2,1,1,1,Velenjak,440000,1995
+195,3,1,1,1,Gheitarieh,650000,1996
+170,3,0,0,0,Gheitarieh,483333.33,1997
+153,3,1,1,1,Gheitarieh,433333.33,1998
+90,2,1,1,1,Pirouzi,88333.33,1999
+88,2,1,1,1,Gheitarieh,253333.33,2000
+100,2,1,1,1,Gheitarieh,283333.33,2001
+100,2,1,1,1,Saadat Abad,216666.67,2002
+203,3,1,1,1,Araj,460000,2003
+200,3,1,1,1,Aqdasieh,443333.33,2004
+200,3,1,1,1,Araj,456666.67,2005
+116,3,1,1,1,Gheitarieh,266666.67,2006
+202,3,0,0,0,Araj,443333.33,2007
+202,3,1,1,1,Aqdasieh,440000,2008
+61,1,1,1,1,Si Metri Ji,43933.33,2009
+70,2,1,1,1,Jeyhoon,51666.67,2010
+62,2,1,1,1,Beryanak,46666.67,2011
+200,3,1,1,1,Araj,443333.33,2012
+120,3,1,1,1,Ostad Moein,131666.67,2013
+87,2,1,1,1,Amirabad,159333.33,2014
+200,3,1,1,1,Aqdasieh,446666.67,2015
+80,2,1,1,1,Parand,16666.67,2016
+202,3,0,0,0,Araj,450000,2017
+57,1,0,1,1,Ostad Moein,44000,2018
+202,3,1,1,1,Araj,456666.67,2019
+84,2,1,1,1,Pirouzi,75000,2020
+202,3,1,1,1,Aqdasieh,490000,2021
+93,2,1,1,1,Saadat Abad,186666.67,2022
+85,2,1,1,1,Gheitarieh,266666.67,2023
+100,2,1,1,1,Saadat Abad,246666.67,2024
+153,2,1,1,1,Aqdasieh,350000,2025
+122,3,1,1,1,Saadat Abad,266666.67,2026
+150,2,1,1,1,Aqdasieh,350000,2027
+56,2,1,1,1,Ostad Moein,50000,2028
+150,2,1,1,1,Araj,350000,2029
+202,3,1,1,1,Araj,476666.67,2030
+201,3,1,1,1,Aqdasieh,473333.33,2031
+140,3,1,1,1,Shahrake Qods,86333.33,2032
+200,3,1,1,1,Aqdasieh,466666.67,2033
+67,2,1,1,0,Jeyhoon,50000,2034
+86,2,1,1,1,Gheitarieh,240000,2035
+120,3,1,1,1,Ostad Moein,131666.67,2036
+84,2,1,1,1,Gheitarieh,246666.67,2037
+86,2,1,1,1,Central Janatabad,126666.67,2038
+85,2,1,1,1,Gheitarieh,243333.33,2039
+67,2,1,1,1,Shahran,76666.67,2040
+90,2,1,1,1,Northern Janatabad,160000,2041
+83,2,1,1,1,Gheitarieh,243333.33,2042
+70,2,1,1,1,Jeyhoon,57666.67,2043
+88,2,1,1,1,Shahrake Qods,37840,2044
+167,3,1,1,1,Gheitarieh,366666.67,2045
+100,2,0,0,0,Shahrake Qods,21666.67,2046
+100,2,1,1,1,Shahrake Qods,33333.33,2047
+60,2,1,1,1,Southern Janatabad,76666.67,2048
+155,3,1,1,1,Gheitarieh,366666.67,2049
+76,2,1,1,1,Jeyhoon,61666.67,2050
+90,2,1,1,1,Shahrake Qods,30000,2051
+65,1,1,1,1,Shahrake Qods,17833.33,2052
+80,2,1,1,1,Shahrake Qods,22666.67,2053
+135,2,1,1,1,Gheitarieh,290000,2054
+94,2,1,1,1,Shahrake Qods,31666.67,2055
+110,2,1,1,1,Gheitarieh,273333.33,2056
+115,3,1,1,1,Farmanieh,230000,2057
+170,3,1,1,1,Gheitarieh,373333.33,2058
+115,3,0,1,1,Farmanieh,230000,2059
+60,1,0,0,0,Damavand,30000,2060
+105,2,1,1,1,Saadat Abad,193333.33,2061
+61,2,0,1,0,Salsabil,34666.67,2062
+100,2,1,1,1,Saadat Abad,200000,2063
+145,3,1,1,1,Jeyhoon,153333.33,2064
+87,2,1,1,1,Pardis,15966.67,2065
+87,2,1,1,1,Pardis,16533.33,2066
+115,3,1,1,1,Shahrake Gharb,216666.67,2067
+85,2,1,1,1,Pardis,23000,2068
+67,2,1,1,0,Punak,76000,2069
+94,2,1,1,1,Shahran,76000,2070
+90,2,1,1,1,Shahran,106666.67,2071
+86,2,1,1,1,Pardis,29666.67,2074
+60,2,1,1,1,West Ferdows Boulevard,88333.33,2075
+58,1,1,1,1,Shahrake Gharb,113333.33,2076
+76,2,1,1,1,Shahr-e-Ziba,95000,2077
+57,1,1,1,1,Southern Program Organization,80000,2078
+81,2,1,1,1,West Ferdows Boulevard,110000,2079
+112,3,1,1,1,West Ferdows Boulevard,120000,2080
+75,2,1,1,1,Shahran,116666.67,2081
+153,3,1,1,1,Punak,250000,2082
+95,2,1,1,1,Shahrake Gharb,170000,2083
+101,2,1,1,1,Shahrake Gharb,218833.33,2084
+40,0,0,0,0,Pakdasht,5500,2085
+88,2,1,1,1,Railway,95333.33,2086
+141,3,1,1,1,Persian Gulf Martyrs Lake,127000,2087
+140,3,1,1,1,Persian Gulf Martyrs Lake,59666.67,2088
+120,2,1,1,1,Persian Gulf Martyrs Lake,51000,2089
+66,2,0,1,0,Beryanak,33333.33,2090
+70,2,1,1,1,Punak,116666.67,2091
+75,2,1,0,1,Heshmatieh,100000,2092
+70,2,0,1,1,Elm-o-Sanat,60000,2093
+150,3,1,1,1,Saadat Abad,666666.67,2094
+95,2,1,1,1,Golestan,31666.67,2095
+65,2,1,1,0,Jeyhoon,48333.33,2096
+88,3,0,1,1,Parand,15833.33,2097
+113,3,1,1,0,Gheitarieh,200000,2098
+50,1,1,1,0,Shahrake Qods,12000,2099
+45,1,0,0,1,Ostad Moein,40000,2100
+53,1,0,1,1,Narmak,45000,2101
+100,2,1,1,1,Andisheh,60000,2102
+50,1,1,1,0,Shahryar,16666.67,2103
+43,0,0,1,0,Nasim Shahr,12000,2104
+85,2,1,1,0,Baghestan,25500,2105
+134,3,1,1,1,North Program Organization,213333.33,2106
+90,2,1,1,1,Shahr-e-Ziba,100000,2107
+90,2,1,1,1,Shahrake Qods,42000,2108
+135,2,1,1,0,SabaShahr,73333.33,2109
+130,3,1,1,1,Railway,195000,2110
+55,1,1,1,0,Andisheh,18333.33,2111
+200,5,0,0,0,Dehkade Olampic,400000,2112
+107,2,1,1,1,Shahrake Madaen,26666.67,2113
+150,2,1,1,1,Pakdasht,42333.33,2114
+56,1,0,1,0,Ostad Moein,40000,2115
+160,3,1,1,0,Azadshahr,150000,2116
+138,3,1,1,1,Salsabil,119466.67,2117
+125,3,1,1,1,Tehransar,125000,2118
+83,2,1,1,1,Shahr-e-Ziba,83666.67,2119
+131,3,1,1,1,Railway,195000,2120
+115,2,1,1,1,Central Janatabad,162333.33,2121
+50,1,1,1,0,Andisheh,21666.67,2122
+91,2,1,1,1,West Ferdows Boulevard,120000,2123
+80,2,1,1,1,Central Janatabad,113166.67,2124
+40,1,0,1,0,Qasr-od-Dasht,24000,2125
+68,2,1,1,1,Shahr-e-Ziba,71666.67,2126
+110,2,1,1,1,Shahran,130666.67,2127
+50,1,1,1,0,Beryanak,27666.67,2129
+110,2,1,1,1,Shahr-e-Ziba,185000,2130
+95,2,1,1,1,Shahr-e-Ziba,97333.33,2131
+65,2,1,1,1,Southern Janatabad,75000,2132
+108,2,1,1,1,Persian Gulf Martyrs Lake,100800,2133
+62,2,0,1,0,Beryanak,31000,2134
+37,1,0,1,1,Hashemi,27666.67,2135
+105,2,1,1,1,West Ferdows Boulevard,121666.67,2136
+41,1,0,1,0,Salsabil,25666.67,2137
+85,2,1,1,1,Shahrakeh Naft,153333.33,2138
+150,3,1,1,1,Shahrake Gharb,411666.67,2139
+83,2,1,1,1,East Ferdows Boulevard,93333.33,2140
+174,3,1,1,1,Valiasr,333333.33,2141
+105,3,1,1,1,Yousef Abad,157500,2142
+57,2,0,0,1,Waterfall,42166.67,2143
+200,3,1,1,1,Sadeghieh,233333.33,2144
+75,2,0,0,0,Baghestan,20000,2145
+87,2,0,0,0,Pardis,30000,2146
+63,2,0,1,0,Qasr-od-Dasht,42000,2147
+64,2,1,1,1,Central Janatabad,74666.67,2148
+65,2,0,0,0,Ostad Moein,40000,2149
+87,2,1,1,1,Pardis,21666.67,2150
+44,1,0,1,0,Shahryar,19000,2151
+85,2,0,0,0,Pakdasht,11833.33,2152
+43,1,0,1,0,Ahang,26666.67,2153
+118,3,1,1,1,Sattarkhan,163333.33,2154
+92,2,1,1,1,Shahran,90000,2155
+124,3,1,1,1,Sattarkhan,113333.33,2156
+56,1,0,1,0,Jeyhoon,31666.67,2157
+40,1,0,1,0,Pirouzi,29000,2158
+92,2,1,1,1,West Ferdows Boulevard,99000,2159
+86,2,1,1,1,Central Janatabad,111000,2160
+51,2,1,1,0,Shahran,61666.67,2161
+70,1,0,0,0,Baghestan,18666.67,2162
+85,2,1,1,1,Shahrake Qods,35400,2163
+51,1,0,1,0,Ostad Moein,30000,2164
+131,2,1,1,1,Ray,113333.33,2165
+48,1,0,1,0,Komeil,27333.33,2166
+84,2,1,1,0,Andisheh,25766.67,2167
+95,2,1,1,1,Hashemi,78333.33,2168
+74,2,1,1,1,Eskandari,98666.67,2169
+68,2,1,1,1,East Ferdows Boulevard,83333.33,2170
+240,4,1,1,1,Persian Gulf Martyrs Lake,160000,2171
+44,1,0,1,0,Qasr-od-Dasht,25666.67,2173
+82,2,1,1,1,Shahran,95000,2174
+44,1,1,1,0,Salsabil,35000,2175
+42,1,0,1,0,Pirouzi,32000,2176
+63,1,1,1,1,Aqdasieh,133333.33,2177
+110,2,0,1,1,Salehabad,25000,2178
+235,3,1,1,1,Niavaran,1033333.33,2179
+500,2,1,1,0,Absard,103333.33,2180
+57,1,1,1,0,Feiz Garden,64333.33,2181
+170,3,1,1,1,Pakdasht,42666.67,2182
+115,2,1,1,0,Golestan,68333.33,2183
+68,2,1,1,1,Southern Program Organization,90000,2184
+62,1,0,1,1,Baghestan,20666.67,2185
+56,1,1,1,1,Shahr-e-Ziba,73333.33,2186
+75,2,1,1,1,Shahran,103666.67,2187
+95,2,1,1,1,Pasdaran,195000,2188
+144,3,1,1,1,Zafar,345600,2189
+50,1,0,0,1,Qarchak,12666.67,2190
+78,2,1,1,0,Sattarkhan,70000,2191
+95,2,1,0,1,Ray,68333.33,2192
+90,2,1,1,1,Ray,60000,2193
+95,2,1,1,1,Punak,140000,2194
+350,4,1,1,1,Niavaran,2400000,2195
+71,2,1,1,1,West Ferdows Boulevard,77666.67,2196
+80,1,0,0,0,Pishva,12666.67,2197
+44,1,1,0,1,Ostad Moein,33333.33,2198
+46,1,1,1,1,Jeyhoon,38333.33,2199
+78,2,1,1,0,Sattarkhan,67000,2200
+67,2,0,1,0,Karoon,35666.67,2201
+49,1,1,1,0,Andisheh,3666.67,2202
+105,2,1,1,1,Andisheh,40000,2203
+72,2,0,1,1,Beryanak,43000,2204
+65,2,0,1,1,Salsabil,40666.67,2205
+80,2,1,1,1,West Pars,72000,2206
+66,2,0,1,0,Jeyhoon,39566.67,2207
+58,2,0,1,0,Jeyhoon,40333.33,2208
+67,2,0,1,0,Salsabil,40500,2209
+89,2,1,1,0,Andisheh,35600,2210
+75,2,1,1,1,Beryanak,48333.33,2211
+85,2,0,1,1,Si Metri Ji,48000,2212
+94,2,1,1,1,Central Janatabad,143333.33,2213
+67,2,1,1,0,Jeyhoon,48000,2214
+60,1,0,1,1,Shahrake Qods,30666.67,2215
+67,1,1,0,1,Beryanak,47166.67,2216
+65,2,0,0,1,Beryanak,43666.67,2217
+72,2,0,1,1,Beryanak,43333.33,2218
+62,2,1,1,1,Salsabil,45000,2219
+37,1,0,1,1,Ostad Moein,33300,2220
+105,3,1,1,1,Shahr-e-Ziba,118333.33,2221
+78,2,0,0,1,Parand,13900,2222
+53,1,0,1,0,Baghestan,15000,2223
+80,2,0,1,1,Shahr-e-Ziba,81666.67,2224
+88,2,1,1,1,Persian Gulf Martyrs Lake,95000,2225
+39,1,0,1,0,Andisheh,12333.33,2226
+128,2,1,1,1,Jordan,204800,2227
+87,2,1,1,1,Shahrake Shahid Bagheri,81666.67,2228
+48,1,0,1,0,Beryanak,27666.67,2229
+86,2,1,1,1,Pardis,16666.67,2230
+86,2,1,1,1,Pardis,20000,2231
+75,2,1,1,1,Punak,76666.67,2232
+110,3,1,1,1,Jordan,205333.33,2233
+172,3,1,1,1,Heravi,310000,2234
+147,3,1,1,1,Yousef Abad,386666.67,2235
+70,1,1,1,0,Enghelab,51333.33,2236
+235,3,1,1,1,Niavaran,950000,2237
+115,2,1,1,1,Heravi,200000,2238
+114,2,1,1,1,Pakdasht,36333.33,2239
+40,1,1,1,0,Pirouzi,46000,2240
+125,3,1,1,1,Yousef Abad,281666.67,2241
+90,2,1,1,1,Golestan,43833.33,2242
+78,2,0,1,1,Gisha,59800,2243
+47,1,0,1,0,Ostad Moein,35000,2245
+114,3,1,1,1,Yousef Abad,163333.33,2246
+65,1,1,1,1,Southern Janatabad,83333.33,2247
+50,1,0,1,0,Baghestan,13666.67,2248
+125,2,1,1,1,Islamshahr Elahieh,58333.33,2249
+41,1,0,0,0,Salsabil,27166.67,2250
+136,3,1,1,1,Yousef Abad,273333.33,2251
+40,1,0,1,0,Jeyhoon,26666.67,2252
+60,2,0,1,0,Si Metri Ji,21666.67,2253
+75,2,1,1,1,Pirouzi,58333.33,2254
+120,3,1,1,1,Yousef Abad,266666.67,2255
+165,3,1,1,1,Pakdasht,33333.33,2256
+110,2,0,1,0,Pakdasht,21333.33,2257
+116,2,1,1,1,Shahran,154666.67,2258
+115,2,1,1,1,Shahran,150000,2259
+77,2,0,1,1,Pakdasht,15333.33,2260
+120,3,1,1,1,Yousef Abad,233333.33,2261
+100,2,0,1,1,Pakdasht,22000,2262
+130,3,1,1,1,Yousef Abad,200000,2263
+60,1,1,1,1,Islamshahr,40000,2264
+75,2,0,1,1,Parand,12833.33,2265
+128,3,1,1,0,Niavaran,283333.33,2266
+150,2,1,1,1,Zaferanieh,500000,2267
+135,3,1,1,1,Yousef Abad,333333.33,2268
+60,1,1,1,1,Zafar,40000,2269
+41,1,0,0,0,Elahieh,27166.67,2270
+113,2,1,1,1,Niavaran,300000,2271
+52,1,0,1,1,Andisheh,22166.67,2272
+100,2,1,1,1,Aqdasieh,233333.33,2273
+66,2,1,1,0,Punak,88333.33,2274
+200,3,1,1,1,Niavaran,966666.67,2275
+170,3,1,1,1,Niavaran,736666.67,2276
+100,2,1,1,1,Gheitarieh,276666.67,2277
+90,1,1,1,1,Kamranieh,333333.33,2278
+200,3,1,1,1,Niavaran,466666.67,2279
+51,1,1,0,1,Ray - Montazeri,41666.67,2280
+70,2,1,1,0,Punak,89333.33,2281
+73,2,1,1,0,West Ferdows Boulevard,73333.33,2282
+245,2,0,0,0,Islamshahr,260000,2283
+87,2,1,1,1,Darabad,195000,2284
+120,2,1,1,1,Velenjak,300000,2285
+171,3,1,1,1,Elahieh,427500,2286
+66,2,1,1,0,Punak,82000,2287
+77,2,1,1,1,Aqdasieh,173333.33,2288
+40,1,1,1,0,Narmak,41666.67,2289
+105,2,1,1,1,Shahr-e-Ziba,93333.33,2290
+50,1,1,1,1,Ozgol,100000,2291
+94,2,1,1,0,Amirabad,113333.33,2292
+65,2,1,1,0,West Ferdows Boulevard,71666.67,2293
+57,1,1,1,0,Valiasr,25000,2294
+79,2,1,1,1,Parand,13666.67,2295
+60,2,0,1,0,Jeyhoon,21666.67,2296
+68,2,1,1,1,West Ferdows Boulevard,76666.67,2297
+86,2,1,1,0,Firoozkooh Kuhsar,25000,2298
+80,2,1,1,1,West Ferdows Boulevard,90000,2299
+68,2,1,1,0,West Ferdows Boulevard,76666.67,2300
+43,1,1,1,0,Narmak,44333.33,2301
+55,1,1,1,1,West Ferdows Boulevard,63333.33,2302
+77,2,1,1,1,Northern Janatabad,89333.33,2303
+58,1,0,0,0,Parand,10500,2304
+62,1,1,0,1,Ostad Moein,48000,2305
+65,2,1,1,0,West Ferdows Boulevard,73333.33,2306
+60,1,1,1,1,Salsabil,51000,2307
+35,1,0,1,0,Salsabil,22000,2308
+54,1,0,1,0,Azarbaijan,36666.67,2309
+70,2,1,1,1,Southern Program Organization,75000,2310
+122,3,1,1,1,Ghoba,223333.33,2311
+54,1,0,1,0,Salsabil,30033.33,2312
+80,2,1,1,1,Shahryar,28333.33,2313
+71,2,1,1,1,Salsabil,58333.33,2314
+220,4,1,1,0,Shahryar,250000,2315
+61,1,0,1,0,Qasr-od-Dasht,27933.33,2316
+49,1,0,1,0,Hashemi,35933.33,2317
+55,2,1,1,1,Salsabil,44985,2318
+41,1,0,1,0,Hashemi,28000,2319
+64,2,1,1,0,Salsabil,36666.67,2320
+240,4,1,1,0,Andisheh,143333.33,2321
+32,1,0,1,0,Hashemi,20333.33,2322
+52,1,0,1,0,Hashemi,32000,2323
+50,1,0,1,0,Salsabil,21333.33,2324
+32,1,0,1,1,Eskandari,31333.33,2325
+40,1,1,1,1,Azarbaijan,38333.33,2326
+73,1,0,1,1,Komeil,48666.67,2327
+50,1,1,1,0,Andisheh,25166.67,2328
+45,1,0,1,0,Jeyhoon,24833.33,2329
+65,2,1,1,0,Qasr-od-Dasht,42666.67,2330
+51,1,1,1,1,Salsabil,38333.33,2331
+300,3,1,1,0,Golestan,800000,2332
+100,2,1,1,0,Pardis,90000,2333
+55,2,1,1,1,Azarbaijan,33333.33,2334
+200,2,0,0,0,Kahrizak,88333.33,2335
+38,1,1,1,1,Karoon,38000,2336
+140,3,1,1,1,Farmanieh,310000,2337
+58,1,1,1,0,Central Janatabad,66666.67,2339
+67,2,0,1,1,Jeyhoon,40000,2340
+57,1,1,1,0,Salsabil,29000,2341
+53,2,1,1,0,Jeyhoon,36666.67,2342
+95,2,1,1,1,Niavaran,296666.67,2343
+128,3,1,1,1,Pirouzi,145000,2344
+62,2,0,0,1,Parand,11666.67,2345
+60,1,0,1,0,Salsabil,37666.67,2346
+52,1,1,1,0,Salsabil,36666.67,2347
+52,1,0,1,0,Jeyhoon,38336.67,2348
+45,1,0,1,1,Karoon,32166.67,2349
+60,1,1,1,1,Ekhtiarieh,100000,2350
+83,2,0,1,1,Valiasr,56666.67,2351
+211,3,1,1,1,Marzdaran,526666.67,2352
+65,2,1,1,0,Karoon,47666.67,2353
+115,2,0,1,0,Ostad Moein,43333.33,2354
+70,2,1,1,0,Central Janatabad,70000,2355
+51,1,0,1,0,Salsabil,29000,2356
+100,2,1,1,1,Niavaran,250000,2357
+115,2,1,1,1,Zaferanieh,340000,2358
+160,3,1,1,1,Niavaran,583333.33,2359
+107,2,1,1,1,Hekmat,216666.67,2360
+82,2,1,0,1,Parand,16666.67,2361
+135,2,1,1,1,Zaferanieh,600000,2362
+198,3,1,1,1,Ekhtiarieh,600000,2363
+85,2,1,1,1,Andisheh,36666.67,2364
+92,2,1,1,1,Shams Abad,108333.33,2365
+115,2,1,1,1,Zaferanieh,600000,2366
+137,3,1,1,1,ShahrAra,240000,2367
+65,1,1,1,1,East Ferdows Boulevard,72333.33,2368
+175,3,1,1,1,Farmanieh,733333.33,2369
+95,2,1,1,1,Gheitarieh,326666.67,2370
+225,3,1,1,1,Farmanieh,1283333.33,2371
+270,4,1,1,1,Niavaran,1166666.67,2372
+200,3,1,1,1,Niavaran,1133333.33,2373
+60,1,1,1,1,Northern Chitgar,40000,2374
+88,2,0,1,1,Shams Abad,111666.67,2375
+250,3,1,1,1,Niavaran,1133333.33,2376
+55,1,0,1,0,Pirouzi,53333.33,2377
+91,2,1,1,1,Ostad Moein,81166.67,2378
+80,2,1,1,0,Punak,93333.33,2379
+74,2,0,0,0,Parand,14666.67,2380
+90,2,1,1,0,Pirouzi,56666.67,2381
+43,1,0,1,1,Si Metri Ji,25000,2382
+78,2,0,1,1,Parand,14333.33,2383
+72,2,1,0,1,Parand,12833.33,2384
+100,2,0,0,0,Kahrizak,40000,2385
+110,2,1,0,0,Amirabad,133333.33,2386
+62,1,0,1,0,Islamshahr,19333.33,2387
+120,1,0,0,0,Afsarieh,105000,2388
+120,2,1,1,1,Ekhtiarieh,300000,2389
+64,2,1,1,1,Ostad Moein,59666.67,2390
+147,3,1,1,1,Saadat Abad,303800,2391
+140,3,1,1,1,Kamranieh,270000,2392
+170,3,1,1,1,Heravi,266333.33,2393
+109,2,1,1,1,Heravi,236666.67,2394
+310,3,1,1,1,Aqdasieh,2480000,2395
+283,3,1,1,1,Farmanieh,1128000,2396
+66,1,0,0,0,Shahedshahr,9900,2397
+75,2,0,1,0,Golestan,20000,2398
+63,2,1,1,1,Ostad Moein,55666.67,2399
+77,2,1,1,1,Gholhak,206666.67,2400
+59,2,1,1,1,Shahr-e-Ziba,53333.33,2401
+220,5,1,0,0,Andisheh,216666.67,2402
+66,2,1,1,0,Southern Program Organization,66666.67,2403
+80,2,1,1,0,Shahr-e-Ziba,81666.67,2404
+55,1,0,0,1,Northren Jamalzadeh,51333.33,2405
+63,2,0,1,0,Andisheh,13666.67,2406
+92,2,1,1,1,Punak,133333.33,2407
+88,2,1,1,1,Shahrake Gharb,175000,2408
+98,2,1,1,1,Pardis,25666.67,2409
+75,2,1,1,1,Jeyhoon,66000,2410
+114,2,1,1,1,Pakdasht,36666.67,2411
+80,2,1,1,1,Punak,100000,2412
+50,1,0,0,0,Shahrake Qods,12666.67,2413
+66,2,1,1,1,Punak,98333.33,2414
+102,2,1,1,1,Sattarkhan,21666.67,2415
+72,2,1,1,1,Punak,106666.67,2416
+62,1,0,0,0,Qasr-od-Dasht,62000,2417
+110,2,0,1,1,Pakdasht,28000,2418
+70,2,1,1,1,Zafar,175000,2419
+115,2,1,1,1,Saadat Abad,200000,2420
+55,1,0,1,0,West Ferdows Boulevard,51666.67,2421
+71,2,1,1,0,Jeyhoon,59333.33,2422
+58,1,1,1,1,West Ferdows Boulevard,68333.33,2423
+125,2,1,1,1,Shahrake Qods,45833.33,2424
+42,1,1,0,1,Shahran,58333.33,2425
+66,2,1,1,0,Narmak,73333.33,2426
+130,4,0,0,0,Mehrabad,206666.67,2428
+65,1,1,1,1,Southern Program Organization,81666.67,2429
+39,1,0,0,0,Salsabil,25333.33,2430
+60,2,0,1,1,Qasr-od-Dasht,61666.67,2431
+75,2,1,1,1,Salsabil,75333.33,2432
+70,1,0,1,0,Salsabil,39333.33,2433
+57,2,1,1,1,Salsabil,53333.33,2434
+39,1,0,1,0,Salsabil,26666.67,2435
+70,2,0,0,0,Tehran Now,56666.67,2436
+110,2,1,1,1,Ekhtiarieh,216666.67,2437
+47,1,0,1,0,Qasr-od-Dasht,29000,2438
+114,2,0,0,0,Northern Suhrawardi,216666.67,2439
+60,1,0,1,1,Southern Suhrawardi,73666.67,2440
+115,3,1,1,1,Islamshahr,55000,2441
+110,3,1,1,1,Heravi,195000,2442
+78,2,1,1,1,Jeyhoon,68333.33,2443
+80,2,1,1,1,Ekhtiarieh,146666.67,2444
+78,2,0,0,1,Parand,14000,2445
+73,2,1,1,0,Andisheh,28933.33,2446
+95,2,1,1,1,Andisheh,40000,2447
+63,2,1,1,0,Azarbaijan,46333.33,2448
+98,2,1,1,1,Andisheh,45666.67,2449
+105,2,1,1,1,Islamshahr,50000,2450
+50,1,1,1,0,Tehransar,41666.67,2451
+51,1,0,1,1,Kahrizak,20333.33,2452
+125,2,1,1,1,Dezashib,375000,2453
+105,3,1,1,1,Kahrizak,38500,2454
+55,1,0,1,1,Kahrizak,22000,2455
+105,2,1,1,1,Kahrizak,38666.67,2456
+105,3,1,1,1,Kahrizak,43733.33,2457
+70,2,1,1,1,Kahrizak,23800,2458
+82,2,1,1,1,Kahrizak,27333.33,2459
+50,1,1,1,1,Mirdamad,108333.33,2460
+105,2,1,1,1,Pardis,25333.33,2461
+110,2,1,1,1,Gholhak,293333.33,2462
+85,2,1,1,1,Kahrizak,28333.33,2463
+78,2,1,1,0,Punak,103333.33,2464
+106,2,1,1,1,Pardis,16833.33,2465
+95,2,1,1,1,Gheitarieh,190000,2466
+62,1,1,0,1,Tehransar,51000,2467
+78,2,0,0,0,Damavand,16333.33,2468
+225,4,1,1,1,Kamranieh,675000,2469
+72,2,1,1,0,Shahran,86666.67,2470
+50,1,1,0,0,Parand,12500,2471
+50,1,0,1,0,Abuzar,28333.33,2472
+103,2,0,1,0,Northern Suhrawardi,130000,2473
+47,1,1,1,0,Dolatabad,23166.67,2474
+90,2,1,1,1,Karoon,66666.67,2475
+80,2,1,1,1,Punak,125333.33,2476
+450,4,1,1,1,Niavaran,833333.33,2477
+72,2,1,1,1,Salsabil,56666.67,2478
+258,4,1,1,0,Jordan,400000,2479
+98,2,1,1,1,Salsabil,87666.67,2480
+130,3,0,1,0,Shahrake Qods,20000,2481
+700,3,1,1,0,Damavand,150000,2482
+104,2,1,1,1,Shahrake Qods,30000,2483
+140,3,1,1,1,Ekhtiarieh,366666.67,2484
+96,2,1,1,1,Shahran,116666.67,2485
+58,1,0,1,0,Shahrake Qods,13333.33,2486
+150,3,1,1,1,Salsabil,150000,2487
+55,2,1,1,0,Shahran,62333.33,2488
+60,1,0,0,0,Shahrake Qods,14333.33,2489
+98,2,1,1,1,Pardis,26333.33,2490
+85,2,1,1,1,Shahrake Qods,22333.33,2491
+85,2,1,0,1,Elm-o-Sanat,111666.67,2492
+97,2,1,1,1,Punak,156666.67,2493
+80,2,1,1,1,Hor Square,62483.33,2494
+57,1,0,0,1,Niavaran,120000,2495
+63,1,1,1,0,Jeyhoon,40000,2496
+85,2,1,1,1,Hor Square,65243.33,2497
+70,2,1,1,1,Hor Square,13333.33,2498
+100,2,1,1,1,Hor Square,76130,2499
+90,2,1,1,1,Hor Square,69038.33,2500
+75,2,0,0,0,Parand,12166.67,2501
+42,1,1,0,0,Nezamabad,27833.33,2502
+250,4,1,1,1,Zaferanieh,625000,2503
+83,2,1,1,1,Dolatabad,49666.67,2504
+90,2,1,1,1,Damavand,20166.67,2505
+72,2,1,1,1,Razi,40200,2506
+52,1,0,0,0,Damavand,12500,2507
+106,2,1,1,1,Damavand,78666.67,2508
+73,2,1,1,1,Parand,12833.33,2509
+100,2,1,1,1,Razi,61666.67,2510
+85,2,1,1,0,Shahrake Qods,21333.33,2511
+49,1,0,0,0,Abuzar,34000,2512
+115,2,1,1,1,East Pars,180000,2513
+127,2,1,1,1,Narmak,160866.67,2514
+93,2,0,1,1,Gisha,120000,2515
+47,1,0,0,0,Islamshahr,9833.33,2516
+117,3,1,1,1,Tarasht,148000,2517
+182,3,1,1,1,Marzdaran,386666.67,2518
+160,3,1,1,1,Azarbaijan,100000,2519
+181,3,1,1,1,Marzdaran,433333.33,2520
+163,3,1,1,1,Marzdaran,370000,2521
+83,2,1,1,0,Damavand,51666.67,2522
+142,3,1,1,1,Heravi,215500,2523
+92,2,1,1,1,Pardis,18833.33,2524
+100,2,1,0,1,Parand,30000,2525
+60,1,1,1,0,Parand,22000,2526
+58,1,0,0,1,Parand,10666.67,2527
+58,1,0,0,1,Parand,10666.67,2528
+85,2,1,1,1,Pardis,21666.67,2529
+87,2,1,1,1,Pardis,22666.67,2530
+78,2,0,0,1,Parand,12333.33,2531
+88,1,0,0,1,Parand,12666.67,2532
+210,4,1,1,0,Narmak,766666.67,2533
+72,2,1,1,1,Razi,13700,2534
+101,2,1,1,1,Feiz Garden,151666.67,2535
+68,2,0,1,1,Parand,10333.33,2536
+60,1,0,1,1,Islamshahr,22000,2537
+65,2,0,1,1,Islamshahr,26000,2538
+117,2,1,1,1,Shahrake Gharb,353333.33,2539
+96,1,0,0,0,Islamshahr,56666.67,2540
+98,2,1,1,1,Pardis,30333.33,2541
+52,1,1,1,0,Andisheh,22333.33,2542
+85,2,1,1,1,Punak,113333.33,2543
+62,2,1,1,1,Punak,58333.33,2544
+74,2,0,0,0,Parand,14000,2545
+74,2,0,0,1,Parand,10166.67,2546
+58,1,0,0,0,Parand,8500,2547
+125,3,1,1,0,Parand,55000,2548
+75,2,0,0,1,Parand,11500,2549
+58,5,0,0,1,Parand,9833.33,2550
+74,2,1,1,1,Parand,30000,2551
+45,1,0,1,1,Pirouzi,41666.67,2552
+58,1,1,1,1,Parand,9166.67,2553
+75,2,0,0,0,Parand,8166.67,2554
+75,2,1,0,1,Parand,10166.67,2555
+88,2,1,1,1,Southern Janatabad,116666.67,2556
+130,2,1,1,0,Jeyhoon,173333.33,2557
+120,2,1,1,1,Majidieh,54000,2558
+85,2,1,1,1,Central Janatabad,110000,2559
+150,3,1,1,1,Punak,226666.67,2560
+165,3,1,1,1,Gheitarieh,328333.33,2561
+240,4,1,1,0,Andisheh,190000,2562
+76,2,1,1,0,West Ferdows Boulevard,66333.33,2563
+120,2,1,1,1,Shahrake Gharb,326666.67,2564
+165,3,0,1,0,Heshmatieh,137500,2565
+165,3,0,1,0,Heshmatieh,137500,2566
+130,2,1,1,0,Jeyhoon,173333.33,2567
+73,2,1,0,0,Central Janatabad,91666.67,2568
+70,2,1,1,1,East Ferdows Boulevard,91666.67,2569
+120,3,1,1,1,Shahr-e-Ziba,151000,2570
+79,2,1,1,1,Persian Gulf Martyrs Lake,83333.33,2571
+90,2,1,1,1,Shahrake Qods,32666.67,2572
+128,2,0,1,0,Parand,31666.67,2573
+75,2,1,1,1,Southern Janatabad,76666.67,2574
+94,2,1,1,1,Taslihat,88333.33,2575
+106,2,1,1,1,Pakdasht,30000,2576
+72,2,1,1,1,Punak,76666.67,2577
+208,2,1,1,0,Persian Gulf Martyrs Lake,383333.33,2578
+126,3,1,1,1,Zafar,255866.67,2579
+105,2,1,1,0,Rudhen,36666.67,2580
+216,4,1,1,0,Andisheh,190000,2581
+92,2,0,1,1,Kazemabad,100000,2582
+80,2,1,1,1,Si Metri Ji,47000,2583
+130,1,1,1,0,Damavand,283333.33,2584
+300,4,1,1,1,Tajrish,300000,2585
+73,2,1,1,1,Persian Gulf Martyrs Lake,73333.33,2586
+100,2,0,1,1,Shahedshahr,23333.33,2587
+80,2,1,1,0,Islamshahr,36666.67,2588
+105,2,1,1,1,Feiz Garden,151666.67,2589
+59,1,1,1,1,Narmak,70000,2590
+41,1,1,1,0,Si Metri Ji,26000,2591
+85,2,1,1,1,Zafar,166666.67,2592
+66,1,0,1,0,Shahran,61666.67,2593
+90,2,1,1,1,Ekhtiarieh,200000,2594
+78,2,0,0,1,Parand,13500,2595
+113,2,1,1,0,Islamshahr,50666.67,2596
+88,2,1,1,1,Central Janatabad,133333.33,2597
+96,2,0,0,0,Haft Tir,95000,2598
+180,5,1,1,0,Shahrake Gharb,960000,2599
+59,2,0,1,0,Karoon,35666.67,2600
+58,2,0,1,1,Qasr-od-Dasht,42333.33,2601
+46,1,0,1,0,Jeyhoon,33766.67,2602
+67,1,1,1,1,Shams Abad,86666.67,2603
+57,2,0,0,0,Salsabil,36333.33,2604
+95,2,1,1,1,Central Janatabad,133333.33,2605
+73,1,1,1,1,Pakdasht,16000,2606
+87,2,1,1,1,Pardis,21933.33,2607
+122,4,1,0,1,Keshavarz Boulevard,80666.67,2608
+50,1,0,0,0,Karoon,33333.33,2609
+62,1,0,0,0,Karoon,34000,2610
+86,2,1,1,1,Pasdaran,180000,2611
+53,1,0,0,0,Jeyhoon,30000,2612
+100,2,1,1,1,Persian Gulf Martyrs Lake,14500,2613
+55,1,1,1,0,Robat Karim,10166.67,2614
+58,1,0,0,1,Parand,10166.67,2615
+78,2,1,1,0,Islamshahr,33333.33,2616
+145,3,1,1,1,Elahieh,338333.33,2617
+110,2,1,1,1,Yousef Abad,200000,2618
+64,1,1,1,1,Robat Karim,11666.67,2619
+86,2,0,1,0,East Pars,40133.33,2620
+75,2,0,0,0,Damavand,17333.33,2621
+110,2,1,1,1,Feiz Garden,151666.67,2622
+71,2,0,0,0,West Ferdows Boulevard,66666.67,2623
+90,2,1,1,1,Southern Janatabad,125000,2624
+63,1,1,0,1,Pirouzi,71766.67,2625
+50,0,1,1,1,Northern Chitgar,11500,2626
+85,2,1,0,1,Pardis,24333.33,2627
+83,2,1,1,1,Pasdaran,156666.67,2628
+175,3,1,1,1,Elahieh,583333.33,2629
+57,1,1,1,1,Pasdaran,123333.33,2630
+66,2,0,0,0,Feiz Garden,58333.33,2631
+74,2,1,1,1,Shahran,79666.67,2632
+45,1,1,0,1,Ray - Pilgosh,33000,2633
+78,2,1,1,1,Ekhtiarieh,156666.67,2634
+75,2,0,1,1,Parand,9333.33,2635
+103,2,1,1,1,Islamshahr,48066.67,2636
+61,1,0,0,0,Feiz Garden,60000,2637
+124,3,1,1,1,Shahr-e-Ziba,130000,2638
+62,1,0,0,0,Damavand,23666.67,2639
+110,2,1,1,1,Gholhak,233333.33,2640
+180,3,1,1,1,Pasdaran,433333.33,2641
+40,1,1,1,0,Andisheh,8666.67,2642
+95,2,1,1,1,Republic,48333.33,2643
+104,2,1,1,0,Tehran Now,73333.33,2644
+37,1,1,1,0,Andisheh,11500,2645
+60,1,1,1,0,Shahryar,20000,2646
+69,2,1,1,1,Shahran,86666.67,2647
+700,3,1,1,0,Damavand,233333.33,2648
+60,1,1,1,1,Northern Chitgar,29166.67,2649
+95,2,1,0,1,Niavaran,300000,2650
+51,1,1,1,0,Andisheh,22333.33,2651
+106,2,1,1,1,Zargandeh,186666.67,2652
+100,2,1,1,1,Narmak,106666.67,2653
+80,2,1,1,1,Koohsar,80000,2654
+78,2,1,1,1,Ghiyamdasht,21333.33,2655
+90,2,1,1,1,Damavand,45000,2656
+95,2,0,1,1,Saadat Abad,316666.67,2657
+86,3,0,1,1,Parand,11000,2658
+65,1,1,1,1,Golestan,12000,2659
+102,1,0,1,0,Islamshahr,55000,2660
+75,2,1,1,1,Southern Janatabad,90000,2661
+150,5,1,1,0,Shahr-e-Ziba,356666.67,2662
+60,1,1,1,1,Parand,13000,2663
+72,1,1,1,1,Elahieh,275000,2664
+93,2,0,0,0,Pirouzi,183333.33,2665
+106,2,1,1,1,Gholhak,213333.33,2666
+48,1,0,1,0,Shahedshahr,7000,2667
+75,2,1,1,0,Southern Janatabad,70000,2668
+163,2,1,1,1,Farmanieh,326000,2669
+138,3,1,1,1,Kahrizak,41400,2670
+119,2,1,1,1,Shahran,133333.33,2671
+65,2,1,1,1,Abazar,83333.33,2672
+57,1,0,0,1,Pakdasht,15000,2673
+74,2,0,1,1,Telecommunication,26000,2674
+119,3,1,1,1,Shahran,183333.33,2675
+75,2,0,1,1,Parand,9333.33,2676
+68,1,0,0,0,Islamshahr,27166.67,2677
+180,4,1,1,1,Northern Chitgar,90666.67,2678
+70,1,1,1,1,Hakimiyeh,77000,2679
+58,1,0,0,0,Parand,8500,2680
+60,1,1,1,1,Qasr-od-Dasht,66166.67,2681
+88,2,0,1,0,Air force,83333.33,2682
+82,2,1,1,1,Shahran,93333.33,2683
+63,1,1,1,1,Ray,37800,2684
+120,3,1,1,1,Northern Chitgar,58333.33,2685
+56,1,0,0,0,Republic,63333.33,2686
+75,2,1,0,1,Saadat Abad,128333.33,2687
+60,1,0,1,0,Golestan,14000,2688
+50,2,1,1,1,Persian Gulf Martyrs Lake,11000,2689
+253,5,1,1,0,North Program Organization,1012000,2690
+111,2,1,1,1,East Ferdows Boulevard,133000,2691
+105,3,1,1,1,North Program Organization,199500,2692
+92,1,1,1,1,Niavaran,210000,2693
+350,4,1,1,1,Gheitarieh,1166666.67,2694
+100,2,1,1,1,Mirza Shirazi,136666.67,2695
+150,3,1,1,1,Northern Chitgar,74666.67,2696
+94,2,0,1,0,Northren Jamalzadeh,80000,2697
+140,3,1,1,1,Northren Jamalzadeh,223333.33,2698
+65,4,1,1,0,Yousef Abad,283333.33,2699
+84,2,1,1,1,Northren Jamalzadeh,86666.67,2700
+114,2,1,1,1,Mehran,228000,2701
+114,2,1,1,1,Northren Jamalzadeh,183333.33,2702
+40,1,1,0,1,Northren Jamalzadeh,50000,2703
+82,2,0,0,1,Parand,11766.67,2704
+87,2,1,1,1,Koohsar,78333.33,2705
+86,2,0,0,1,Parand,15666.67,2706
+500,5,1,1,0,Gandhi,2333333.33,2707
+61,1,0,1,0,Shahr-e-Ziba,49666.67,2708
+96,2,1,1,1,Shahr-e-Ziba,176000,2709
+90,2,1,1,1,Shahran,113333.33,2710
+135,3,1,1,1,Northren Jamalzadeh,200000,2711
+58,1,0,0,1,Parand,9833.33,2712
+114,2,1,1,1,Gholhak,251666.67,2713
+75,2,0,0,0,Parand,12666.67,2714
+90,2,1,1,1,Northren Jamalzadeh,115000,2715
+90,2,1,1,1,Shahr-e-Ziba,96666.67,2716
+90,2,1,1,1,Shahr-e-Ziba,96666.67,2717
+100,2,1,1,1,Narmak,126666.67,2718
+82,2,1,1,1,Si Metri Ji,53333.33,2719
+58,2,1,1,0,Andisheh,25133.33,2720
+70,2,1,1,1,Karimkhan,106666.67,2721
+110,0,1,1,1,Parand,3400,2722
+303,5,1,1,0,Argentina,1111000,2723
+83,2,0,0,1,Parand,16666.67,2724
+75,2,1,1,1,Parand,8333.33,2725
+114,2,1,1,1,Mehran,228000,2726
+60,2,1,1,0,Central Janatabad,70000,2727
+54,1,0,0,0,Parand,8666.67,2728
+75,2,1,1,1,Parand,13000,2730
+78,2,1,0,1,Parand,13333.33,2731
+78,2,0,0,1,Parand,13166.67,2732
+95,2,1,1,1,Marzdaran,136166.67,2733
+100,2,1,1,1,Ostad Moein,105000,2734
+75,2,0,1,1,Parand,13233.33,2735
+114,2,1,1,1,Seyed Khandan,228000,2736
+50,1,0,0,0,Malard,8333.33,2737
+75,2,1,0,1,Feiz Garden,90000,2738
+105,2,1,1,1,Afsarieh,80000,2739
+141,3,1,1,1,Shahrake Quds,70500,2740
+74,2,0,1,0,Pirouzi,53333.33,2741
+38,1,1,1,0,Fallah,21666.67,2742
+80,1,1,1,1,Gheitarieh,28333.33,2743
+102,2,1,1,1,Safadasht,31280,2744
+110,2,1,1,1,Niavaran,354666.67,2745
+98,2,0,0,0,Shahrake Qods,27666.67,2746
+57,1,1,1,1,Ostad Moein,53333.33,2747
+45,1,0,1,1,Si Metri Ji,29666.67,2748
+105,2,1,1,1,Jeyhoon,83333.33,2749
+135,2,1,1,0,Rudhen,116666.67,2750
+65,1,0,0,1,Saadat Abad,116333.33,2751
+88,2,0,1,1,Shahrake Quds,25000,2752
+110,2,1,1,1,West Ferdows Boulevard,168333.33,2753
+63,2,1,1,1,Northren Jamalzadeh,86666.67,2754
+94,2,0,1,0,Northren Jamalzadeh,80000,2755
+45,1,0,1,0,Karoon,29666.67,2756
+40,1,0,1,0,Azarbaijan,33333.33,2757
+100,2,0,0,0,Northren Jamalzadeh,120000,2758
+89,2,1,1,0,Amirabad,116666.67,2759
+65,2,1,1,0,Afsarieh,44333.33,2760
+125,2,1,1,1,Central Janatabad,208333.33,2761
+125,2,1,1,1,Central Janatabad,208333.33,2762
+136,3,1,1,1,Pasdaran,243333.33,2763
+150,3,1,1,1,Heravi,253333.33,2764
+55,1,0,1,0,West Ferdows Boulevard,52666.67,2765
+130,3,1,1,1,Seyed Khandan,281666.67,2766
+73,2,0,1,0,West Ferdows Boulevard,61333.33,2767
+85,2,1,1,1,Northren Jamalzadeh,120000,2768
+63,1,1,1,1,Ostad Moein,46000,2769
+100,2,1,1,1,Tajrish,190000,2770
+83,2,1,1,1,Ozgol,1833.33,2771
+110,3,1,1,1,Persian Gulf Martyrs Lake,105000,2772
+71,2,1,1,1,North Program Organization,72000,2773
+37,1,0,1,0,Hashemi,19000,2774
+68,1,1,1,1,Persian Gulf Martyrs Lake,70000,2775
+78,1,1,1,1,Persian Gulf Martyrs Lake,81666.67,2776
+105,2,1,1,1,Persian Gulf Martyrs Lake,108333.33,2777
+60,1,1,1,0,Punak,66666.67,2778
+113,2,1,1,1,Karimkhan,105666.67,2779
+300,5,1,1,0,Lavasan,833333.33,2780
+50,2,0,1,0,Jeyhoon,24333.33,2781
+60,1,0,1,0,Beryanak,27666.67,2782
+37,1,0,0,0,Ostad Moein,20666.67,2783
+33,1,0,1,0,Beryanak,18666.67,2784
+73,2,0,1,1,Jeyhoon,52666.67,2785
+59,1,0,1,0,Beryanak,29333.33,2786
+95,2,1,1,1,Qarchak,48333.33,2787
+75,2,0,0,0,Parand,10000,2788
+65,2,0,1,1,Ostad Moein,51666.67,2789
+52,1,0,1,0,Pirouzi,41666.67,2790
+105,2,1,1,0,Andisheh,36666.67,2791
+50,1,0,1,0,Ostad Moein,28333.33,2792
+74,2,1,1,1,Pirouzi,73333.33,2793
+132,3,1,0,1,Southern Suhrawardi,223333.33,2794
+104,2,1,1,1,Mehran,140000,2795
+50,1,0,0,0,Jeyhoon,23833.33,2796
+55,1,1,1,1,Komeil,36666.67,2797
+46,1,0,0,0,Komeil,23333.33,2798
+55,2,0,1,1,Beryanak,34000,2799
+108,2,1,1,0,Parand,38333.33,2800
+68,2,1,1,1,Ostad Moein,65666.67,2801
+130,2,1,1,1,Khademabad Garden,58500,2802
+40,1,0,1,0,Tenant,35000,2804
+63,1,0,0,1,Tenant,45000,2805
+140,3,1,1,1,Mirdamad,266666.67,2806
+42,1,1,1,1,Jeyhoon,30000,2807
+90,2,1,1,1,Tenant,105000,2808
+39,1,1,1,0,Andisheh,18333.33,2809
+55,2,1,1,1,Andisheh,15000,2810
+200,3,1,1,1,Shahrake Gharb,466666.67,2811
+98,2,1,1,1,Si Metri Ji,65000,2812
+71,2,1,1,0,Salsabil,39500,2813
+50,1,0,0,1,Tenant,41666.67,2814
+53,1,0,1,0,Tenant,37100,2815
+60,1,1,1,1,Punak,91666.67,2816
+160,3,1,1,1,Pakdasht,32666.67,2817
+63,2,1,0,1,Tenant,63000,2818
+96,2,1,1,1,Tenant,80000,2819
+90,2,1,1,1,Tenant,76666.67,2820
+120,3,1,1,1,Tenant,108000,2821
+100,2,1,1,1,Tenant,86666.67,2822
+80,2,1,1,1,Ostad Moein,81333.33,2823
+43,1,1,1,1,Tenant,40000,2824
+79,2,1,1,1,Tenant,97666.67,2825
+50,1,0,0,1,Tenant,40000,2826
+60,1,0,1,0,Tenant,37333.33,2827
+55,1,0,0,0,Tenant,47333.33,2828
+150,3,1,1,1,Dezashib,400000,2829
+55,1,1,1,1,Andisheh,15000,2830
+55,1,0,1,0,Tenant,38500,2831
+100,2,1,1,1,Tajrish,190000,2832
+60,1,1,1,0,Tenant,46666.67,2833
+96,2,1,1,1,Gisha,183333.33,2834
+112,2,1,1,1,Persian Gulf Martyrs Lake,110000,2835
+65,2,1,1,0,Andisheh,20000,2836
+100,2,1,1,1,Persian Gulf Martyrs Lake,35333.33,2837
+105,2,1,1,1,Yousef Abad,186666.67,2838
+125,3,1,0,0,Mirdamad,216666.67,2839
+48,1,1,1,0,Jeyhoon,33166.67,2840
+67,2,1,1,1,Hakimiyeh,72333.33,2841
+83,2,1,1,1,Farmanieh,206666.67,2842
+150,3,1,1,1,Pardis,130000,2843
+100,2,1,1,1,Ostad Moein,105000,2844
+111,3,1,1,1,Persian Gulf Martyrs Lake,105000,2845
+53,2,0,0,0,Tenant,36666.67,2846
+75,2,0,0,1,Parand,11666.67,2847
+92,2,1,1,1,Sabalan,76666.67,2848
+53,1,1,1,1,Jeyhoon,50000,2849
+47,1,0,1,0,Karoon,26666.67,2850
+330,3,1,1,1,Farmanieh,1540000,2851
+44,1,1,1,0,Jeyhoon,34666.67,2852
+80,2,1,1,1,Gheitarieh,200000,2853
+81,2,1,1,0,Valiasr,60000,2854
+117,3,1,1,1,Ostad Moein,122666.67,2855
+37,1,0,1,0,Azarbaijan,31666.67,2856
+82,2,1,1,1,Parand,12000,2857
+98,2,1,1,1,Si Metri Ji,65000,2858
+150,3,0,1,0,Zafar,200000,2859
+51,1,1,1,0,Hor Square,28616.67,2860
+95,2,1,1,1,Shahran,108333.33,2861
+63,1,1,1,1,Ostad Moein,42666.67,2862
+80,2,0,0,1,Parand,13000,2863
+133,3,1,1,1,Ekhtiarieh,280000,2864
+48,1,0,0,1,Fallah,23666.67,2865
+185,3,1,1,1,East Ferdows Boulevard,316666.67,2866
+62,1,1,1,1,Fallah,26866.67,2867
+75,2,1,0,1,Fallah,40000,2868
+48,1,0,0,1,Fallah,24666.67,2869
+57,1,1,1,1,Ostad Moein,53333.33,2870
+55,3,1,1,1,Hashemi,55000,2871
+48,1,1,1,1,Ostad Moein,45000,2872
+49,1,1,1,1,Si Metri Ji,30000,2873
+60,2,0,1,1,East Pars,46000,2874
+130,3,1,1,1,Persian Gulf Martyrs Lake,138333.33,2875
+70,2,1,0,1,Ray,60666.67,2876
+113,2,1,1,1,Persian Gulf Martyrs Lake,105666.67,2877
+80,2,1,1,1,Abazar,100000,2878
+93,2,1,1,0,Shahrake Quds,21666.67,2879
+60,1,1,1,1,Railway,29000,2880
+56,2,1,1,1,East Pars,51666.67,2881
+65,2,1,1,1,Central Janatabad,87333.33,2882
+68,2,0,1,1,Ostad Moein,44000,2883
+104,2,1,1,1,Si Metri Ji,61000,2884
+84,2,1,1,1,Central Janatabad,128333.33,2885
+72,2,1,1,0,West Ferdows Boulevard,66666.67,2886
+80,2,1,1,1,Shahrake Qods,29333.33,2887
+68,2,1,1,1,Ostad Moein,65666.67,2888
+44,1,1,1,0,Jeyhoon,35000,2889
+105,2,1,1,1,Persian Gulf Martyrs Lake,90000,2890
+124,3,1,1,1,Shahr-e-Ziba,132666.67,2891
+220,3,1,1,1,Niavaran,696666.67,2892
+83,2,1,1,1,West Ferdows Boulevard,88000,2893
+68,2,1,1,1,Ostad Moein,65666.67,2894
+115,2,1,1,1,West Ferdows Boulevard,163333.33,2895
+80,2,1,1,1,Ostad Moein,75000,2896
+66,1,0,1,0,Andisheh,25000,2897
+68,2,1,1,1,West Ferdows Boulevard,97666.67,2898
+60,2,1,1,1,West Ferdows Boulevard,85000,2899
+62,2,1,1,0,Punak,75000,2900
+57,1,1,1,1,Ostad Moein,53333.33,2901
+87,2,1,0,1,Parastar,83333.33,2902
+59,1,1,1,0,West Ferdows Boulevard,65000,2903
+55,1,1,1,1,East Pars,48333.33,2904
+101,2,1,1,1,Persian Gulf Martyrs Lake,175066.67,2905
+62,2,1,1,0,Shahran,70000,2906
+113,2,1,1,1,Pasdaran,282500,2907
+78,2,1,1,1,Keshavarz Boulevard,116666.67,2908
+66,1,1,1,0,Shahrake Quds,17333.33,2909
+38,1,0,1,0,Andisheh,10666.67,2910
+90,2,1,1,0,Yousef Abad,210000,2911
+45,1,0,0,0,Karoon,22666.67,2912
+72,2,1,1,1,Saadat Abad,133333.33,2913
+105,2,1,1,1,North Program Organization,163333.33,2914
+155,3,1,1,1,North Program Organization,170000,2915
+112,3,1,1,1,Abazar,143333.33,2916
+65,1,1,1,1,Hassan Abad,17000,2917
+40,1,1,1,1,East Pars,38166.67,2918
+140,3,1,1,1,Persian Gulf Martyrs Lake,126666.67,2919
+155,3,1,1,1,North Program Organization,176666.67,2920
+50,1,1,1,1,West Ferdows Boulevard,73333.33,2921
+45,1,0,1,0,Islamshahr,7266.67,2922
+68,1,1,1,1,Shahrake Gharb,166666.67,2923
+85,2,0,1,0,Islamshahr,14333.33,2924
+170,3,1,1,1,North Program Organization,266666.67,2925
+50,1,0,1,0,Islamshahr,8000,2926
+55,1,0,1,0,Islamshahr,11000,2927
+75,2,1,1,1,Saadat Abad,10500,2928
+96,3,1,0,1,Shahryar,38166.67,2929
+58,1,0,0,0,Parand,7833.33,2930
+43,1,0,1,0,Nawab,23333.33,2931
+58,1,0,0,0,Parand,8500,2932
+103,2,1,1,1,Feiz Garden,133333.33,2933
+70,1,1,1,1,Pasdaran,170000,2934
+150,3,1,1,1,Pasdaran,325000,2935
+65,1,0,1,0,Pakdasht,10666.67,2936
+140,2,0,1,1,Marzdaran,180000,2937
+79,2,0,1,1,Si Metri Ji,46666.67,2938
+97,2,0,0,1,Jeyhoon,76666.67,2939
+90,2,1,1,1,Marzdaran,207666.67,2940
+175,3,1,1,1,Waterfall,286666.67,2941
+90,2,1,1,1,Marzdaran,216666.67,2942
+58,1,1,1,0,Chidz,100000,2943
+100,2,1,1,1,Mahallati,176666.67,2944
+135,2,0,0,0,Seyed Khandan,126666.67,2945
+185,3,1,1,1,Ekhtiarieh,540000,2946
+50,1,0,1,0,Northern Janatabad,58166.67,2947
+85,2,1,1,1,Salsabil,66666.67,2948
+110,3,1,1,1,Abazar,141666.67,2949
+67,2,1,1,1,Central Janatabad,105000,2950
+190,3,1,1,1,East Ferdows Boulevard,316666.67,2951
+95,2,1,1,1,Yousef Abad,210000,2952
+55,1,1,1,0,Salsabil,35000,2953
+75,2,0,0,1,Parand,18333.33,2954
+87,2,1,1,1,Jeyhoon,62000,2955
+42,1,1,1,1,Jeyhoon,31000,2956
+80,1,1,1,1,Jordan,150000,2957
+102,2,1,1,1,Saadat Abad,166666.67,2958
+140,3,1,1,1,East Ferdows Boulevard,243333.33,2959
+120,2,1,1,1,Saadat Abad,200000,2960
+212,4,1,1,0,Farmanieh,1200000,2961
+62,2,1,1,0,Punak,70000,2962
+41,1,0,0,1,Si Metri Ji,26333.33,2963
+75,2,0,1,1,Jeyhoon,56666.67,2964
+57,1,1,1,1,Si Metri Ji,33000,2965
+50,1,1,1,1,Hashemi,50000,2966
+54,1,1,1,1,Punak,94000,2967
+133,3,1,1,1,Persian Gulf Martyrs Lake,250000,2968
+97,2,1,1,1,Shahrake Gharb,186666.67,2969
+165,3,1,1,1,Niavaran,588500,2970
+59,1,1,1,1,Qasr-od-Dasht,38333.33,2971
+60,2,1,1,0,Karoon,48333.33,2972
+135,2,1,1,1,Mirdamad,332333.33,2973
+60,1,0,1,0,Azarbaijan,24666.67,2974
+52,1,1,1,1,Niavaran,153333.33,2975
+65,1,1,1,1,Hashemi,51000,2976
+95,2,1,1,1,Shahran,105000,2977
+60,1,1,1,0,Northern Janatabad,76000,2978
+92,2,1,1,1,Parand,19666.67,2979
+83,2,1,1,1,Mirdamad,163333.33,2980
+72,2,1,1,0,Southern Janatabad,69666.67,2981
+122,3,1,1,1,Yousef Abad,200000,2982
+118,2,1,1,1,Shahrake Gharb,343333.33,2983
+120,2,1,1,1,Tehransar,116000,2984
+115,3,1,1,0,Gheitarieh,213333.33,2985
+102,2,1,1,1,Shahryar,40833.33,2986
+65,2,1,1,1,Shahran,80000,2987
+70,2,1,1,0,Punak,72333.33,2988
+66,2,1,1,1,Central Janatabad,87333.33,2989
+60,1,1,1,0,Punak,90000,2990
+46,1,1,1,0,Shahran,55000,2991
+180,3,1,1,1,Niavaran,533333.33,2992
+60,1,0,1,0,Keshavarz Boulevard,63333.33,2993
+145,3,1,1,1,Shahrake Qods,58000,2994
+63,1,1,1,1,Sadeghieh,54000,2995
+58,1,1,1,1,Jeyhoon,43333.33,2996
+83,2,1,1,1,Shahran,106666.67,2997
+136,3,1,1,1,Sadeghieh,171666.67,2998
+68,2,0,1,0,Pakdasht,17000,2999
+55,1,0,1,1,Tenant,46666.67,3000
+600,2,0,0,0,Damavand,133333.33,3001
+89,2,1,1,1,Shahr-e-Ziba,105000,3002
+101,2,1,1,1,Mirdamad,243333.33,3003
+85,2,1,1,1,Shahr-e-Ziba,99166.67,3004
+87,3,0,0,1,Parand,16266.67,3005
+73,1,1,1,1,West Pars,73333.33,3006
+145,3,1,1,1,Shahrake Qods,58000,3007
+98,2,1,1,1,Pardis,18333.33,3008
+90,2,1,1,1,Central Janatabad,120000,3009
+135,3,1,1,1,Gheitarieh,190000,3010
+105,2,1,1,1,Mirdamad,259000,3011
+90,2,1,1,0,Shahrake Azadi,33333.33,3012
+71,2,1,1,0,West Ferdows Boulevard,93333.33,3013
+75,2,1,1,1,Central Janatabad,110000,3014
+75,2,1,1,1,Parand,12833.33,3015
+79,2,1,1,1,Pardis,18333.33,3016
+345,4,1,1,1,Jordan,566666.67,3017
+90,2,1,1,1,Shahr-e-Ziba,108333.33,3018
+48,1,1,0,0,Fallah,26666.67,3019
+110,2,1,1,1,Niavaran,403333.33,3020
+82,2,1,1,1,Jeyhoon,63000,3021
+44,1,0,0,0,Northern Janatabad,55000,3022
+58,1,1,1,1,Southern Program Organization,83333.33,3023
+117,2,1,1,1,Shahrake Gharb,240000,3024
+96,2,1,1,1,Shahr-e-Ziba,100000,3025
+108,2,1,1,1,Shahr-e-Ziba,170000,3027
+134,2,1,1,1,Mehran,31333.33,3028
+70,2,1,1,1,East Ferdows Boulevard,72000,3029
+64,2,1,1,1,Punak,74666.67,3030
+56,3,0,1,0,Atabak,30000,3031
+57,1,0,1,0,Amir Bahador,326666.67,3032
+68,2,1,1,1,Southern Janatabad,73333.33,3033
+55,1,1,1,1,West Ferdows Boulevard,75000,3034
+43,1,0,1,1,Jeyhoon,30000,3035
+105,2,1,1,1,Shahran,126666.67,3036
+41,2,0,0,0,Salsabil,26333.33,3037
+78,2,1,1,1,Si Metri Ji,45000,3038
+110,2,1,1,1,Zafar,190000,3039
+92,2,1,1,1,Punak,136666.67,3040
+96,2,1,1,1,Gheitarieh,205833.33,3041
+108,2,1,1,1,Persian Gulf Martyrs Lake,116666.67,3042
+76,2,0,1,1,Si Metri Ji,45000,3043
+80,2,1,1,1,Heravi,143333.33,3044
+105,2,0,0,0,West Ferdows Boulevard,105000,3045
+75,1,0,1,0,Golestan,25000,3046
+56,2,1,1,0,Andisheh,17166.67,3047
+50,1,0,0,0,Azarbaijan,40000,3048
+40,1,1,1,0,Jeyhoon,27666.67,3049
+46,1,0,1,1,Jeyhoon,31333.33,3050
+93,2,1,1,1,Jeyhoon,86666.67,3051
+530,4,1,1,1,Dorous,2650000,3052
+98,2,1,1,1,Si Metri Ji,65000,3053
+62,1,1,1,0,Narmak,70000,3054
+100,2,1,1,0,Shahr-e-Ziba,126666.67,3055
+150,3,1,1,1,Persian Gulf Martyrs Lake,25500,3056
+270,4,1,1,0,Jordan,433333.33,3057
+50,1,0,1,0,Khavaran,23666.67,3058
+130,2,1,1,1,Pasdaran,316666.67,3059
+69,2,0,1,0,Salsabil,46666.67,3060
+66,1,0,1,0,Qarchak,20000,3061
+90,2,1,1,1,Northern Chitgar,23000,3062
+75,2,1,1,1,Heravi,153000,3063
+58,1,1,1,1,East Ferdows Boulevard,73333.33,3064
+300,3,1,1,0,Argentina,566666.67,3065
+97,2,1,0,1,Si Metri Ji,63333.33,3066
+98,2,0,1,0,Parand,25000,3067
+73,2,1,1,0,Parand,12500,3068
+35,1,1,1,0,Qasr-od-Dasht,33000,3069
+85,2,1,1,0,Ostad Moein,66666.67,3070
+105,2,1,1,1,West Ferdows Boulevard,116666.67,3071
+55,1,1,1,0,Southern Program Organization,68333.33,3072
+40,1,0,1,1,Komeil,27000,3073
+90,2,1,1,1,Southern Janatabad,125000,3074
+68,2,0,1,0,Ostad Moein,50000,3075
+44,1,1,1,1,Khavaran,21633.33,3076
+130,2,1,1,1,Velenjak,606666.67,3077
+68,2,0,0,1,Ostad Moein,44000,3078
+90,2,1,1,1,North Program Organization,158333.33,3079
+73,1,1,1,0,Shahrake Gharb,250000,3080
+64,2,0,1,0,Shahran,63333.33,3081
+82,2,1,1,1,Boloorsazi,53333.33,3082
+51,1,0,1,0,Salsabil,28333.33,3083
+43,1,0,1,1,Beryanak,24166.67,3084
+65,1,1,1,1,Punak,78000,3085
+68,1,0,0,0,Heravi,137166.67,3086
+65,2,1,0,1,Air force,58333.33,3087
+59,1,1,1,1,West Ferdows Boulevard,66666.67,3088
+155,3,1,1,1,Gheitarieh,433333.33,3089
+58,1,1,1,1,Punak,78333.33,3090
+72,2,0,0,0,Parand,12666.67,3091
+56,1,0,1,0,Khavaran,22266.67,3092
+90,2,1,1,1,Central Janatabad,118333.33,3093
+93,2,1,1,1,Shahran,96000,3094
+84,2,1,1,1,Shahran,80000,3095
+107,2,1,1,1,Parand,18333.33,3096
+150,3,1,1,1,Tajrish,425000,3097
+120,2,0,0,0,Mehrabad River River,86666.67,3098
+165,3,1,1,1,Gheitarieh,410000,3099
+87,2,1,0,1,Parand,18333.33,3100
+76,2,1,1,0,Shahran,66333.33,3101
+83,2,1,1,1,Shahran,99333.33,3102
+115,2,1,1,1,Central Janatabad,130000,3103
+115,2,1,1,1,Jordan,206666.67,3104
+85,2,1,0,1,Abuzar,90500,3105
+50,2,0,1,0,Komeil,24333.33,3106
+123,2,1,1,1,Yousef Abad,254333.33,3107
+630,0,0,0,0,Tajrish,2520000,3108
+115,2,1,0,1,Shahrake Qods,31666.67,3109
+47,1,0,1,0,Qasr-od-Dasht,26666.67,3110
+40,1,0,1,0,Salsabil,25000,3111
+250,3,1,1,1,Velenjak,1333333.33,3112
+85,2,0,1,1,Shahrake Qods,28333.33,3113
+80,2,1,1,1,Jeyhoon,74000,3114
+125,2,1,1,1,Gheitarieh,416666.67,3115
+750,5,1,1,0,Varamin - Beheshti,116666.67,3116
+85,2,0,0,1,Jeyhoon,62833.33,3117
+170,3,1,1,1,Mirdamad,393333.33,3118
+71,2,0,1,1,Shahrake Qods,17500,3119
+105,2,1,1,1,Shahrake Qods,30666.67,3120
+80,1,0,1,1,Shahrake Qods,19333.33,3121
+95,2,1,1,1,Shahrake Qods,31000,3122
+78,2,1,1,0,Water Organization,83333.33,3123
+110,2,1,1,1,Shahran,135666.67,3124
+71,2,1,1,1,East Ferdows Boulevard,98333.33,3125
+65,1,1,1,1,Saadat Abad,116333.33,3126
+88,2,1,1,1,Saadat Abad,173333.33,3127
+135,3,1,1,1,Saadat Abad,250000,3128
+50,1,1,1,0,Si Metri Ji,27000,3129
+42,1,0,1,0,Shoosh,30666.67,3130
+171,2,0,1,0,Elahieh,383333.33,3131
+120,3,1,1,1,Persian Gulf Martyrs Lake,58333.33,3132
+60,1,0,0,0,Shahr-e-Ziba,600000,3133
+45,1,0,1,0,Jeyhoon,26666.67,3134
+55,1,0,1,0,Salsabil,36666.67,3135
+72,2,0,1,0,Salsabil,45000,3136
+72,2,1,1,1,Ostad Moein,62000,3137
+100,2,1,1,1,Southern Janatabad,186666.67,3138
+63,1,1,1,1,Ostad Moein,46000,3139
+61,1,0,0,1,Ostad Moein,39333.33,3140
+253,4,1,1,1,Jordan,379500,3141
+90,2,1,1,1,Northern Chitgar,23000,3142
+72,2,1,1,1,Jeyhoon,61666.67,3143
+98,2,1,1,1,Shahran,136000,3144
+145,3,1,1,1,Vanak,263333.33,3145
+93,2,1,1,1,Saadat Abad,165000,3146
+125,3,1,1,1,Salsabil,116666.67,3147
+60,2,1,1,0,Azarbaijan,54000,3148
+120,2,1,1,1,Yousef Abad,240000,3149
+118,2,1,1,1,Northern Chitgar,10666.67,3150
+89,2,1,1,1,Punak,100000,3151
+62,1,1,1,1,Komeil,55666.67,3152
+80,2,1,1,1,North Program Organization,98333.33,3153
+77,2,0,1,1,Azarbaijan,60000,3154
+72,2,0,0,0,Andisheh,31666.67,3155
+80,2,1,1,1,East Ferdows Boulevard,99333.33,3156
+62,1,1,1,1,Northern Chitgar,29166.67,3157
+115,2,1,1,1,Saadat Abad,200000,3158
+94,2,0,1,0,Fatemi,103333.33,3159
+91,2,1,1,1,Parand,15500,3160
+74,2,1,1,1,Amirieh,56666.67,3161
+92,2,1,1,1,Shahran,106666.67,3162
+71,1,1,1,1,Shahran,76666.67,3163
+92,2,1,1,1,Shahr-e-Ziba,110000,3164
+42,1,1,0,1,Shahran,58666.67,3165
+63,2,0,1,1,Taslihat,60000,3166
+90,2,1,1,1,Sadeghieh,110000,3167
+140,3,1,1,1,Kook,59733.33,3168
+63,1,1,0,1,Thirteen November,26666.67,3169
+81,2,1,1,1,West Ferdows Boulevard,113333.33,3170
+55,1,1,1,1,West Ferdows Boulevard,71666.67,3171
+98,2,1,1,1,Zargandeh,193333.33,3172
+84,2,1,1,1,Shahran,80333.33,3173
+92,2,1,1,1,Shahran,96666.67,3174
+86,2,1,1,1,Shahedshahr,14033.33,3175
+56,1,1,1,1,Shahran,63000,3176
+90,2,1,1,1,Northern Chitgar,43833.33,3178
+48,1,0,0,0,Hashemi,31666.67,3179
+80,2,1,1,1,Punak,93333.33,3180
+120,2,1,1,1,Railway,51200,3181
+39,1,1,0,1,Ostad Moein,39000,3182
+80,2,1,1,1,Jeyhoon,70000,3183
+190,3,1,1,1,Niavaran,506666.67,3184
+210,3,1,1,1,Kamranieh,1152000,3185
+90,2,1,1,1,Central Janatabad,119666.67,3186
+75,2,0,0,1,Parand,13266.67,3187
+67,1,1,1,0,Punak,71666.67,3188
+72,2,1,1,1,Darakeh,96666.67,3189
+93,2,1,1,1,Persian Gulf Martyrs Lake,76666.67,3190
+119,2,1,1,1,West Ferdows Boulevard,165000,3191
+62,2,1,1,1,Punak,73333.33,3192
+65,1,1,1,1,Shahran,62666.67,3193
+320,5,0,0,0,Sattarkhan,933333.33,3194
+145,5,0,0,0,Jeyhoon,166666.67,3195
+75,2,0,0,0,Parand,13166.67,3196
+73,2,1,1,0,Aliabad South,28333.33,3197
+62,2,0,1,0,Punak,76666.67,3198
+149,3,1,1,1,Parand,70000,3199
+68,2,0,1,1,Punak,68333.33,3200
+75,2,1,1,0,West Ferdows Boulevard,82666.67,3201
+133,5,0,0,0,Jeyhoon,156666.67,3202
+63,2,1,1,0,Punak,62666.67,3203
+58,1,1,1,1,Pirouzi,16666.67,3204
+67,1,1,1,1,Jordan,223333.33,3205
+70,1,1,1,1,Shahran,75666.67,3206
+135,3,1,1,1,Niavaran,300000,3207
+122,4,1,0,1,Amirabad,80000,3208
+80,2,1,1,1,Shahran,86333.33,3209
+55,1,1,1,1,Punak,91666.67,3210
+86,2,1,1,0,Shahran,103333.33,3211
+30,0,0,1,0,Ostad Moein,16666.67,3212
+88,2,1,1,1,Southern Janatabad,150000,3213
+220,3,1,1,1,Jordan,450000,3214
+102,2,1,1,0,ShahrAra,98333.33,3215
+97,2,1,1,1,Gheitarieh,200000,3216
+150,3,1,1,1,Yousef Abad,366666.67,3217
+64,1,1,1,0,Alborz Complex,21500,3218
+62,2,0,1,0,Punak,76666.67,3219
+100,2,1,1,1,Shahran,140000,3220
+97,2,1,1,1,Shahran,110000,3221
+80,2,1,1,1,Shahran,131666.67,3222
+53,1,0,1,1,Narmak,76666.67,3223
+68,2,1,1,1,Ostad Moein,56000,3224
+105,2,1,1,0,Fatemi,143333.33,3225
+70,2,1,1,0,Punak,76666.67,3226
+86,2,1,1,1,Central Janatabad,143333.33,3227
+62,1,0,1,0,Beryanak,22733.33,3228
+40,2,0,0,0,Salsabil,27666.67,3229
+57,1,1,0,1,Karoon,56666.67,3230
+140,3,1,1,1,Jordan,256666.67,3231
+40,1,0,1,0,Qasr-od-Dasht,26333.33,3232
+35,1,1,1,0,Salsabil,26000,3233
+112,2,1,1,1,Gheitarieh,287000,3234
+140,3,1,1,1,Saadat Abad,266666.67,3235
+48,1,0,0,1,Eskandari,42666.67,3236
+70,2,1,1,1,Punak,93333.33,3237
+175,3,1,1,1,Kamranieh,566666.67,3238
+135,2,1,1,1,Ekhtiarieh,270000,3239
+45,1,0,1,0,Karoon,29333.33,3240
+50,1,1,1,0,Azarbaijan,41666.67,3241
+61,1,1,1,1,Central Janatabad,66666.67,3242
+47,1,1,1,0,Salsabil,35000,3243
+210,3,1,1,1,Farmanieh,1120000,3244
+82,2,0,0,1,Parand,15166.67,3245
+72,2,0,0,0,Pirouzi,79200,3246
+65,2,0,1,0,Feiz Garden,63333.33,3247
+44,1,0,1,0,Jeyhoon,31500,3248
+58,1,0,1,0,Azarbaijan,42333.33,3249
+127,2,1,1,1,Shahryar,83333.33,3250
+124,3,1,1,1,Gheitarieh,256666.67,3251
+65,2,1,1,1,Shahran,78333.33,3252
+110,2,1,1,1,Gheitarieh,288666.67,3253
+200,4,1,1,1,Niavaran,500000,3254
+240,3,1,1,0,Elahieh,1152000,3255
+75,2,0,0,1,Parand,11000,3256
+130,1,1,1,1,Ostad Moein,42666.67,3257
+72,2,0,0,0,Pishva,10000,3258
+101,2,1,1,1,Jordan,173333.33,3259
+82,2,1,1,1,Punak,110000,3260
+150,3,1,1,0,Elahieh,392000,3261
+48,1,0,0,0,Beryanak,24666.67,3262
+106,2,1,1,1,Farmanieh,148333.33,3264
+205,3,1,1,1,Farmanieh,666666.67,3265
+125,2,1,1,1,Gheitarieh,37500,3266
+85,2,1,1,1,Shahr-e-Ziba,96666.67,3267
+220,4,1,1,0,Azarbaijan,500000,3268
+104,2,0,0,0,Shahran,136000,3269
+99,2,1,1,1,Shahran,130000,3270
+165,3,1,1,1,Shahrake Gharb,605000,3271
+98,2,1,1,1,Pardis,21666.67,3272
+71,2,0,1,1,Shahr-e-Ziba,71666.67,3273
+104,2,1,1,1,Persian Gulf Martyrs Lake,116666.67,3274
+102,2,1,1,1,Shahran,133333.33,3275
+112,2,1,1,1,Shahran,180000,3276
+80,1,0,1,0,Shahrake Qods,18333.33,3277
+69,2,1,1,1,Jeyhoon,56666.67,3278
+135,3,1,1,1,Saadat Abad,300000,3279
+44,1,0,1,0,Qasr-od-Dasht,33333.33,3280
+80,2,1,1,0,Shahr-e-Ziba,82666.67,3281
+80,2,1,1,1,Persian Gulf Martyrs Lake,25000,3282
+60,1,0,0,0,Parand,10000,3283
+60,1,0,0,0,Parand,10000,3284
+108,2,1,1,1,Saadat Abad,286666.67,3285
+150,2,1,1,1,Mirdamad,273333.33,3286
+78,2,0,0,0,Parand,26000,3287
+77,2,1,1,0,Firoozkooh,15666.67,3288
+160,5,1,1,0,Yousef Abad,600000,3289
+106,2,1,1,1,Golestan,78000,3290
+135,3,1,1,1,West Pars,186666.67,3291
+102,3,0,0,1,Amirabad,143333.33,3292
+68,2,1,1,1,Punak,71666.67,3293
+136,3,1,1,1,Saadat Abad,366666.67,3294
+77,2,1,1,1,Jeyhoon,56000,3295
+84,2,0,1,1,Vahidiyeh,19600,3297
+69,1,1,1,1,Shadabad,29666.67,3298
+55,1,1,1,1,Andisheh,26583.33,3299
+94,2,1,1,1,West Ferdows Boulevard,136666.67,3300
+120,3,1,1,1,Persian Gulf Martyrs Lake,9833.33,3301
+90,2,1,1,1,Persian Gulf Martyrs Lake,9666.67,3302
+60,1,1,1,1,Persian Gulf Martyrs Lake,9833.33,3303
+54,1,0,1,0,Beryanak,25333.33,3304
+144,3,1,1,1,Gheitarieh,241666.67,3305
+80,2,0,0,0,Parand,12666.67,3306
+110,3,1,1,1,Ozgol,218333.33,3307
+55,2,0,1,0,Yousef Abad,71666.67,3308
+65,2,0,1,0,Punak,63333.33,3309
+60,2,1,1,1,Salsabil,50666.67,3310
+69,2,1,1,0,Andisheh,32666.67,3311
+180,4,1,1,1,Persian Gulf Martyrs Lake,90666.67,3312
+180,2,1,1,0,Parand,70000,3313
+110,3,1,1,1,Ozgol,218333.33,3314
+130,2,0,1,0,Narmak,210000,3315
+82,2,1,1,1,Gheitarieh,233333.33,3317
+128,3,1,1,1,Gheitarieh,306666.67,3318
+85,2,1,1,1,Farmanieh,203333.33,3320
+68,1,1,0,1,Ahang,46666.67,3321
+110,3,1,1,1,West Pars,218333.33,3322
+94,2,0,0,1,Parand,22666.67,3323
+42,1,0,0,0,Naziabad,21333.33,3324
+63,1,1,1,1,Punak,73333.33,3325
+62,1,0,0,1,Parand,11666.67,3326
+155,3,1,1,1,Jordan,465000,3327
+65,2,1,1,1,Afsarieh,51666.67,3328
+138,3,1,1,1,Jordan,316666.67,3329
+135,3,1,1,1,Azarbaijan,114666.67,3330
+135,3,1,1,1,Azarbaijan,114666.67,3331
+71,1,0,1,1,Pardis,18000,3332
+175,3,1,1,1,Kook,350000,3333
+145,3,1,1,1,Shahrake Gharb,350000,3334
+285,4,1,1,1,Shahrake Gharb,950000,3335
+125,3,1,1,1,Shahrake Gharb,375000,3336
+115,2,1,1,1,Shahrake Gharb,400000,3337
+59,1,1,1,1,Andisheh,23600,3338
+89,3,1,1,1,Parand,14333.33,3339
+78,2,1,0,1,Jeyhoon,75000,3340
+65,1,1,1,1,Parand,11333.33,3341
+78,2,1,1,1,Parand,16000,3342
+82,2,1,1,1,Central Janatabad,100000,3343
+125,2,0,1,0,Gheitarieh,51666.67,3344
+60,2,0,1,1,Vahidieh,42666.67,3345
+57,2,0,1,0,Salsabil,40000,3346
+66,2,0,1,0,Afsarieh,37333.33,3347
+80,2,1,1,1,West Ferdows Boulevard,100000,3348
+46,1,1,1,1,Shahran,56666.67,3349
+80,2,1,1,1,East Ferdows Boulevard,100000,3350
+73,2,1,1,1,Southern Janatabad,102000,3351
+115,2,0,0,0,Northern Janatabad,172500,3352
+65,2,1,1,0,West Pars,65000,3353
+72,2,1,1,1,Southern Janatabad,85000,3354
+80,2,1,1,1,Southern Janatabad,100000,3355
+80,2,1,1,1,Central Janatabad,100000,3357
+97,2,1,1,1,Narmak,133333.33,3358
+150,3,1,1,1,Niavaran,366666.67,3359
+175,3,1,1,1,ShahrAra,260000,3360
+74,1,0,1,1,Parand,16000,3361
+157,3,1,1,1,Marzdaran,340000,3362
+92,2,1,1,1,Feiz Garden,111666.67,3363
+190,3,1,1,1,Pasdaran,411666.67,3364
+110,2,1,1,1,Pasdaran,293333.33,3365
+50,1,0,1,0,Pirouzi,36666.67,3366
+197,3,1,1,1,Marzdaran,518766.67,3367
+107,2,1,1,1,Chidz,286666.67,3368
+78,2,1,1,1,Farmanieh,240000,3369
+46,1,1,1,1,Central Janatabad,65000,3370
+112,2,1,1,1,Mahmoudieh,280000,3371
+60,1,0,1,0,Tehran Now,50000,3372
+128,3,1,1,1,Marzdaran,223333.33,3373
+193,3,1,1,1,Kook,433333.33,3374
+120,2,1,1,1,Niavaran,300000,3375
+115,2,1,1,1,Ghoba,271666.67,3376
+95,2,1,1,1,Southern Janatabad,110000,3377
+92,2,1,1,1,Central Janatabad,113333.33,3378
+71,2,1,1,0,West Ferdows Boulevard,66666.67,3379
+95,2,1,1,1,Damavand,58333.33,3380
+40,1,0,1,0,Salsabil,21000,3381
+52,1,1,1,1,Punak,78666.67,3382
+84,2,1,1,1,Salsabil,63333.33,3383
+80,2,1,1,1,Amirieh,60000,3384
+58,1,0,1,0,Salsabil,23833.33,3385
+68,2,1,1,1,Shahran,75666.67,3386
+90,2,1,1,1,Southern Janatabad,111666.67,3387
+65,1,0,1,0,Republic,46666.67,3388
+200,2,0,0,0,Rudhen,95000,3389
+72,2,1,1,1,Amirieh,55666.67,3390
+80,2,1,1,1,Qasr-od-Dasht,60000,3391
+71,2,1,1,1,Amirieh,55000,3392
+86,2,1,1,1,Amirieh,66000,3393
+75,2,0,1,1,Parand,11500,3394
+54,1,1,1,1,West Ferdows Boulevard,750000,3395
+60,1,1,1,1,Shahr-e-Ziba,65333.33,3396
+105,3,1,1,1,East Ferdows Boulevard,194333.33,3397
+72,2,1,1,1,Abazar,111666.67,3398
+186,3,1,1,1,Pasdaran,310000,3399
+110,2,1,1,1,Heravi,201666.67,3400
+90,2,1,1,1,Southern Janatabad,111666.67,3401
+84,2,1,1,1,Islamshahr,28500,3403
+53,1,0,0,0,Kahrizak,15000,3404
+63,3,0,1,0,Javadiyeh,48333.33,3405
+53,1,0,1,0,Shahran,49000,3406
+105,2,1,1,1,Southern Janatabad,116666.67,3407
+100,2,1,1,1,Saadat Abad,151666.67,3408
+93,2,1,1,1,Saadat Abad,130000,3409
+83,3,0,0,0,Atabak,42883.33,3410
+135,3,1,1,1,Saadat Abad,250000,3411
+65,1,0,0,1,Saadat Abad,116333.33,3412
+100,2,1,1,1,Saadat Abad,149333.33,3413
+80,2,0,0,0,Damavand,25000,3414
+90,2,1,1,1,Saadat Abad,175000,3415
+73,2,1,1,1,Central Janatabad,63333.33,3416
+82,2,1,1,1,Shahran,120000,3417
+148,3,1,1,1,Yousef Abad,271333.33,3418
+90,2,1,0,1,Shahran,105000,3419
+112,2,1,1,1,Darabad,233333.33,3420
+45,1,0,0,1,Si Metri Ji,296666.67,3421
+70,2,1,1,0,Narmak,61666.67,3422
+107,2,1,1,1,Mirdamad,253233.33,3423
+37,1,1,1,1,Tehransar,39333.33,3424
+65,1,1,1,1,Jeyhoon,57500,3425
+76,2,1,1,1,Shahr-e-Ziba,95000,3426
+66,2,0,1,0,Yakhchiabad,33333.33,3427
+130,3,1,1,1,Persian Gulf Martyrs Lake,28833.33,3428
+63,3,1,1,0,Shoosh,40000,3429
+75,2,0,1,0,Shahrake Quds,16666.67,3430
+52,1,1,0,0,Jeyhoon,40000,3431
+86,3,0,1,1,Parand,9166.67,3432
+58,1,0,0,1,Parand,8200,3433
+76,2,1,1,1,West Ferdows Boulevard,86666.67,3434
+54,0,0,0,0,Shahrake Qods,15666.67,3436
+140,3,1,1,1,Daryan No,210000,3437
+74,2,0,0,1,Parand,10433.33,3438
+186,3,1,1,1,Velenjak,500000,3439
+140,3,1,1,1,Mehran,280000,3440
+114,2,1,1,1,Persian Gulf Martyrs Lake,133333.33,3441
+51,1,0,0,1,Ostad Moein,36666.67,3442
+180,3,1,1,1,Kamranieh,466666.67,3443
+70,1,1,1,1,Punak,116666.67,3444
+120,3,1,1,1,Sattarkhan,180000,3445
+137,3,1,1,1,Punak,228333.33,3446
+92,2,1,1,1,Shahran,107333.33,3447
+45,1,1,1,0,West Ferdows Boulevard,55000,3448
+68,2,0,1,1,Waterfall,33333.33,3449
+80,2,1,1,1,Punak,125333.33,3450
+85,2,0,1,1,Central Janatabad,106666.67,3451
+88,2,1,1,1,Central Janatabad,133333.33,3452
+118,2,1,1,1,Mehran,236000,3453
+180,3,1,1,0,Marzdaran,360000,3454
+60,1,1,1,0,West Ferdows Boulevard,62000,3455
+80,2,0,1,1,Shahryar,13666.67,3456
+86,2,0,1,0,Vahidiyeh,17333.33,3457
+123,3,1,1,1,Velenjak,416666.67,3458
+148,3,1,1,1,Daryan No,200000,3459
+80,2,1,1,1,Ostad Moein,75000,3460
+58,1,0,0,1,Parand,10833.33,3461
+55,1,1,1,1,Punak,76666.67,3462
+60,1,1,1,1,West Ferdows Boulevard,65000,3463
+133,3,1,0,1,Shahrake Gharb,333333.33,3464
+94,2,0,1,1,Damavand,19833.33,3465
+68,2,0,1,1,Beryanak,41933.33,3466
+61,2,0,1,0,Andisheh,15333.33,3467
+75,2,1,1,1,West Ferdows Boulevard,88333.33,3468
+81,2,1,1,1,West Ferdows Boulevard,148500,3469
+74,2,1,1,1,Mehran,135666.67,3470
+97,2,1,1,1,Shahran,90000,3471
+94,2,1,1,1,Niavaran,281666.67,3472
+113,3,1,1,1,Ostad Moein,105666.67,3473
+63,1,1,1,0,Feiz Garden,63000,3474
+86,2,1,1,1,Southern Janatabad,116666.67,3475
+83,2,1,1,1,Niavaran,226666.67,3476
+75,2,0,0,0,Parand,12166.67,3477
+105,2,1,1,1,Dorous,186666.67,3478
+82,2,0,1,1,Parand,12000,3479
